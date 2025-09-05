@@ -1,7 +1,6 @@
 version=1
-id=3559529559
+id=3562434442
 title=Check the papers
-description=This mod check the papers
-description=
-description=
-visibility=public
+description=Check the papers
+tags=Build 42
+visibility=friendsOnly
