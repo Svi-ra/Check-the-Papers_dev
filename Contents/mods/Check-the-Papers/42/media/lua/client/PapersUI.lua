@@ -31,7 +31,7 @@ function PaperUI:renderBackground()
 end
 
 function ShowPaperUI()
-    local w, h = 775, 456
+    local w, h = 1024, 700
     local ui = PaperUI:new(
         (getCore():getScreenWidth() - w) / 2,
         (getCore():getScreenHeight() - h) / 2,
