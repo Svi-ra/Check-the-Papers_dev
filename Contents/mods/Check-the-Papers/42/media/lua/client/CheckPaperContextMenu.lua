@@ -10,7 +10,9 @@ local function onFillInventoryObjectContextMenu(player, context, items)
         if not instanceof(item, "InventoryItem") then
             item = item.items[1]
         end
-        if item:getFullType() == "Base.IDcard" then
+        if item:getFullType() == "Base.IDcard"
+            or item:getFullType() == "Base.IDcard_Female"
+            or item:getFullType() == "Base.IDcard_Male" then
             context:addOption("Show ID card", item, function(_, itemRef)
                 local playerObj = getSpecificPlayer(player)
                 CheckPaperPlayAction.transferIfNeeded(playerObj, item)

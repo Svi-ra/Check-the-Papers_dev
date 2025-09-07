@@ -25,7 +25,19 @@ function CheckPaperPlayAction:start()
     self:setActionAnim("Read")
     self:setAnimVariable("ReadType", "newspaper")
     -- ouvre l’UI
-    self.paperUI = ShowPaperUI(self.item)
+
+    
+    local sex
+    
+    if self.item:getFullType() == "Base.IDcard_Female" then
+        sex = "F"
+    elseif self.item:getFullType() == "Base.IDcard_male" then
+        sex = "M"
+    elseif self.item:getFullType() == "Base.IDcard" then
+        sex = getPlayer():getDescriptor():isFemale() and "F" or "M"
+    end
+
+    self.paperUI = ShowPaperUI(self.item, sex)
     self:setOverrideHandModels(nil, self.item)
 end
 
