@@ -124,8 +124,16 @@ function IDCardData:getExpireDate()
     return month .. "-" .. string.format("%02d", year % 100)
 end
 
+local function randomLicenseType()
+    local licensetypes = {"OPERATORS","CHAUFFEUR","MOTORCYCLE"}
+    local licensetype = licensetypes[ZombRand(#licensetypes) + 1]
+    return licensetype
+end
+
 function IDCardData:getLicenseType()
-    return "Class D"
+    local licensetype = randomLicenseType()
+    --self._LicenseType = licensetype
+    return licensetype
 end
 
 function IDCardData:getDateOfBirth()
@@ -146,7 +154,7 @@ function IDCardData:getSecurityNumber()
 end
 
 local function randomRestrictions()
-    local restrictions = {"NONE","C L","H A"}
+    local restrictions = {"NONE","C/L","H/A"}
     local restriction = restrictions[ZombRand(#restrictions) + 1]
     return restriction
 end
