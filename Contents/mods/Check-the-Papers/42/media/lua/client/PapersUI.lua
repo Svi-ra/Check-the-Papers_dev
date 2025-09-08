@@ -31,15 +31,19 @@ function PaperUI:render()
     self:renderBackground()
 
     local xFirstName = 66
-    local yFirstLine = 100
+    local yFirstLine = 60
     local font = UIFont.Title
 
     self:drawText(string.upper(self.firstname), xFirstName, yFirstLine, 0, 0, 0, 1, font)
     self:drawText(string.upper(self.lastname), 595, yFirstLine, 0, 0, 0, 1, font)
 
+     --County
+     self:drawText(tostring(self.data.county),
+         620, 120, 0, 0, 0, 1, font)
+
     -- Coordonnées de départ pour les infos
     local xLabel = 16
-    local yStart = 250
+    local yStart = 220
     local lineSpacing = 89
 
         -- Ligne 1 : Licence Number
@@ -66,14 +70,14 @@ function PaperUI:render()
         self:drawText(tostring(self.data.sex),
             xLabel + 355, yStart + (lineSpacing * 3), 0, 0, 0, 1, font)
         self:drawText(tostring(self.data.height),
-            xLabel + 400, yStart + (lineSpacing * 3), 0, 0, 0, 1, font)
+            xLabel + 430, yStart + (lineSpacing * 3), 0, 0, 0, 1, font)
 
 
     if self.headTexture then
-        local x = 565
-        local y = 215
-        local width = 450
-        local height = 450
+        local x = 562
+        local y = 185
+        local width = 461
+        local height = 459
         self:drawTextureScaled(self.headTexture, x, y, width, height, 1.0)
     end
 end
@@ -87,7 +91,7 @@ end
 
 function ShowPaperUI(item, sex)
 
-    local w, h = 1024, 700
+    local w, h = 1024, 660
     local ui = PaperUI:new(
         (getCore():getScreenWidth() - w) / 2,
         (getCore():getScreenHeight() - h) / 2,

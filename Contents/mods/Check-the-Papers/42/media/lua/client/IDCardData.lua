@@ -20,6 +20,7 @@ function IDCardData:new(item, sex)
         o.firstname       = data[key].firstname
         o.lastname        = data[key].lastname
         o.licenseNumber   = data[key].licenseNumber
+        o.county          = data[key].county
         o.dateApplied     = data[key].dateApplied
         o.expireDate      = data[key].expireDate
         o.licenseType     = data[key].licenseType
@@ -34,6 +35,7 @@ function IDCardData:new(item, sex)
         o.firstname       = IDCardData:getNames(item)
         o.lastname        = select(2, IDCardData:getNames(item))
         o.licenseNumber   = IDCardData:getLicenseNumber()
+        o.county          = IDCardData:getCounty()
         o.dateApplied     = IDCardData:getDateApplied()
         o.expireDate      = IDCardData:getExpireDate()
         o.licenseType     = IDCardData:getLicenseType()
@@ -52,6 +54,7 @@ function IDCardData:new(item, sex)
             firstname       = o.firstname,
             lastname        = o.lastname,
             licenseNumber   = o.licenseNumber,
+            county          = o.county,
             dateApplied     = o.dateApplied,
             expireDate      = o.expireDate,
             licenseType     = o.licenseType,
@@ -103,11 +106,34 @@ function IDCardData:getLicenseNumber()
 
     return prefix .. "-" .. part1 .. "-" .. part2
 end
+--___________________________________KOUNTY_______________________________________
+
+local function randomCounty()
+    -- 5 closest counties to Knox County, KY
+    local counties = {"CLAY", "BELL", "WHITLEY", "LAUREL", "ROCKCASTLE", "KNOX","KNOX","KNOX","KNOX"}
+    local county = counties[ZombRand(#counties) + 1]
+    return county
+end
+
+function IDCardData:getCounty()
+    local county = randomCounty()
+    --self._County = county
+    print("County is ".. county)
+    return county
+end
+
+function IDCardData:getDateOfBirth()
+    local year = ZombRand(1944, 1977) -- 18 à 70 ans en 1994
+    local month = ZombRand(1, 13)     -- 1 à 12
+    local day = ZombRand(1, 29)       -- 1 à 28 pour simplifier les mois
+
+    return string.format("%02d-%02d-%02d", day, month, year)
+end
 
 local function randomAppliedDate()
     local months = {"JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"}
     local month = months[ZombRand(#months) + 1]
-    local year = ZombRand(90, 95) -- 1990 à 1994 inclus
+    local year = ZombRand(84, 94) -- 1990 à 1994 inclus
     return month, year
 end
 
@@ -120,7 +146,7 @@ end
 
 function IDCardData:getExpireDate()
     local month = self._appliedMonth or "JAN"
-    local year = (self._appliedYear or 94) + 10 -- +10 ans
+    local year = (self._appliedYear or 93) + 10 -- +10 ans
     return month .. "-" .. string.format("%02d", year % 100)
 end
 
@@ -135,15 +161,6 @@ function IDCardData:getLicenseType()
     --self._LicenseType = licensetype
     return licensetype
 end
-
-function IDCardData:getDateOfBirth()
-    local year = ZombRand(44, 77) -- 18 à 70 ans en 1994
-    local month = ZombRand(1, 13)     -- 1 à 12
-    local day = ZombRand(1, 29)       -- 1 à 28 pour simplifier les mois
-
-    return string.format("%02d-%02d-%02d", day, month, year)
-end
-
 
 function IDCardData:getSecurityNumber()
     local part1 = string.format("%03d", ZombRand(0, 1000))  -- 000-999
@@ -188,6 +205,7 @@ function IDCardData:getAll()
         firstname     = self.firstname,
         lastname      = self.lastname,
         licenseNumber = self.licenseNumber,
+        county        = self.county,
         expireDate    = self.expireDate,
         licenseType   = self.licenseType,
         dateOfBirth   = self.dateOfBirth,
