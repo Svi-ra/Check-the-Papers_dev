@@ -145,9 +145,16 @@ function IDCardData:getSecurityNumber()
     return part1 .. "-" .. part2 .. "-" .. part3
 end
 
+local function randomRestrictions()
+    local restrictions = {"NONE","C L","H A"}
+    local restriction = restrictions[ZombRand(#restrictions) + 1]
+    return restriction
+end
 
 function IDCardData:getRestrictions()
-    return "NONE"
+    local restriction = randomRestrictions()
+    --self._RestrictionType = restriction
+    return restriction
 end
 
 function IDCardData:getHeight()
