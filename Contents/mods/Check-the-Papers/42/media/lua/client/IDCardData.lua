@@ -151,7 +151,18 @@ function IDCardData:getRestrictions()
 end
 
 function IDCardData:getHeight()
-    return "5'11\""
+    local minInches = 60
+    local maxInches = 77
+
+    -- Tirage aléatoire
+    local randomInches = ZombRand(minInches, maxInches + 1)
+
+    -- Conversion en pieds/pouces
+    local feet = math.floor(randomInches / 12)
+    local inches = randomInches % 12
+
+    -- Retourne une string du type "5'11"
+    return string.format("%d-%02d", feet, inches)
 end
 
 -- ==================================================

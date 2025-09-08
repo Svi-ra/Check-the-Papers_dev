@@ -31,7 +31,7 @@ function CheckPaperPlayAction:start()
     
     if self.item:getFullType() == "Base.IDcard_Female" then
         sex = "F"
-    elseif self.item:getFullType() == "Base.IDcard_male" then
+    elseif self.item:getFullType() == "Base.IDcard_Male" then
         sex = "M"
     elseif self.item:getFullType() == "Base.IDcard" then
         sex = getPlayer():getDescriptor():isFemale() and "F" or "M"
