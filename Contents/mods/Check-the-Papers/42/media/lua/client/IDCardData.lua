@@ -17,53 +17,56 @@ function IDCardData:new(item, sex)
     local data = item:getModData().IDCardData or {}
     if data[key] then
         -- charger les données existantes
-        o.firstname       = data[key].firstname
-        o.lastname        = data[key].lastname
-        o.licenseNumber   = data[key].licenseNumber
-        o.county          = data[key].county
-        o.dateApplied     = data[key].dateApplied
-        o.expireDate      = data[key].expireDate
-        o.licenseType     = data[key].licenseType
-        o.dateOfBirth     = data[key].dateOfBirth
-        o.securityNumber  = data[key].securityNumber
-        o.restrictions    = data[key].restrictions
-        o.sex             = data[key].sex or sex
-        o.height          = data[key].height
-        o.headTexture     = data[key].headTexture
+        o.firstname         = data[key].firstname
+        o.lastname          = data[key].lastname
+        o.licenseNumber     = data[key].licenseNumber
+        o.county            = data[key].county
+        o.dateApplied       = data[key].dateApplied
+        o.expireDate        = data[key].expireDate
+        o.licenseType       = data[key].licenseType
+        o.dateOfBirth       = data[key].dateOfBirth
+        o.securityNumber    = data[key].securityNumber
+        o.restrictions      = data[key].restrictions
+        o.sex               = data[key].sex or sex
+        o.height            = data[key].height
+        o.headTexture       = data[key].headTexture
+        o.signatureTexture  = data[key].signatureTexture
     else
         -- générer de nouvelles données
-        o.firstname       = IDCardData:getNames(item)
-        o.lastname        = select(2, IDCardData:getNames(item))
-        o.licenseNumber   = IDCardData:getLicenseNumber()
-        o.county          = IDCardData:getCounty()
-        o.dateApplied     = IDCardData:getDateApplied()
-        o.expireDate      = IDCardData:getExpireDate()
-        o.licenseType     = IDCardData:getLicenseType()
-        o.dateOfBirth     = IDCardData:getDateOfBirth()
-        o.securityNumber  = IDCardData:getSecurityNumber()
-        o.restrictions    = IDCardData:getRestrictions()
-        o.sex             = sex
-        o.height          = IDCardData:getHeight()
-        o.headTexture = IDCardData:getHeadTexture(sex)
+        o.firstname         = IDCardData:getNames(item)
+        o.lastname          = select(2, IDCardData:getNames(item))
+        o.licenseNumber     = IDCardData:getLicenseNumber()
+        o.county            = IDCardData:getCounty()
+        o.dateApplied       = IDCardData:getDateApplied()
+        o.expireDate        = IDCardData:getExpireDate()
+        o.licenseType       = IDCardData:getLicenseType()
+        o.dateOfBirth       = IDCardData:getDateOfBirth()
+        o.securityNumber    = IDCardData:getSecurityNumber()
+        o.restrictions      = IDCardData:getRestrictions()
+        o.sex               = sex
+        o.height            = IDCardData:getHeight()
+        o.headTexture       = IDCardData:getHeadTexture(sex)
+        o.signatureTexture  = IDCardData:getSignatureTexture(o.lastname)
 
         -- enregistrer dans modData
         if not item:getModData().IDCardData then
             item:getModData().IDCardData = {}
         end
         item:getModData().IDCardData[key] = {
-            firstname       = o.firstname,
-            lastname        = o.lastname,
-            licenseNumber   = o.licenseNumber,
-            county          = o.county,
-            dateApplied     = o.dateApplied,
-            expireDate      = o.expireDate,
-            licenseType     = o.licenseType,
-            dateOfBirth     = o.dateOfBirth,
-            securityNumber  = o.securityNumber,
-            restrictions    = o.restrictions,
-            sex             = o.sex,
-            height          = o.height,
-            headTexture     = o.headTexture,
+            firstname        = o.firstname,
+            lastname         = o.lastname,
+            licenseNumber    = o.licenseNumber,
+            county           = o.county,
+            dateApplied      = o.dateApplied,
+            expireDate       = o.expireDate,
+            licenseType      = o.licenseType,
+            dateOfBirth      = o.dateOfBirth,
+            securityNumber   = o.securityNumber,
+            restrictions     = o.restrictions,
+            sex              = o.sex,
+            height           = o.height,
+            headTexture      = o.headTexture,
+            signatureTexture = o.signatureTexture,
         }
     end
 
@@ -106,6 +109,28 @@ function IDCardData:getLicenseNumber()
 
     return prefix .. "-" .. part1 .. "-" .. part2
 end
+
+--___________________________________SIGNATURE_______________________________________
+
+function IDCardData:getSignatureTexture(lastname)
+    local basePath = "media/textures/signatures/"
+    local lname = string.lower(lastname)
+
+    -- Take the first surname letter
+    local firstLetter = string.sub(lname, 1, 1)
+
+    -- Building the path: A/Anderson.png, B/Brown.png etc.
+    local fileName = lname .. ".png"
+    local fullPath = basePath .. firstLetter .. "/" .. fileName
+
+    -- Check if texture exists)
+    if getTexture(fullPath) then
+        return fullPath
+    else
+        return basePath .. "default.png"
+    end
+end
+
 --___________________________________KOUNTY_______________________________________
 
 local function randomCounty()

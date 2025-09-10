@@ -15,8 +15,16 @@ function PaperUI:new(x, y, width, height, item, sex)
     local itemname = item:getName()
     o.firstname, o.lastname = string.match(itemname, ": (%w+)%s+(%w+)")
 
+    --loading IDCardData
     o.data = IDCardData:new(item, sex)
+
+    --loading HeadTexture
     o.headTexture = getTexture(o.data.headTexture)
+
+    -- loading signatureTexture
+    if o.data.signatureTexture then
+        o.signatureTexture = getTexture(o.data.signatureTexture)
+    end
 
     return o
 end
@@ -72,6 +80,14 @@ function PaperUI:render()
         self:drawText(tostring(self.data.height),
             xLabel + 430, yStart + (lineSpacing * 3), 0, 0, 0, 1, font)
 
+    -- Signature
+    if self.signatureTexture then
+        local x = 55
+        local y = 510
+        local width = 421
+        local height = 122
+        self:drawTextureScaled(self.signatureTexture, x, y, width, height, 1.0)
+    end
 
     if self.headTexture then
         local x = 562
