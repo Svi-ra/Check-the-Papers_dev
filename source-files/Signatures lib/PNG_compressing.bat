@@ -1,9 +1,9 @@
 @echo off
 :: Исходная папка
-set "SOURCE=C:\Users\Nichita Sviridcenko\Desktop\Signatures_backup\e"
+set "SOURCE=C:\Users\Nichita Sviridcenko\Desktop\Signatures_backup\k"
 
 :: Папка назначения
-set "DEST=C:\Users\Nichita Sviridcenko\Zomboid\Workshop\Check-the-Papers\Contents\mods\Check-the-Papers\42\media\textures\signatures\e"
+set "DEST=C:\Users\Nichita Sviridcenko\Zomboid\Workshop\Check-the-Papers\Contents\mods\Check-the-Papers\42\media\textures\signatures\k"
 
 :: Создать папку назначения, если её нет
 if not exist "%DEST%" mkdir "%DEST%"
