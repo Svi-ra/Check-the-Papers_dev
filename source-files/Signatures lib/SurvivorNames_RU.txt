@@ -1,6042 +1,6045 @@
 SurvivorNames_RU   {
 --b42.8
-	Johnson   "Джонсон",
-	Johnston   "Джонстон",
-	Johns   "Джонс",
-	John   "Джон",
-	Littlejohn   "Литтлджон",
-	StJohn   "Сейнтджон",
+	Johnson  
+	Johnston  
+	Johns  
+	John  
+	Littlejohn  
+	StJohn  
+
+----------------------------------------NAMES
+Aaron
+Abbie
+Abby
+Abdul
+Abe
+Abel
+Abigail
+Abraham
+Abram
+Ada
+Adam
+Adan
+Addie
+Adela
+Adelaide
+Adelina
+Adeline
+Adrian
+Adriana
+Adrianne
+Adrienne
+Agatha
+Agnes
+Ahmad
+Ahmed
+Aida
+Aileen
+Aimee
+Aisha
+Akiko
+Al
+Alan
+Alana
+Alba
+Albert
+Alberta
+Alberto
+Aldo
+Alec
+Alejandra
+Alejandro
+Aletha
+Alex
+Alexa
+Alexander
+Alexandra
+Alexandria
+Alexis
+Alfonso
+Alfonzo
+Alfred
+Alfreda
+Alfredo
+Ali
+Alice
+Alicia
+Aline
+Alisa
+Alisha
+Alison
+Alissa
+Allan
+Allen
+Allene
+Allie
+Allison
+Allyson
+Alma
+Alonzo
+Alphonso
+Alta
+Althea
+Alton
+Alvaro
+Alvin
+Alvina
+Alyce
+Alyson
+Alyssa
+Amalia
+Amanda
+Amber
+Ambrose
+Amelia
+Ami
+Amie
+Amos
+Amy
+Ana
+Anastasia
+Anderson
+Andre
+Andrea
+Andreas
+Andres
+Andrew
+Andy
+Angel
+Angela
+Angelica
+Angelina
+Angeline
+Angelique
+Angelita
+Angelo
+Angie
+Anita
+Ann
+Anna
+Annabel
+Annabelle
+Anne
+Annemarie
+Annette
+Annie
+Annmarie
+Anthony
+Antoine
+Antoinette
+Anton
+Antonia
+Antonio
+Antony
+April
+Araceli
+Archie
+Aretha
+Ariel
+Arleen
+Arlene
+Arline
+Armand
+Armando
+Arnold
+Aron
+Arron
+Art
+Arthur
+Arturo
+Asa
+Ashlee
+Ashleigh
+Ashley
+Astrid
+Athena
+Aubrey
+Audra
+Audrey
+August
+Augusta
+Augustus
+Aurelia
+Aurelio
+Aurora
+Austin
+Autumn
+Ava
+Avis
+Bambi
+Barb
+Barbara
+Barney
+Barrett
+Barry
+Bart
+Barton
+Basil
+Beatrice
+Beatriz
+Beau
+Becky
+Belinda
+Bella
+Belle
+Ben
+Benedict
+Benita
+Benito
+Benjamin
+Bennett
+Bennie
+Benny
+Bernadette
+Bernadine
+Bernard
+Bernardo
+Bernice
+Bernie
+Bert
+Berta
+Bertha
+Bertie
+Bertram
+Beryl
+Bess
+Bessie
+Beth
+Bethany
+Betsy
+Bette
+Bettie
+Betty
+Beulah
+Beverley
+Beverly
+Bianca
+Bill
+Billie
+Billy
+Birdie
+Blaine
+Blair
+Blake
+Blanca
+Blanche
+Bo
+Bob
+Bobbi
+Bobbie
+Bobby
+Bonita
+Bonnie
+Booker
+Boris
+Boyd
+Brad
+Bradford
+Bradley
+Brady
+Branden
+Brandi
+Brandie
+Brandon
+Brandy
+Brant
+Breanna
+Brenda
+Brendan
+Brendon
+Brenna
+Brent
+Bret
+Brett
+Brian
+Briana
+Brianna
+Brianne
+Brice
+Bridget
+Bridgette
+Brigitte
+Britney
+Brittany
+Brock
+Brook
+Brooke
+Brooks
+Bruce
+Bruno
+Bryan
+Bryant
+Bryon
+Bud
+Buddy
+Buford
+Burl
+Burt
+Burton
+Buster
+Byron
+Caitlin
+Caleb
+Callie
+Cally
+Calvin
+Cameron
+Camilla
+Camille
+Candace
+Candi
+Candice
+Candida
+Candy
+Cara
+Carey
+Cari
+Caridad
+Carina
+Carissa
+Carl
+Carla
+Carlene
+Carlo
+Carlos
+Carlton
+Carly
+Carmel
+Carmela
+Carmelita
+Carmen
+Carmine
+Carol
+Carolina
+Caroline
+Carolyn
+Carrie
+Carroll
+Carson
+Carter
+Cary
+Caryn
+Casey
+Cassandra
+Cassie
+Catalina
+Catherine
+Cathleen
+Cathy
+Catina
+Catrina
+Cecelia
+Cecil
+Cecile
+Cecilia
+Cedric
+Cedrick
+Celeste
+Celestine
+Celia
+Celina
+Cesar
+Chad
+Chadwick
+Chance
+Chandra
+Chang
+Chantal
+Chantel
+Charisse
+Charity
+Charla
+Charlene
+Charles
+Charlie
+Charlotte
+Charmaine
+Chas
+Chase
+Chastity
+Chauncey
+Chelsea
+Chelsey
+Cheri
+Cherie
+Cherri
+Cherry
+Cheryl
+Chester
+Chet
+Chi
+Chiquita
+Chloe
+Chong
+Chris
+Chrissy
+Christa
+Christi
+Christian
+Christie
+Christina
+Christine
+Christopher
+Christy
+Chrystal
+Chuck
+Chun
+Chung
+Cindi
+Cindy
+Claire
+Clara
+Clare
+Clarence
+Clarice
+Clarissa
+Clark
+Claud
+Claude
+Claudette
+Claudia
+Claudine
+Claudio
+Clay
+Clayton
+Clement
+Clemente
+Clementine
+Cleo
+Cletus
+Cleveland
+Cliff
+Clifford
+Clifton
+Clint
+Clinton
+Clyde
+Cody
+Colby
+Cole
+Coleen
+Coleman
+Colette
+Colin
+Colleen
+Collin
+Colombus
+Colton
+Concepcion
+Concetta
+Connie
+Conrad
+Constance
+Consuela
+Consuelo
+Cora
+Coral
+Cordelia
+Cordell
+Corey
+Cori
+Corina
+Corine
+Corinna
+Corinne
+Cornelia
+Cornelius
+Cornell
+Corrine
+Cortez
+Cory
+Courtney
+Coy
+Craig
+Cristina
+Cruz
+Crystal
+Curt
+Curtis
+Cyndi
+Cynthia
+Cyril
+Cyrus
+Daisy
+Dale
+Dallas
+Dalton
+Damaris
+Damian
+Damon
+Dan
+Dana
+Dane
+Danette
+Daniel
+Daniela
+Danielle
+Danilo
+Danny
+Dante
+Daphne
+Dara
+Darcy
+Darin
+Dario
+Darius
+Darla
+Darleen
+Darlene
+Darnell
+Darrel
+Darrell
+Darren
+Darrin
+Darron
+Darryl
+Darwin
+Daryl
+Dave
+David
+Davis
+Dawn
+Dayna
+Dean
+Deana
+Deandre
+Deangelo
+Deann
+Deanne
+Deb
+Debbie
+Debby
+Debi
+Debora
+Deborah
+Debra
+Dee
+Deena
+Deidra
+Deirdre
+Del
+Delbert
+Delia
+Delilah
+Della
+Delmar
+Delmer
+Delores
+Deloris
+Delphine
+Demarcus
+Demetria
+Demetrius
+Dena
+Denice
+Denis
+Denise
+Dennis
+Denny
+Denver
+Deon
+Derek
+Derick
+Derrick
+Deshawn
+Desiree
+Desmond
+Destiny
+Devin
+Devon
+Dewayne
+Dewey
+Dewitt
+Dexter
+Diana
+Diane
+Dianna
+Dianne
+Dick
+Diego
+Dillon
+Dina
+Dinah
+Dino
+Dion
+Dionne
+Dirk
+Dixie
+Dollie
+Dolly
+Dolores
+Dominga
+Domingo
+Dominic
+Dominick
+Dominique
+Don
+Dona
+Donald
+Donna
+Donnell
+Donnie
+Donny
+Donovan
+Donte
+Dora
+Dorcas
+Doreen
+Doris
+Dorothea
+Dorothy
+Dot
+Dottie
+Doug
+Douglas
+Doyle
+Drew
+Duane
+Dudley
+Duncan
+Dustin
+Dusty
+Dwain
+Dwayne
+Dwight
+Dylan
+Earl
+Earle
+Earlene
+Earline
+Earnest
+Earnestine
+Ebony
+Ed
+Eddie
+Eddy
+Edgar
+Edie
+Edith
+Edmond
+Edmund
+Edna
+Eduardo
+Edward
+Edwin
+Edwina
+Effie
+Eileen
+Elaine
+Elba
+Elbert
+Eldon
+Eleanor
+Elena
+Eli
+Elia
+Elias
+Elijah
+Elinor
+Elisa
+Elisabeth
+Elise
+Elisha
+Eliza
+Elizabeth
+Ella
+Ellen
+Elliot
+Elliott
+Ellis
+Elma
+Elmer
+Elmo
+Eloise
+Elroy
+Elsa
+Elsie
+Elton
+Elva
+Elvia
+Elvin
+Elvira
+Elvis
+Elwood
+Elyse
+Emanuel
+Emerson
+Emery
+Emil
+Emile
+Emilia
+Emilio
+Emily
+Emma
+Emmanuel
+Emmett
+Enid
+Enoch
+Enrique
+Eric
+Erica
+Erick
+Ericka
+Erik
+Erika
+Erin
+Erma
+Erna
+Ernest
+Ernestine
+Ernesto
+Ernie
+Errol
+Ervin
+Erwin
+Esmeralda
+Esperanza
+Essie
+Esteban
+Estela
+Estella
+Estelle
+Ester
+Esther
+Ethan
+Ethel
+Etta
+Eugene
+Eugenia
+Eula
+Eunice
+Eva
+Evan
+Evangelina
+Evangeline
+Eve
+Evelyn
+Everett
+Evie
+Ezekiel
+Ezra
+Fabian
+Faith
+Fallon
+Fannie
+Fanny
+Farah
+Fatima
+Faustino
+Fawn
+Fay
+Faye
+Federico
+Felicia
+Felipe
+Felix
+Ferdinand
+Fern
+Fernando
+Ferne
+Fidel
+Filomena
+Fiona
+Fletcher
+Flor
+Flora
+Florence
+Florine
+Flossie
+Floyd
+Forest
+Forrest
+Foster
+Fran
+Frances
+Francesca
+Francesco
+Francine
+Francis
+Francisca
+Francisco
+Frank
+Frankie
+Franklin
+Fred
+Freda
+Freddie
+Freddy
+Frederic
+Frederick
+Fredrick
+Freeman
+Frieda
+Fritz
+Gabriel
+Gabriela
+Gabriella
+Gabrielle
+Gail
+Gale
+Galen
+Garland
+Garrett
+Garry
+Garth
+Gary
+Gaston
+Gavin
+Gay
+Gayle
+Gena
+Genaro
+Gene
+Geneva
+Genevieve
+Geoffrey
+George
+Georgette
+Georgia
+Georgiana
+Georgie
+Georgina
+Gerald
+Geraldine
+Geraldo
+Gerard
+Gerardo
+Geri
+Germaine
+Gerri
+Gerry
+Gertrude
+Gigi
+Gil
+Gilbert
+Gilberto
+Gillian
+Gina
+Ginger
+Ginny
+Gino
+Giovanni
+Gladys
+Glen
+Glenda
+Glenn
+Glenna
+Gloria
+Goldie
+Gonzalo
+Gordon
+Grace
+Gracie
+Graciela
+Grady
+Graham
+Grant
+Greg
+Gregg
+Gregorio
+Gregory
+Greta
+Gretchen
+Grover
+Guadalupe
+Guillermo
+Gus
+Gussie
+Gustavo
+Guy
+Gwen
+Gwendolyn
+Ha
+Hae
+Hailey
+Hal
+Haley
+Hallie
+Hank
+Hanna
+Hannah
+Hans
+Harlan
+Harland
+Harley
+Harold
+Harriet
+Harriette
+Harris
+Harrison
+Harry
+Harvey
+Hassan
+Hattie
+Hayden
+Hayley
+Hazel
+Heath
+Heather
+Hector
+Heidi
+Helen
+Helena
+Helene
+Helga
+Henrietta
+Henry
+Herb
+Herbert
+Herman
+Hermina
+Herschel
+Hershel
+Hester
+Hilary
+Hilda
+Hildegard
+Hillary
+Hilton
+Hiram
+Hiriko
+Hollie
+Hollis
+Holly
+Homer
+Hong
+Hope
+Horace
+Hortense
+Hosea
+Houston
+Howard
+Hoyt
+Hubert
+Huey
+Hugo
+Hui
+Humberto
+Hunter
+Huong
+Hyman
+Hyun
+Ian
+Ida
+Ignacio
+Ike
+Ila
+Ilene
+Imelda
+Imogene
+Ina
+India
+Ines
+Inez
+Ingrid
+Iola
+Iona
+Ione
+Ira
+Irene
+Iris
+Irma
+Irvin
+Irving
+Isaac
+Isabel
+Isabella
+Isabelle
+Isaiah
+Isiah
+Isidro
+Ismael
+Israel
+Iva
+Ivan
+Ivette
+Ivy
+Jacinto
+Jack
+Jackie
+Jacklyn
+Jackson
+Jaclyn
+Jacob
+Jacqueline
+Jacquelyn
+Jacques
+Jade
+Jaime
+Jake
+Jamaal
+Jamal
+Jamar
+Jamel
+James
+Jami
+Jamie
+Jan
+Jana
+Jane
+Janel
+Janell
+Janelle
+Janet
+Janette
+Janice
+Janie
+Janine
+Janis
+Janna
+Jannie
+Jared
+Jarod
+Jarred
+Jarrett
+Jarrod
+Jarvis
+Jasmin
+Jasmine
+Jason
+Jasper
+Javier
+Jay
+Jayme
+Jayne
+Jayson
+JC " ",
+Jean
+Jeanette
+Jeanie
+Jeanine
+Jeanne
+Jeannette
+Jeannie
+Jeannine
+Jed
+Jeff
+Jefferson
+Jeffery
+Jeffrey
+Jena
+Jenna
+Jennie
+Jennifer
+Jenny
+Jerald
+Jeremiah
+Jeremy
+Jeri
+Jermaine
+Jerold
+Jerome
+Jerri
+Jerrod
+Jerrold
+Jerry
+Jess
+Jesse
+Jessica
+Jessie
+Jesus
+Jewel
+Jewell
+Jill
+Jillian
+Jim
+Jimmie
+Jimmy
+Jin
+Jo
+Joan
+Joann
+Joanna
+Joanne
+Joaquin
+Jocelyn
+Jodi
+Jodie
+Jody
+Joe
+Joel
+Joelle
+Joey
+Johanna
+John
+Johnathan
+Johnnie
+Johnny
+Johnson
+Jolene
+Jon
+Jonah
+Jonas
+Jonathan
+Jonathon
+Joni
+Jordan
+Jorge
+Jose
+Josefa
+Josefina
+Joseph
+Josephine
+Josette
+Josh
+Joshua
+Josiah
+Josie
+Joy
+Joyce
+Juan
+Juana
+Juanita
+Jude
+Judie
+Judith
+Judson
+Judy
+Jules
+Julia
+Julian
+Juliana
+Julianne
+Julie
+Juliet
+Juliette
+Julio
+Julius
+June
+Jung
+Junior
+Justin
+Justina
+Justine
+Kaitlin
+Kaitlyn
+Kami
+Kara
+Kareem
+Karen
+Kari
+Karin
+Karina
+Karl
+Karla
+Karrie
+Karyn
+Kasey
+Kate
+Katelyn
+Katharine
+Katherine
+Kathi
+Kathie
+Kathleen
+Kathrine
+Kathryn
+Kathy
+Katie
+Katina
+Katrina
+Katy
+Kay
+Kaye
+Kayla
+Keenan
+Keiko
+Keisha
+Keith
+Kelley
+Kelli
+Kellie
+Kelly
+Kelsey
+Kelvin
+Ken
+Kendall
+Kendra
+Kendrick
+Kenneth
+Kenny
+Kent
+Kenton
+Kenya
+Keri
+Kermit
+Kerri
+Kerrie
+Kerry
+Kevin
+Kim
+Kimberlee
+Kimberley
+Kimberly
+King
+Kip
+Kira
+Kirby
+Kirk
+Kirsten
+Kisha
+Kitty
+Kizzy
+Kory
+Kra
+Kris
+Krista
+Kristal
+Kristen
+Kristi
+Kristie
+Kristin
+Kristina
+Kristine
+Kristofer
+Kristopher
+Kristy
+Krystal
+Kurt
+Kurtis
+Kyla
+Kyle
+Kylie
+Kym
+Kyung
+Lacey
+Laci
+Lacy
+Ladonna
+Lakeisha
+Lakesha
+Lakisha
+Lamar
+Lamont
+Lana
+Lance
+Landon
+Lane
+Lanny
+Laquita
+Lara
+Larissa
+Larry
+Lashawn
+Lashonda
+Latanya
+Latasha
+Latisha
+Latonia
+Latonya
+Latoya
+Latrice
+Laura
+Laurel
+Lauren
+Laurence
+Lauretta
+Lauri
+Laurie
+Lavern
+Laverne
+Lavonne
+Lawanda
+Lawrence
+Lazaro
+Le
+Lea
+Leah
+Leandro
+Leann
+Leanna
+Leanne
+Lee
+Leeann
+Leif
+Leigh
+Leila
+Leilani
+Lela
+Leland
+Lemuel
+Len
+Lena
+Lenny
+Lenora
+Lenore
+Leo
+Leola
+Leon
+Leona
+Leonard
+Leonardo
+Leonel
+Leonor
+Leonora
+Leroy
+Les
+Lesley
+Leslie
+Lester
+Leta
+Letha
+Leticia
+Letitia
+Levi
+Lewis
+Lexi
+Li
+Libby
+Lidia
+Lien
+Lila
+Lilia
+Lilian
+Liliana
+Lillian
+Lillie
+Lilly
+Lily
+Lina
+Lincoln
+Linda
+Lindsay
+Lindsey
+Ling
+Linh
+Linnie
+Linwood
+Lionel
+Lisa
+Liz
+Liza
+Lizette
+Lizzie
+Lloyd
+Logan
+Lois
+Lola
+Lolita
+Lon
+Long
+Lonnie
+Lonny
+Lora
+Loren
+Lorena
+Lorene
+Lorenzo
+Loretta
+Lori
+Lorie
+Lorna
+Lorraine
+Lorrie
+Lottie
+Lou
+Louella
+Louie
+Louis
+Louisa
+Louise
+Lourdes
+Lowell
+Loyd
+Lu
+Luann
+Luanne
+Lucas
+Lucia
+Luciano
+Lucien
+Lucile
+Lucille
+Lucinda
+Lucius
+Lucretia
+Lucy
+Luella
+Luigi
+Luis
+Luisa
+Luke
+Lula
+Lulu
+Lupe
+Luther
+Luz
+Lydia
+Lyle
+Lyn
+Lynda
+Lyndon
+Lyndsey
+Lynette
+Lynn
+Lynne
+Lynnette
+Mabel
+Mable
+Mac
+Mack
+Mackenzie
+Madeleine
+Madeline
+Madelyn
+Madge
+Madonna
+Mae
+Magda
+Magdalena
+Maggie
+Mai
+Maia
+Malcolm
+Malik
+Malinda
+Mallory
+Mamie
+Mandi
+Mandy
+Manuel
+Manuela
+Mara
+Marc
+Marcel
+Marcela
+Marcelino
+Marcella
+Marcelle
+Marcellus
+Marcelo
+Marci
+Marcia
+Marcie
+Marco
+Marcos
+Marcus
+Marcy
+Margaret
+Margarita
+Marge
+Margery
+Margie
+Margo
+Margot
+Marguerite
+Mari
+Maria
+Mariah
+Mariam
+Marian
+Mariana
+Marianna
+Marianne
+Mariano
+Maribel
+Maricela
+Marie
+Marietta
+Marilee
+Marilyn
+Marina
+Mario
+Marion
+Marisa
+Marisela
+Marisol
+Marissa
+Maritza
+Marjorie
+Marjory
+Mark
+Markus
+Marla
+Marlene
+Marlin
+Marlon
+Marquis
+Marsha
+Marshall
+Marta
+Martha
+Martin
+Martina
+Martine
+Marty
+Marva
+Marvin
+Mary
+Maryann
+Maryanne
+Marybeth
+Maryellen
+Maryjane
+Marylou
+Masako
+Mason
+Mathew
+Matilda
+Matt
+Matthew
+Mattie
+Maude
+Maudie
+Maura
+Maureen
+Maurice
+Mauricio
+Maurine
+Mavis
+Max
+Maximo
+Maxine
+Maxwell
+May
+Maya
+Maybelle
+Maynard
+Mayra
+Mayumi
+Meagan
+Meg
+Megan
+Meghan
+Mei
+Mel
+Melanie
+Melba
+Melina
+Melinda
+Melisa
+Melissa
+Melodie
+Melody
+Melva
+Melvin
+Mercedes
+Meredith
+Merle
+Merlin
+Merrill
+Mervin
+Mi
+Mia
+Micah
+Michael
+Michaela
+Michel
+Michele
+Michelle
+Michiko
+Mickey
+Miguel
+Mike
+Mila
+Milagros
+Mildred
+Miles
+Milford
+Millard
+Millicent
+Millie
+Milo
+Milton
+Mimi
+Min
+Mina
+Mindy
+Minerva
+Minh
+Minnie
+Mira
+Miranda
+Miriam
+Missy
+Misti
+Misty
+Mitch
+Mitchell
+Mitsuko
+Mitzi
+Mohamed
+Mohammad
+Mohammed
+Moira
+Mollie
+Molly
+Mona
+Monica
+Monika
+Monique
+Monroe
+Monte
+Monty
+Morgan
+Morris
+Morton
+Moses
+Moshe
+Mui
+Muriel
+Murray
+Myles
+Myong
+Myra
+Myrna
+Myron
+Myrtle
+Nadia
+Nadine
+Nancy
+Nanette
+Naomi
+Napoleon
+Natalia
+Natalie
+Natasha
+Nathan
+Nathaniel
+Neal
+Ned
+Neil
+Nelda
+Nell
+Nellie
+Nelson
+Nereida
+Nestor
+Nettie
+Neva
+Neville
+Newton
+Nicholas
+Nichole
+Nick
+Nicki
+Nicky
+Nicola
+Nicolas
+Nicole
+Nigel
+Nikita
+Nikki
+Nina
+Nita
+Noah
+Noble
+Noel
+Noelle
+Noemi
+Nola
+Nolan
+Nona
+Nora
+Norbert
+Noreen
+Noriko
+Norma
+Norman
+Norris
+Nova
+Octavia
+Octavio
+Odell
+Odessa
+Odette
+Ofelia
+Ola
+Olga
+Olin
+Olive
+Oliver
+Olivia
+Ollie
+Omar
+Omer
+Opal
+Ophelia
+Ora
+Oren
+Orlando
+Orville
+Oscar
+Otis
+Otto
+Owen
+Pablo
+Paige
+Pam
+Pamela
+Pansy
+Paola
+Paris
+Parker
+Pasquale
+Pat
+Patrice
+Patricia
+Patrick
+Patsy
+Patti
+Pattie
+Patty
+Paul
+Paula
+Paulette
+Paulina
+Pauline
+Pearl
+Pearlie
+Pedro
+Peggy
+Penelope
+Penny
+Percy
+Perry
+Pete
+Peter
+Petra
+Phil
+Philip
+Phillip
+Philomena
+Phoebe
+Phyllis
+Pia
+Pierre
+Pilar
+Piper
+Polly
+Porter
+Portia
+Precious
+Preston
+Prince
+Princess
+Priscilla
+Quentin
+Quincy
+Quinn
+Quintin
+Quinton
+Rachael
+Rachel
+Rachelle
+Racquel
+Rae
+Rafael
+Rafaela
+Raleigh
+Ralph
+Ramiro
+Ramon
+Ramona
+Randal
+Randall
+Randi
+Randolph
+Randy
+Raphael
+Raquel
+Rashad
+Rashida
+Raul
+Raven
+Ray
+Raymon
+Raymond
+Reba
+Rebecca
+Rebekah
+Reed
+Reggie
+Regina
+Reginald
+Reid
+Reina
+Rena
+Renae
+Renata
+Renato
+Rene
+Renee
+Reuben
+Reva
+Rex
+Rey
+Reyes
+Reyna
+Reynaldo
+Rhea
+Rhett
+Rhoda
+Rhonda
+Ricardo
+Rich
+Richard
+Richie
+Rick
+Rickey
+Rickie
+Ricky
+Rico
+Rikki
+Riley
+Rita
+Rob
+Robbie
+Robert
+Roberta
+Roberto
+Robin
+Robyn
+Rocco
+Rochelle
+Rocio
+Rocky
+Rod
+Roderick
+Rodger
+Rodney
+Rodolfo
+Rodrigo
+Roger
+Roland
+Rolando
+Rolf
+Roma
+Roman
+Romeo
+Ron
+Ronald
+Ronda
+Ronnie
+Ronny
+Roosvedlt
+Rory
+Rosa
+Rosalee
+Rosalia
+Rosalie
+Rosalina
+Rosalind
+Rosalinda
+Rosaline
+Rosalyn
+Rosamond
+Rosanna
+Rosario
+Roscoe
+Rose
+Roseann
+Roseanne
+Rosella
+Rosemarie
+Rosemary
+Rosetta
+Rosie
+Rosita
+Roslyn
+Ross
+Rowena
+Roxanna
+Roxanne
+Roxie
+Roy
+Royce
+Ruben
+Rubin
+Ruby
+Rudolph
+Rudy
+Rufus
+Rupert
+Russ
+Russel
+Russell
+Rusty
+Ruth
+Ruthie
+Ryan
+Sabina
+Sabrina
+Sadie
+Sal
+Sallie
+Sally
+Salome
+Salvador
+Salvatore
+Sam
+Samantha
+Sammie
+Sammy
+Samuel
+Sandi
+Sandra
+Sandy
+Sanford
+Sang
+Santiago
+Santo
+Santos
+Sara
+Sarah
+Sasha
+Saul
+Savannah
+Scarlett
+Scot
+Scott
+Scotty
+Sean
+Sebastian
+Selena
+Selina
+Selma
+Serena
+Sergio
+Seth
+Seymour
+Sha
+Shad
+Shamika
+Shana
+Shanda
+Shane
+Shanna
+Shannon
+Shari
+Sharlene
+Sharon
+Sharonda
+Sharron
+Shaun
+Shauna
+Shaundra
+Shawn
+Shawna
+Shayla
+Shayna
+Shayne
+Sheena
+Sheila
+Shelby
+Sheldon
+Shelia
+Shelley
+Shelli
+Shellie
+Shelly
+Shelton
+Sheree
+Sheri
+Sherie
+Sherman
+Sherri
+Sherrie
+Sherry
+Sheryl
+Shirley
+Shona
+Shonda
+Sid
+Sidney
+Sierra " -",
+Silas
+Silvia
+Simon
+Simone
+Siu
+Socorro
+Sofia
+Sol
+Solomon
+Sondra
+Sonia
+Sonja
+Sonny
+Sonya
+Sophia
+Sophie
+Spencer
+Stacey
+Staci
+Stacie
+Stacy
+Stan
+Stanford
+Stanley
+Starla
+Stefan
+Stefanie
+Stella
+Stephan
+Stephanie
+Stephany
+Stephen
+Sterling
+Steve
+Steven
+Stevie
+Stewart
+Stuart
+Su
+Sue
+Summer
+Sun
+Sung
+Sunny
+Susan
+Susana
+Susanne
+Susannna
+Susia
+Suzanne
+Suzette
+Suzie
+Sybil
+Sydney
+Sylvester
+Sylvia
+Syreeta
+Tabitha
+Tamara
+Tameka
+Tamera
+Tami
+Tamika
+Tammi
+Tammie
+Tammy
+Tamra
+Tamsin
+Tana
+Tania
+Tanisha
+Tanner
+Tanya
+Tara
+Taryn
+Tasha
+Tawana
+Tawanda
+Tawny
+Taylor
+Ted
+Teddy
+Teresa
+Teri
+Terra
+Terrance
+Terrell
+Terrence
+Terri
+Terrie
+Terry
+Tessa
+Tessie
+Thad
+Thaddeus
+Thanh
+Thea
+Thelma
+Theo
+Theodora
+Theodore
+Theresa
+Therese
+Thomas
+Thurman
+Tia
+Tiana
+Tiffany
+Tillie
+Tim
+Timmy
+Timothy
+Tina
+Tisha
+Titus
+Tobias
+Toby
+Tod
+Todd
+Tom
+Tomas
+Tomiko
+Tommie
+Tommy
+Tomoko
+Toni
+Tonia
+Tony
+Tonya
+Tori
+Tory
+Toya
+Tracey
+Traci
+Tracie
+Tracy
+Tran
+Travis
+Trent
+Trenton
+Tressa
+Treva
+Trevor
+Trey
+Tricia
+Trina
+Trinh
+Trish
+Trisha
+Trista
+Tristan
+Troy
+Trudy
+Truman
+Tuan
+Twila
+Twyla
+Ty
+Tyler
+Tyra
+Tyree
+Tyrell
+Tyron
+Tyrone
+Tyson
+Ulysses
+Una
+Ursula
+Val
+Valarie
+Valencia
+Valentin
+Valentina
+Valeria
+Valerie
+Van
+Vance
+Vanessa
+Vaughn
+Velma
+Venus
+Vera
+Verda
+Vern
+Verna
+Vernell
+Vernice
+Vernon
+Veronica
+Vicki
+Vickie
+Vicky
+Victor
+Victoria
+Vida
+Vikki
+Vince
+Vincent
+Viola
+Violet
+Virgie
+Virgil
+Virginia
+Vito
+Vivian
+Von
+Vonda
+Wade
+Wai
+Waldo
+Walker
+Wallace
+Wally
+Walter
+Wanda
+Ward
+Warner
+Warren
+Waylon
+Wayne
+Weldon
+Wen
+Wendell
+Wendi
+Wendy
+Werner
+Wes
+Wesley
+Weston
+Whitney
+Wilber
+Wilbert
+Wilbur
+Wilda
+Wiley
+Wilfred
+Wilfredo
+Wilhelmina
+Will
+Willa
+Willard
+William
+Willie
+Willis
+Willy
+Wilma
+Wilmer
+Wilson
+Wilton
+Winifred
+Winnie
+Winona
+Winston
+Woodrow
+Wyatt
+Wynona
+Xavier
+Yan
+Yang
+Yasmin
+Yee
+Yesenia
+Yi
+Ying
+Yoko
+Yolanda
+Yolonda
+Yong
+Young
+Yu
+Yuko
+Yun
+Yvette
+Yvonne
+Zachariah
+Zachary
+Zack
+Zane
+Zelda
+Zella
+Zelma
+Zenaida
+Zoe
 
 
-SurvivorName_Aaron "Аарон",
-SurvivorName_Abbie "Эбби",
-SurvivorName_Abby "Эбби",
-SurvivorName_Abdul "Абдул",
-SurvivorName_Abe "Эйб",
-SurvivorName_Abel "Абель",
-SurvivorName_Abigail "Эбигейл",
-SurvivorName_Abraham "Абрахам",
-SurvivorName_Abram "Абрам",
-SurvivorName_Ada "Ада",
-SurvivorName_Adam "Адам",
-SurvivorName_Adan "Адан",
-SurvivorName_Addie "Адди",
-SurvivorName_Adela "Адела",
-SurvivorName_Adelaide "Аделаида",
-SurvivorName_Adelina "Аделина",
-SurvivorName_Adeline "Аделина",
-SurvivorName_Adrian "Адриан",
-SurvivorName_Adriana "Адриана",
-SurvivorName_Adrianne "Адрианна",
-SurvivorName_Adrienne "Эдриенн",
-SurvivorName_Agatha "Агата",
-SurvivorName_Agnes "Агнес",
-SurvivorName_Ahmad "Ахмад",
-SurvivorName_Ahmed "Ахмед",
-SurvivorName_Aida "Аида",
-SurvivorName_Aileen "Эйлин",
-SurvivorName_Aimee "Эйми",
-SurvivorName_Aisha "Айша",
-SurvivorName_Akiko "Акико",
-SurvivorName_Al "Эл",
-SurvivorName_Alan "Алан",
-SurvivorName_Alana "Алана",
-SurvivorName_Alba "Альба",
-SurvivorName_Albert "Альберт",
-SurvivorName_Alberta "Альберта",
-SurvivorName_Alberto "Альберто",
-SurvivorName_Aldo "Альдо",
-SurvivorName_Alec "Алек",
-SurvivorName_Alejandra "Алехандра",
-SurvivorName_Alejandro "Алехандро",
-SurvivorName_Aletha "Алета",
-SurvivorName_Alex "Алекс",
-SurvivorName_Alexa "Алекса",
-SurvivorName_Alexander "Александр",
-SurvivorName_Alexandra "Александра",
-SurvivorName_Alexandria "Александрия",
-SurvivorName_Alexis "Алексис",
-SurvivorName_Alfonso "Альфонсо",
-SurvivorName_Alfonzo "Альфонсо",
-SurvivorName_Alfred "Альфред",
-SurvivorName_Alfreda "Альфреда",
-SurvivorName_Alfredo "Альфредо",
-SurvivorName_Ali "Эли",
-SurvivorName_Alice "Элис",
-SurvivorName_Alicia "Алисия",
-SurvivorName_Aline "Алина",
-SurvivorName_Alisa "Алиса",
-SurvivorName_Alisha "Алиша",
-SurvivorName_Alison "Элисон",
-SurvivorName_Alissa "Алисса",
-SurvivorName_Allan "Аллан",
-SurvivorName_Allen "Аллен",
-SurvivorName_Allene "Аллин",
-SurvivorName_Allie "Элли",
-SurvivorName_Allison "Эллисон",
-SurvivorName_Allyson "Эллисон",
-SurvivorName_Alma "Альма",
-SurvivorName_Alonzo "Алонсо",
-SurvivorName_Alphonso "Альфонсо",
-SurvivorName_Alta "Альта",
-SurvivorName_Althea "Алтея",
-SurvivorName_Alton "Элтон",
-SurvivorName_Alvaro "Альваро",
-SurvivorName_Alvin "Элвин",
-SurvivorName_Alvina "Альвина",
-SurvivorName_Alyce "Элис",
-SurvivorName_Alyson "Элисон",
-SurvivorName_Alyssa "Алисса",
-SurvivorName_Amalia "Амалия",
-SurvivorName_Amanda "Аманда",
-SurvivorName_Amber "Эмбер",
-SurvivorName_Ambrose "Эмброуз",
-SurvivorName_Amelia "Амелия",
-SurvivorName_Ami "Эми",
-SurvivorName_Amie "Эми",
-SurvivorName_Amos "Амос",
-SurvivorName_Amy "Эми",
-SurvivorName_Ana "Ана",
-SurvivorName_Anastasia "Анастасия",
-SurvivorName_Anderson "Андерсон",
-SurvivorName_Andre "Андре",
-SurvivorName_Andrea "Андреа",
-SurvivorName_Andreas "Андреас",
-SurvivorName_Andres "Андрес",
-SurvivorName_Andrew "Эндрю",
-SurvivorName_Andy "Энди",
-SurvivorName_Angel "Энджел",
-SurvivorName_Angela "Анджела",
-SurvivorName_Angelica "Анжелика",
-SurvivorName_Angelina "Анджелина",
-SurvivorName_Angeline "Анджелина",
-SurvivorName_Angelique "Анжелика",
-SurvivorName_Angelita "Анжелита",
-SurvivorName_Angelo "Анджело",
-SurvivorName_Angie "Энджи",
-SurvivorName_Anita "Анита",
-SurvivorName_Ann "Энн",
-SurvivorName_Anna "Анна",
-SurvivorName_Annabel "Аннабел",
-SurvivorName_Annabelle "Аннабель",
-SurvivorName_Anne "Энн",
-SurvivorName_Annemarie "Аннамария",
-SurvivorName_Annette "Аннет",
-SurvivorName_Annie "Энни",
-SurvivorName_Annmarie "Эннмари",
-SurvivorName_Anthony "Энтони",
-SurvivorName_Antoine "Антуан",
-SurvivorName_Antoinette "Антуанетта",
-SurvivorName_Anton "Антон",
-SurvivorName_Antonia "Антония",
-SurvivorName_Antonio "Антонио",
-SurvivorName_Antony "Энтони",
-SurvivorName_April "Эйприл",
-SurvivorName_Araceli "Арасели",
-SurvivorName_Archie "Арчи",
-SurvivorName_Aretha "Арета",
-SurvivorName_Ariel "Ариэль",
-SurvivorName_Arleen "Арлин",
-SurvivorName_Arlene "Арлин",
-SurvivorName_Arline "Арлин",
-SurvivorName_Armand "Арманд",
-SurvivorName_Armando "Армандо",
-SurvivorName_Arnold "Арнольд",
-SurvivorName_Aron "Арон",
-SurvivorName_Arron "Аррон",
-SurvivorName_Art "Арт",
-SurvivorName_Arthur "Артур",
-SurvivorName_Arturo "Артуро",
-SurvivorName_Asa "Аса",
-SurvivorName_Ashlee "Эшли",
-SurvivorName_Ashleigh "Эшли",
-SurvivorName_Ashley "Эшли",
-SurvivorName_Astrid "Астрид",
-SurvivorName_Athena "Афина",
-SurvivorName_Aubrey "Обри",
-SurvivorName_Audra "Одра",
-SurvivorName_Audrey "Одри",
-SurvivorName_August "Август",
-SurvivorName_Augusta "Августа",
-SurvivorName_Augustus "Огастес",
-SurvivorName_Aurelia "Аурелия",
-SurvivorName_Aurelio "Аурелио",
-SurvivorName_Aurora "Аврора",
-SurvivorName_Austin "Остин",
-SurvivorName_Autumn "Осенний",
-SurvivorName_Ava "Ава",
-SurvivorName_Avis "Авис",
-SurvivorName_Bambi "Бэмби",
-SurvivorName_Barb "Барб",
-SurvivorName_Barbara "Барбара",
-SurvivorName_Barney "Барни",
-SurvivorName_Barrett "Барретт",
-SurvivorName_Barry "Барри",
-SurvivorName_Bart "Барт",
-SurvivorName_Barton "Бартон",
-SurvivorName_Basil "Бэзил",
-SurvivorName_Beatrice "Беатрис",
-SurvivorName_Beatriz "Беатрис",
-SurvivorName_Beau "Бо",
-SurvivorName_Becky "Бекки",
-SurvivorName_Belinda "Белинда",
-SurvivorName_Bella "Белла",
-SurvivorName_Belle "Белл",
-SurvivorName_Ben "Бен",
-SurvivorName_Benedict "Бенедикт",
-SurvivorName_Benita "Бенита",
-SurvivorName_Benito "Бенито",
-SurvivorName_Benjamin "Бенджамин",
-SurvivorName_Bennett "Беннетт",
-SurvivorName_Bennie "Бенни",
-SurvivorName_Benny "Бенни",
-SurvivorName_Bernadette "Бернадетт",
-SurvivorName_Bernadine "Бернадин",
-SurvivorName_Bernard "Бернард",
-SurvivorName_Bernardo "Бернардо",
-SurvivorName_Bernice "Бернис",
-SurvivorName_Bernie "Берни",
-SurvivorName_Bert "Берт",
-SurvivorName_Berta "Берта",
-SurvivorName_Bertha "Берта",
-SurvivorName_Bertie "Берти",
-SurvivorName_Bertram "Бертрам",
-SurvivorName_Beryl "Берил",
-SurvivorName_Bess "Бесс",
-SurvivorName_Bessie "Бесси",
-SurvivorName_Beth "Бет",
-SurvivorName_Bethany "Бетани",
-SurvivorName_Betsy "Бетси",
-SurvivorName_Bette "Бетт",
-SurvivorName_Bettie "Бетти",
-SurvivorName_Betty "Бетти",
-SurvivorName_Beulah "Бьюла",
-SurvivorName_Beverley "Беверли",
-SurvivorName_Beverly "Беверли",
-SurvivorName_Bianca "Бьянка",
-SurvivorName_Bill "Билл",
-SurvivorName_Billie "Билли",
-SurvivorName_Billy "Билли",
-SurvivorName_Birdie "Берди",
-SurvivorName_Blaine "Блейн",
-SurvivorName_Blair "Блэр",
-SurvivorName_Blake "Блейк",
-SurvivorName_Blanca "Бланка",
-SurvivorName_Blanche "Бланш",
-SurvivorName_Bo "Бо",
-SurvivorName_Bob "Боб",
-SurvivorName_Bobbi "Бобби",
-SurvivorName_Bobbie "Бобби",
-SurvivorName_Bobby "Бобби",
-SurvivorName_Bonita "Бонита",
-SurvivorName_Bonnie "Бонни",
-SurvivorName_Booker "Букер",
-SurvivorName_Boris "Борис",
-SurvivorName_Boyd "Бойд",
-SurvivorName_Brad "Брэд",
-SurvivorName_Bradford "Брэдфорд",
-SurvivorName_Bradley "Брэдли",
-SurvivorName_Brady "Брэди",
-SurvivorName_Branden "Брэнден",
-SurvivorName_Brandi "Брэнди",
-SurvivorName_Brandie "Брэнди",
-SurvivorName_Brandon "Брэндон",
-SurvivorName_Brandy "Бренди",
-SurvivorName_Brant "Брант",
-SurvivorName_Breanna "Бреанна",
-SurvivorName_Brenda "Бренда",
-SurvivorName_Brendan "Брендан",
-SurvivorName_Brendon "Брендон",
-SurvivorName_Brenna "Бренна",
-SurvivorName_Brent "Брент",
-SurvivorName_Bret "Брет",
-SurvivorName_Brett "Бретт",
-SurvivorName_Brian "Брайан",
-SurvivorName_Briana "Бриана",
-SurvivorName_Brianna "Брианна",
-SurvivorName_Brianne "Брианна",
-SurvivorName_Brice "Брайс",
-SurvivorName_Bridget "Бриджит",
-SurvivorName_Bridgette "Бриджит",
-SurvivorName_Brigitte "Бриджит",
-SurvivorName_Britney "Бритни",
-SurvivorName_Brittany "Бриттани",
-SurvivorName_Brock "Брок",
-SurvivorName_Brook "Брук",
-SurvivorName_Brooke "Брук",
-SurvivorName_Brooks "Брукс",
-SurvivorName_Bruce "Брюс",
-SurvivorName_Bruno "Бруно",
-SurvivorName_Bryan "Брайан",
-SurvivorName_Bryant "Брайант",
-SurvivorName_Bryon "Брайон",
-SurvivorName_Bud "Бад",
-SurvivorName_Buddy "Бадди",
-SurvivorName_Buford "Буфорд",
-SurvivorName_Burl "Берл",
-SurvivorName_Burt "Берт",
-SurvivorName_Burton "Бертон",
-SurvivorName_Buster "Бастер",
-SurvivorName_Byron "Байрон",
-SurvivorName_Caitlin "Кейтлин",
-SurvivorName_Caleb "Калеб",
-SurvivorName_Callie "Келли",
-SurvivorName_Cally "Кэлли",
-SurvivorName_Calvin "Кэлвин",
-SurvivorName_Cameron "Кэмерон",
-SurvivorName_Camilla "Камилла",
-SurvivorName_Camille "Камилла",
-SurvivorName_Candace "Кэндис",
-SurvivorName_Candi "Кэнди",
-SurvivorName_Candice "Кэндис",
-SurvivorName_Candida "Кандида",
-SurvivorName_Candy "Кэнди",
-SurvivorName_Cara "Кара",
-SurvivorName_Carey "Кэри",
-SurvivorName_Cari "Кэри",
-SurvivorName_Caridad "Каридад",
-SurvivorName_Carina "Карина",
-SurvivorName_Carissa "Карисса",
-SurvivorName_Carl "Карл",
-SurvivorName_Carla "Карла",
-SurvivorName_Carlene "Карлин",
-SurvivorName_Carlo "Карло",
-SurvivorName_Carlos "Карлос",
-SurvivorName_Carlton "Карлтон",
-SurvivorName_Carly "Карли",
-SurvivorName_Carmel "Кармел",
-SurvivorName_Carmela "Кармела",
-SurvivorName_Carmelita "Кармелита",
-SurvivorName_Carmen "Кармен",
-SurvivorName_Carmine "Кармайн",
-SurvivorName_Carol "Кэрол",
-SurvivorName_Carolina "Каролина",
-SurvivorName_Caroline "Кэролайн",
-SurvivorName_Carolyn "Кэролин",
-SurvivorName_Carrie "Кэрри",
-SurvivorName_Carroll "Кэрролл",
-SurvivorName_Carson "Карсон",
-SurvivorName_Carter "Картер",
-SurvivorName_Cary "Кэри",
-SurvivorName_Caryn "Кэрин",
-SurvivorName_Casey "Кейси",
-SurvivorName_Cassandra "Кассандра",
-SurvivorName_Cassie "Кэсси",
-SurvivorName_Catalina "Каталина",
-SurvivorName_Catherine "Кэтрин",
-SurvivorName_Cathleen "Кэтлин",
-SurvivorName_Cathy "Кэти",
-SurvivorName_Catina "Катина",
-SurvivorName_Catrina "Катрина",
-SurvivorName_Cecelia "Сесилия",
-SurvivorName_Cecil "Сесил",
-SurvivorName_Cecile "Сесиль",
-SurvivorName_Cecilia "Сесилия",
-SurvivorName_Cedric "Седрик",
-SurvivorName_Cedrick "Седрик",
-SurvivorName_Celeste "Селеста",
-SurvivorName_Celestine "Селестина",
-SurvivorName_Celia "Селия",
-SurvivorName_Celina "Селина",
-SurvivorName_Cesar "Сезар",
-SurvivorName_Chad "Чед",
-SurvivorName_Chadwick "Чедвик",
-SurvivorName_Chance "Ченс",
-SurvivorName_Chandra "Чандра",
-SurvivorName_Chang "Чанг",
-SurvivorName_Chantal "Шанталь",
-SurvivorName_Chantel "Шантел",
-SurvivorName_Charisse "Чарисс",
-SurvivorName_Charity "Чарити",
-SurvivorName_Charla "Чарла",
-SurvivorName_Charlene "Шарлин",
-SurvivorName_Charles "Чарльз",
-SurvivorName_Charlie "Чарли",
-SurvivorName_Charlotte "Шарлотта",
-SurvivorName_Charmaine "Чармейн",
-SurvivorName_Chas "Чес",
-SurvivorName_Chase "Чейз",
-SurvivorName_Chastity "Честити",
-SurvivorName_Chauncey "Чонси",
-SurvivorName_Chelsea "Челси",
-SurvivorName_Chelsey "Челси",
-SurvivorName_Cheri "Чери",
-SurvivorName_Cherie "Чери",
-SurvivorName_Cherri "Черри",
-SurvivorName_Cherry "Черри",
-SurvivorName_Cheryl "Шерил",
-SurvivorName_Chester "Честер",
-SurvivorName_Chet "Чет",
-SurvivorName_Chi "Чи",
-SurvivorName_Chiquita "Чикита",
-SurvivorName_Chloe "Хлоя",
-SurvivorName_Chong "Чонг",
-SurvivorName_Chris "Крис",
-SurvivorName_Chrissy "Крисси",
-SurvivorName_Christa "Криста",
-SurvivorName_Christi "Кристи",
-SurvivorName_Christian "Кристиан",
-SurvivorName_Christie "Кристи",
-SurvivorName_Christina "Кристина",
-SurvivorName_Christine "Кристина",
-SurvivorName_Christopher "Кристофер",
-SurvivorName_Christy "Кристи",
-SurvivorName_Chrystal "Кристал",
-SurvivorName_Chuck "Чак",
-SurvivorName_Chun "Чан",
-SurvivorName_Chung "Чанг",
-SurvivorName_Cindi "Синди",
-SurvivorName_Cindy "Синди",
-SurvivorName_Claire "Клэр",
-SurvivorName_Clara "Клара",
-SurvivorName_Clare "Клэр",
-SurvivorName_Clarence "Кларенс",
-SurvivorName_Clarice "Клариса",
-SurvivorName_Clarissa "Кларисса",
-SurvivorName_Clark "Кларк",
-SurvivorName_Claud "Клод",
-SurvivorName_Claude "Клод",
-SurvivorName_Claudette "Клодетт",
-SurvivorName_Claudia "Клаудия",
-SurvivorName_Claudine "Клодин",
-SurvivorName_Claudio "Клаудио",
-SurvivorName_Clay "Клей",
-SurvivorName_Clayton "Клейтон",
-SurvivorName_Clement "Клемент",
-SurvivorName_Clemente "Клементе",
-SurvivorName_Clementine "Клементина",
-SurvivorName_Cleo "Клео",
-SurvivorName_Cletus "Клетус",
-SurvivorName_Cleveland "Кливленд",
-SurvivorName_Cliff "Клифф",
-SurvivorName_Clifford "Клиффорд",
-SurvivorName_Clifton "Клифтон",
-SurvivorName_Clint "Клинт",
-SurvivorName_Clinton "Клинтон",
-SurvivorName_Clyde "Клайд",
-SurvivorName_Cody "Коди",
-SurvivorName_Colby "Колби",
-SurvivorName_Cole "Коул",
-SurvivorName_Coleen "Колин",
-SurvivorName_Coleman "Коулмен",
-SurvivorName_Colette "Колетт",
-SurvivorName_Colin "Колин",
-SurvivorName_Colleen "Колин",
-SurvivorName_Collin "Колин",
-SurvivorName_Colombus "Колумбус",
-SurvivorName_Colton "Колтон",
-SurvivorName_Concepcion "Консепсьон",
-SurvivorName_Concetta "Кончетта",
-SurvivorName_Connie "Конни",
-SurvivorName_Conrad "Конрад",
-SurvivorName_Constance "Констанс",
-SurvivorName_Consuela "Консуэла",
-SurvivorName_Consuelo "Консуэло",
-SurvivorName_Cora "Кора",
-SurvivorName_Coral "Корал",
-SurvivorName_Cordelia "Корделия",
-SurvivorName_Cordell "Корделл",
-SurvivorName_Corey "Кори",
-SurvivorName_Cori "Кори",
-SurvivorName_Corina "Корина",
-SurvivorName_Corine "Корин",
-SurvivorName_Corinna "Коринна",
-SurvivorName_Corinne "Коринн",
-SurvivorName_Cornelia "Корнелия",
-SurvivorName_Cornelius "Корнелиус",
-SurvivorName_Cornell "Корнелл",
-SurvivorName_Corrine "Коррин",
-SurvivorName_Cortez "Кортес",
-SurvivorName_Cory "Кори",
-SurvivorName_Courtney "Кортни",
-SurvivorName_Coy "Кой",
-SurvivorName_Craig "Крейг",
-SurvivorName_Cristina "Кристина",
-SurvivorName_Cruz "Круз",
-SurvivorName_Crystal "Кристал",
-SurvivorName_Curt "Курт",
-SurvivorName_Curtis "Кертис",
-SurvivorName_Cyndi "Синди",
-SurvivorName_Cynthia "Синтия",
-SurvivorName_Cyril "Сирил",
-SurvivorName_Cyrus "Сайрус",
-SurvivorName_Daisy "Дейзи",
-SurvivorName_Dale "Дейл",
-SurvivorName_Dallas "Даллас",
-SurvivorName_Dalton "Далтон",
-SurvivorName_Damaris "Дамарис",
-SurvivorName_Damian "Дэмиан",
-SurvivorName_Damon "Деймон",
-SurvivorName_Dan "Дэн",
-SurvivorName_Dana "Дана",
-SurvivorName_Dane "Дэйн",
-SurvivorName_Danette "Данетт",
-SurvivorName_Daniel "Дэниел",
-SurvivorName_Daniela "Даниэла",
-SurvivorName_Danielle "Даниэль",
-SurvivorName_Danilo "Данило",
-SurvivorName_Danny "Дэнни",
-SurvivorName_Dante "Данте",
-SurvivorName_Daphne "Дафна",
-SurvivorName_Dara "Дара",
-SurvivorName_Darcy "Дарси",
-SurvivorName_Darin "Дарин",
-SurvivorName_Dario "Дарио",
-SurvivorName_Darius "Дариус",
-SurvivorName_Darla "Дарла",
-SurvivorName_Darleen "Дарлин",
-SurvivorName_Darlene "Дарлин",
-SurvivorName_Darnell "Дарнелл",
-SurvivorName_Darrel "Даррел",
-SurvivorName_Darrell "Даррелл",
-SurvivorName_Darren "Даррен",
-SurvivorName_Darrin "Дэррин",
-SurvivorName_Darron "Дэррон",
-SurvivorName_Darryl "Дэррил",
-SurvivorName_Darwin "Дарвин",
-SurvivorName_Daryl "Дэрил",
-SurvivorName_Dave "Дэйв",
-SurvivorName_David "Дэвид",
-SurvivorName_Davis "Дэвис",
-SurvivorName_Dawn "Дон",
-SurvivorName_Dayna "Дейна",
-SurvivorName_Dean "Дин",
-SurvivorName_Deana "Дина",
-SurvivorName_Deandre "Деандре",
-SurvivorName_Deangelo "Деанджело",
-SurvivorName_Deann "Динн",
-SurvivorName_Deanne "Динн",
-SurvivorName_Deb "Деб",
-SurvivorName_Debbie "Дебби",
-SurvivorName_Debby "Дебби",
-SurvivorName_Debi "Деби",
-SurvivorName_Debora "Дебора",
-SurvivorName_Deborah "Дебора",
-SurvivorName_Debra "Дебра",
-SurvivorName_Dee "Ди",
-SurvivorName_Deena "Дина",
-SurvivorName_Deidra "Дейдра",
-SurvivorName_Deirdre "Дейдра",
-SurvivorName_Del "Дель",
-SurvivorName_Delbert "Делберт",
-SurvivorName_Delia "Делия",
-SurvivorName_Delilah "Далила",
-SurvivorName_Della "Дэлла",
-SurvivorName_Delmar "Делмар",
-SurvivorName_Delmer "Делмер",
-SurvivorName_Delores "Долорес",
-SurvivorName_Deloris "Делорис",
-SurvivorName_Delphine "Дэльфин",
-SurvivorName_Demarcus "Демаркус",
-SurvivorName_Demetria "Деметрия",
-SurvivorName_Demetrius "Деметриус",
-SurvivorName_Dena "Дена",
-SurvivorName_Denice "Дэнис",
-SurvivorName_Denis "Денис",
-SurvivorName_Denise "Дениз",
-SurvivorName_Dennis "Деннис",
-SurvivorName_Denny "Денни",
-SurvivorName_Denver "Денвер",
-SurvivorName_Deon "Деон",
-SurvivorName_Derek "Дерек",
-SurvivorName_Derick "Дерик",
-SurvivorName_Derrick "Деррик",
-SurvivorName_Deshawn "Дешон",
-SurvivorName_Desiree "Дезире",
-SurvivorName_Desmond "Десмонд",
-SurvivorName_Destiny "Дестини",
-SurvivorName_Devin "Девин",
-SurvivorName_Devon "Девон",
-SurvivorName_Dewayne "Дуэйн",
-SurvivorName_Dewey "Дьюи",
-SurvivorName_Dewitt "Девитт",
-SurvivorName_Dexter "Декстер",
-SurvivorName_Diana "Диана",
-SurvivorName_Diane "Диана",
-SurvivorName_Dianna "Дианна",
-SurvivorName_Dianne "Диана",
-SurvivorName_Dick "Дик",
-SurvivorName_Diego "Диего",
-SurvivorName_Dillon "Диллон",
-SurvivorName_Dina "Дина",
-SurvivorName_Dinah "Дайна",
-SurvivorName_Dino "Дино",
-SurvivorName_Dion "Дион",
-SurvivorName_Dionne "Дионн",
-SurvivorName_Dirk "Дирк",
-SurvivorName_Dixie "Дикси",
-SurvivorName_Dollie "Долли",
-SurvivorName_Dolly "Долли",
-SurvivorName_Dolores "Долорес",
-SurvivorName_Dominga "Доминга",
-SurvivorName_Domingo "Доминго",
-SurvivorName_Dominic "Доминик",
-SurvivorName_Dominick "Доминик",
-SurvivorName_Dominique "Доминик",
-SurvivorName_Don "Дон",
-SurvivorName_Dona "Дона",
-SurvivorName_Donald "Дональд",
-SurvivorName_Donna "Донна",
-SurvivorName_Donnell "Доннелл",
-SurvivorName_Donnie "Донни",
-SurvivorName_Donny "Донни",
-SurvivorName_Donovan "Донован",
-SurvivorName_Donte "Донти",
-SurvivorName_Dora "Дора",
-SurvivorName_Dorcas "Доркас",
-SurvivorName_Doreen "Дорин",
-SurvivorName_Doris "Дорис",
-SurvivorName_Dorothea "Доротея",
-SurvivorName_Dorothy "Дороти",
-SurvivorName_Dot "Дот",
-SurvivorName_Dottie "Дотти",
-SurvivorName_Doug "Дуг",
-SurvivorName_Douglas "Дуглас",
-SurvivorName_Doyle "Дойл",
-SurvivorName_Drew "Дрю",
-SurvivorName_Duane "Дуэйн",
-SurvivorName_Dudley "Дадли",
-SurvivorName_Duncan "Дункан",
-SurvivorName_Dustin "Дастин",
-SurvivorName_Dusty "Дасти",
-SurvivorName_Dwain "Дуэйн",
-SurvivorName_Dwayne "Дуэйн",
-SurvivorName_Dwight "Дуайт",
-SurvivorName_Dylan "Дилан",
-SurvivorName_Earl "Эрл",
-SurvivorName_Earle "Эрл",
-SurvivorName_Earlene "Эрлин",
-SurvivorName_Earline "Линия ухаа",
-SurvivorName_Earnest "Эрнест",
-SurvivorName_Earnestine "Эрнестин",
-SurvivorName_Ebony "Эбни",
-SurvivorName_Ed "Эд",
-SurvivorName_Eddie "Эдди",
-SurvivorName_Eddy "Эдди",
-SurvivorName_Edgar "Эдгар",
-SurvivorName_Edie "Иди",
-SurvivorName_Edith "Эдит",
-SurvivorName_Edmond "Эдмонд",
-SurvivorName_Edmund "Эдмунд",
-SurvivorName_Edna "Эдна",
-SurvivorName_Eduardo "Эдуардо",
-SurvivorName_Edward "Эдвард",
-SurvivorName_Edwin "Эдвин",
-SurvivorName_Edwina "Эдвина",
-SurvivorName_Effie "Эффи",
-SurvivorName_Eileen "Эллейн",
-SurvivorName_Elaine "Элейн",
-SurvivorName_Elba "Эльба",
-SurvivorName_Elbert "Элберт",
-SurvivorName_Eldon "Элдон",
-SurvivorName_Eleanor "Элеонора",
-SurvivorName_Elena "Елена",
-SurvivorName_Eli "Эли",
-SurvivorName_Elia "Элия",
-SurvivorName_Elias "Элиас",
-SurvivorName_Elijah "Элайджа",
-SurvivorName_Elinor "Элинор",
-SurvivorName_Elisa "Элиза",
-SurvivorName_Elisabeth "Элизабет",
-SurvivorName_Elise "Элиза",
-SurvivorName_Elisha "Элиша",
-SurvivorName_Eliza "Элиза",
-SurvivorName_Elizabeth "Элизабет",
-SurvivorName_Ella "Элла",
-SurvivorName_Ellen "Эллен",
-SurvivorName_Elliot "Эллиот",
-SurvivorName_Elliott "Эллиот",
-SurvivorName_Ellis "Эллис",
-SurvivorName_Elma "Элма",
-SurvivorName_Elmer "Элмер",
-SurvivorName_Elmo "Элмо",
-SurvivorName_Eloise "Элоиза",
-SurvivorName_Elroy "Элрой",
-SurvivorName_Elsa "Эльза",
-SurvivorName_Elsie "Элси",
-SurvivorName_Elton "Элтон",
-SurvivorName_Elva "Эльва",
-SurvivorName_Elvia "Эльвия",
-SurvivorName_Elvin "Элвин",
-SurvivorName_Elvira "Эльвира",
-SurvivorName_Elvis "Элвис",
-SurvivorName_Elwood "Элвуд",
-SurvivorName_Elyse "Элиза",
-SurvivorName_Emanuel "Эмануэль",
-SurvivorName_Emerson "Эмерсон",
-SurvivorName_Emery "Эмери",
-SurvivorName_Emil "Эмиль",
-SurvivorName_Emile "Эмиль",
-SurvivorName_Emilia "Эмилия",
-SurvivorName_Emilio "Эмилио",
-SurvivorName_Emily "Эмили",
-SurvivorName_Emma "Эмма",
-SurvivorName_Emmanuel "Эммануэль",
-SurvivorName_Emmett "Эммет",
-SurvivorName_Enid "Инид",
-SurvivorName_Enoch "Енох",
-SurvivorName_Enrique "Энрике",
-SurvivorName_Eric "Эрик",
-SurvivorName_Erica "Эрика",
-SurvivorName_Erick "Эрик",
-SurvivorName_Ericka "Эрика",
-SurvivorName_Erik "Эрик",
-SurvivorName_Erika "Эрика",
-SurvivorName_Erin "Эрин",
-SurvivorName_Erma "Эрма",
-SurvivorName_Erna "Эрна",
-SurvivorName_Ernest "Эрнест",
-SurvivorName_Ernestine "Эрнестина",
-SurvivorName_Ernesto "Эрнесто",
-SurvivorName_Ernie "Эрни",
-SurvivorName_Errol "Эррол",
-SurvivorName_Ervin "Эрвин",
-SurvivorName_Erwin "Эрвин",
-SurvivorName_Esmeralda "Эсмеральда",
-SurvivorName_Esperanza "Эсперанса",
-SurvivorName_Essie "Эсси",
-SurvivorName_Esteban "Эстебан",
-SurvivorName_Estela "Эстела",
-SurvivorName_Estella "Эстелла",
-SurvivorName_Estelle "Эстель",
-SurvivorName_Ester "Эстер",
-SurvivorName_Esther "Эстер",
-SurvivorName_Ethan "Итан",
-SurvivorName_Ethel "Этель",
-SurvivorName_Etta "Этта",
-SurvivorName_Eugene "Юджин",
-SurvivorName_Eugenia "Евгения",
-SurvivorName_Eula "Еула",
-SurvivorName_Eunice "Юнис",
-SurvivorName_Eva "Ева",
-SurvivorName_Evan "Эван",
-SurvivorName_Evangelina "Эванджелина",
-SurvivorName_Evangeline "Эванджелина",
-SurvivorName_Eve "Ева",
-SurvivorName_Evelyn "Эвелин",
-SurvivorName_Everett "Эверетт",
-SurvivorName_Evie "Эви",
-SurvivorName_Ezekiel "Иезекииль",
-SurvivorName_Ezra "Эзра",
-SurvivorName_Fabian "Фабиан",
-SurvivorName_Faith "Фейт",
-SurvivorName_Fallon "Фэллон",
-SurvivorName_Fannie "Фанни",
-SurvivorName_Fanny "Фанни",
-SurvivorName_Farah "Фара",
-SurvivorName_Fatima "Фатима",
-SurvivorName_Faustino "Фаустино",
-SurvivorName_Fawn "Фаун",
-SurvivorName_Fay "Фэй",
-SurvivorName_Faye "Фэй",
-SurvivorName_Federico "Федерико",
-SurvivorName_Felicia "Фелиция",
-SurvivorName_Felipe "Фелипе",
-SurvivorName_Felix "Феликс",
-SurvivorName_Ferdinand "Фердинанд",
-SurvivorName_Fern "Ферн",
-SurvivorName_Fernando "Фернандо",
-SurvivorName_Ferne "Ферн",
-SurvivorName_Fidel "Фидель",
-SurvivorName_Filomena "Филомена",
-SurvivorName_Fiona "Фиона",
-SurvivorName_Fletcher "Флетчер",
-SurvivorName_Flor "Флор",
-SurvivorName_Flora "Флора",
-SurvivorName_Florence "Флоренс",
-SurvivorName_Florine "Флорин",
-SurvivorName_Flossie "Флосси",
-SurvivorName_Floyd "Флойд",
-SurvivorName_Forest "Форест",
-SurvivorName_Forrest "Форрест",
-SurvivorName_Foster "Фостер",
-SurvivorName_Fran "Фрэн",
-SurvivorName_Frances "Фрэнсис",
-SurvivorName_Francesca "Франческа",
-SurvivorName_Francesco "Франческо",
-SurvivorName_Francine "Франсин",
-SurvivorName_Francis "Фрэнсис",
-SurvivorName_Francisca "Франциска",
-SurvivorName_Francisco "Франсиско",
-SurvivorName_Frank "Фрэнк",
-SurvivorName_Frankie "Фрэнки",
-SurvivorName_Franklin "Франклин",
-SurvivorName_Fred "Фред",
-SurvivorName_Freda "Фреда",
-SurvivorName_Freddie "Фредди",
-SurvivorName_Freddy "Фредди",
-SurvivorName_Frederic "Фредерик",
-SurvivorName_Frederick "Фредерик",
-SurvivorName_Fredrick "Фредрик",
-SurvivorName_Freeman "Фримен",
-SurvivorName_Frieda "Фрида",
-SurvivorName_Fritz "Фриц",
-SurvivorName_Gabriel "Габриэль",
-SurvivorName_Gabriela "Габриэла",
-SurvivorName_Gabriella "Габриэлла",
-SurvivorName_Gabrielle "Габриэль",
-SurvivorName_Gail "Гейл",
-SurvivorName_Gale "Гейл",
-SurvivorName_Galen "Гален",
-SurvivorName_Garland "Гарленд",
-SurvivorName_Garrett "Гаррет",
-SurvivorName_Garry "Гарри",
-SurvivorName_Garth "Гарт",
-SurvivorName_Gary "Гэри",
-SurvivorName_Gaston "Гастон",
-SurvivorName_Gavin "Гэвин",
-SurvivorName_Gay "Гей",
-SurvivorName_Gayle "Гейл",
-SurvivorName_Gena "Джина",
-SurvivorName_Genaro "Хенаро",
-SurvivorName_Gene "Джин",
-SurvivorName_Geneva "Женева",
-SurvivorName_Genevieve "Женевьева",
-SurvivorName_Geoffrey "Джеффри",
-SurvivorName_George "Джордж",
-SurvivorName_Georgette "Джорджетт",
-SurvivorName_Georgia "Джорджия",
-SurvivorName_Georgiana "Джорджиана",
-SurvivorName_Georgie "Джорджи",
-SurvivorName_Georgina "Джорджина",
-SurvivorName_Gerald "Джеральд",
-SurvivorName_Geraldine "Джеральдина",
-SurvivorName_Geraldo "Джеральдо",
-SurvivorName_Gerard "Джерард",
-SurvivorName_Gerardo "Джерардо",
-SurvivorName_Geri "Гэри",
-SurvivorName_Germaine "Джермейн",
-SurvivorName_Gerri "Джерри",
-SurvivorName_Gerry "Джерри",
-SurvivorName_Gertrude "Гертруда",
-SurvivorName_Gigi "Джиджи",
-SurvivorName_Gil "Гил",
-SurvivorName_Gilbert "Гилберт",
-SurvivorName_Gilberto "Гилберто",
-SurvivorName_Gillian "Джиллиан",
-SurvivorName_Gina "Джина",
-SurvivorName_Ginger "Джинджер",
-SurvivorName_Ginny "Джинни",
-SurvivorName_Gino "Джино",
-SurvivorName_Giovanni "Джовани",
-SurvivorName_Gladys "Глэдис",
-SurvivorName_Glen "Глен",
-SurvivorName_Glenda "Гленда",
-SurvivorName_Glenn "Гленн",
-SurvivorName_Glenna "Гленна",
-SurvivorName_Gloria "Глория",
-SurvivorName_Goldie "Голди",
-SurvivorName_Gonzalo "Гонсало",
-SurvivorName_Gordon "Гордон",
-SurvivorName_Grace "Грейс",
-SurvivorName_Gracie "Грейси",
-SurvivorName_Graciela "Грасиэла",
-SurvivorName_Grady "Грейди",
-SurvivorName_Graham "Грэм",
-SurvivorName_Grant "Грант",
-SurvivorName_Greg "Грег",
-SurvivorName_Gregg "Грег",
-SurvivorName_Gregorio "Грегорио",
-SurvivorName_Gregory "Грегори",
-SurvivorName_Greta "Грета",
-SurvivorName_Gretchen "Гретхен",
-SurvivorName_Grover "Гровер",
-SurvivorName_Guadalupe "Гваделупе",
-SurvivorName_Guillermo "Гильермо",
-SurvivorName_Gus "Гас",
-SurvivorName_Gussie "Гасси",
-SurvivorName_Gustavo "Густаво",
-SurvivorName_Guy "Гай",
-SurvivorName_Gwen "Гвен",
-SurvivorName_Gwendolyn "Гвендолин",
-SurvivorName_Ha "Ха",
-SurvivorName_Hae "Хэ",
-SurvivorName_Hailey "Хейли",
-SurvivorName_Hal "Хэл",
-SurvivorName_Haley "Хейли",
-SurvivorName_Hallie "Холли",
-SurvivorName_Hank "Хэнк",
-SurvivorName_Hanna "Ханна",
-SurvivorName_Hannah "Ханна",
-SurvivorName_Hans "Ханс",
-SurvivorName_Harlan "Харлан",
-SurvivorName_Harland "Харланд",
-SurvivorName_Harley "Харли",
-SurvivorName_Harold "Гарольд",
-SurvivorName_Harriet "Харриет",
-SurvivorName_Harriette "Харриетт",
-SurvivorName_Harris "Харрис",
-SurvivorName_Harrison "Харрисон",
-SurvivorName_Harry "Гарри",
-SurvivorName_Harvey "Харви",
-SurvivorName_Hassan "Хассан",
-SurvivorName_Hattie "Хэтти",
-SurvivorName_Hayden "Хейден",
-SurvivorName_Hayley "Хейли",
-SurvivorName_Hazel "Хейзел",
-SurvivorName_Heath "Хит",
-SurvivorName_Heather "Хизер",
-SurvivorName_Hector "Гектор",
-SurvivorName_Heidi "Хайди",
-SurvivorName_Helen "Хелен",
-SurvivorName_Helena "Хелена",
-SurvivorName_Helene "Хелен",
-SurvivorName_Helga "Хельга",
-SurvivorName_Henrietta "Генриетта",
-SurvivorName_Henry "Генри",
-SurvivorName_Herb "Херб",
-SurvivorName_Herbert "Герберт",
-SurvivorName_Herman "Герман",
-SurvivorName_Hermina "Гермина",
-SurvivorName_Herschel "Гершель",
-SurvivorName_Hershel "Хершел",
-SurvivorName_Hester "Эстер",
-SurvivorName_Hilary "Хилари",
-SurvivorName_Hilda "Хильда",
-SurvivorName_Hildegard "Хильдегард",
-SurvivorName_Hillary "Хиллари",
-SurvivorName_Hilton "Хилтон",
-SurvivorName_Hiram "Хайрам",
-SurvivorName_Hiriko "Хирико",
-SurvivorName_Hollie "Холли",
-SurvivorName_Hollis "Холлис",
-SurvivorName_Holly "Холли",
-SurvivorName_Homer "Гомер",
-SurvivorName_Hong "Хонг",
-SurvivorName_Hope "Хоуп",
-SurvivorName_Horace "Гораций",
-SurvivorName_Hortense "Гортензия",
-SurvivorName_Hosea "Осия",
-SurvivorName_Houston "Хьюстон",
-SurvivorName_Howard "Говард",
-SurvivorName_Hoyt "Хойт",
-SurvivorName_Hubert "Хьюберт",
-SurvivorName_Huey "Хьюи",
-SurvivorName_Hugo "Хьюго",
-SurvivorName_Hui "Хуэй",
-SurvivorName_Humberto "Умберто",
-SurvivorName_Hunter "Хантер",
-SurvivorName_Huong "Хуонг",
-SurvivorName_Hyman "Хайман",
-SurvivorName_Hyun "Хен",
-SurvivorName_Ian "Иэн",
-SurvivorName_Ida "Ида",
-SurvivorName_Ignacio "Игнасио",
-SurvivorName_Ike "Айк",
-SurvivorName_Ila "Ила",
-SurvivorName_Ilene "Айлин",
-SurvivorName_Imelda "Имельда",
-SurvivorName_Imogene "Имоджин",
-SurvivorName_Ina "Ина",
-SurvivorName_India "Индия",
-SurvivorName_Ines "Инес",
-SurvivorName_Inez "Инес",
-SurvivorName_Ingrid "Ингрид",
-SurvivorName_Iola "Иола",
-SurvivorName_Iona "Иона",
-SurvivorName_Ione "Иона",
-SurvivorName_Ira "Айра",
-SurvivorName_Irene "Ирэн",
-SurvivorName_Iris "Айрис",
-SurvivorName_Irma "Ирма",
-SurvivorName_Irvin "Ирвин",
-SurvivorName_Irving "Ирвинг",
-SurvivorName_Isaac "Айзек",
-SurvivorName_Isabel "Изабель",
-SurvivorName_Isabella "Изабелла",
-SurvivorName_Isabelle "Изабель",
-SurvivorName_Isaiah "Исайя",
-SurvivorName_Isiah "Айсия",
-SurvivorName_Isidro "Исидро",
-SurvivorName_Ismael "Исмаэль",
-SurvivorName_Israel "Исраэль",
-SurvivorName_Iva "Ива",
-SurvivorName_Ivan "Иван",
-SurvivorName_Ivette "Иветта",
-SurvivorName_Ivy "Айви",
-SurvivorName_Jacinto "Хасинто",
-SurvivorName_Jack "Джек",
-SurvivorName_Jackie "Джеки",
-SurvivorName_Jacklyn "Жаклин",
-SurvivorName_Jackson "Джексон",
-SurvivorName_Jaclyn "Жаклин",
-SurvivorName_Jacob "Джейкоб",
-SurvivorName_Jacqueline "Жаклин",
-SurvivorName_Jacquelyn "Жаклин",
-SurvivorName_Jacques "Жак",
-SurvivorName_Jade "Джейд",
-SurvivorName_Jaime "Джейми",
-SurvivorName_Jake "Джейк",
-SurvivorName_Jamaal "Джамаал",
-SurvivorName_Jamal "Джамал",
-SurvivorName_Jamar "Джамар",
-SurvivorName_Jamel "Джамель",
-SurvivorName_James "Джеймс",
-SurvivorName_Jami "Джами",
-SurvivorName_Jamie "Джейми",
-SurvivorName_Jan "Ян",
-SurvivorName_Jana "Яна",
-SurvivorName_Jane "Джейн",
-SurvivorName_Janel "Джанел",
-SurvivorName_Janell "Джанелл",
-SurvivorName_Janelle "Джанель",
-SurvivorName_Janet "Джанет",
-SurvivorName_Janette "Джанетт",
-SurvivorName_Janice "Дженис",
-SurvivorName_Janie "Джейни",
-SurvivorName_Janine "Джанин",
-SurvivorName_Janis "Дженис",
-SurvivorName_Janna "Жанна",
-SurvivorName_Jannie "Дженни",
-SurvivorName_Jared "Джаред",
-SurvivorName_Jarod "Джарод",
-SurvivorName_Jarred "Джарред",
-SurvivorName_Jarrett "Джаррет",
-SurvivorName_Jarrod "Джаррод",
-SurvivorName_Jarvis "Джарвис",
-SurvivorName_Jasmin "Жасмин",
-SurvivorName_Jasmine "Жасмин",
-SurvivorName_Jason "Джейсон",
-SurvivorName_Jasper "Джаспер",
-SurvivorName_Javier "Хавьер",
-SurvivorName_Jay "Джей",
-SurvivorName_Jayme "Джейм",
-SurvivorName_Jayne "Джейн",
-SurvivorName_Jayson "Джейсон",
-SurvivorName_JC "Джей Си",
-SurvivorName_Jean "Джин",
-SurvivorName_Jeanette "Джанетт",
-SurvivorName_Jeanie "Джини",
-SurvivorName_Jeanine "Джанин",
-SurvivorName_Jeanne "Жанна",
-SurvivorName_Jeannette "Дженнет",
-SurvivorName_Jeannie "Джинни",
-SurvivorName_Jeannine "Джанин",
-SurvivorName_Jed "Джед",
-SurvivorName_Jeff "Джефф",
-SurvivorName_Jefferson "Джефферсон",
-SurvivorName_Jeffery "Джеффри",
-SurvivorName_Jeffrey "Джеффри",
-SurvivorName_Jena "Джена",
-SurvivorName_Jenna "Дженна",
-SurvivorName_Jennie "Дженни",
-SurvivorName_Jennifer "Дженнифер",
-SurvivorName_Jenny "Дженни",
-SurvivorName_Jerald "Джеральд",
-SurvivorName_Jeremiah "Джереми",
-SurvivorName_Jeremy "Джереми",
-SurvivorName_Jeri "Джери",
-SurvivorName_Jermaine "Джермейн",
-SurvivorName_Jerold "Джеролд",
-SurvivorName_Jerome "Джером",
-SurvivorName_Jerri "Джерри",
-SurvivorName_Jerrod "Джеррод",
-SurvivorName_Jerrold "Джерролд",
-SurvivorName_Jerry "Джерри",
-SurvivorName_Jess "Джесс",
-SurvivorName_Jesse "Джесси",
-SurvivorName_Jessica "Джессика",
-SurvivorName_Jessie "Джесси",
-SurvivorName_Jesus "Иисус",
-SurvivorName_Jewel "Джуэл",
-SurvivorName_Jewell "Джуэлл",
-SurvivorName_Jill "Джилл",
-SurvivorName_Jillian "Джиллиан",
-SurvivorName_Jim "Джим",
-SurvivorName_Jimmie "Джимми",
-SurvivorName_Jimmy "Джимми",
-SurvivorName_Jin "Джин",
-SurvivorName_Jo "Джо",
-SurvivorName_Joan "Джоан",
-SurvivorName_Joann "Джоанн",
-SurvivorName_Joanna "Джоанна",
-SurvivorName_Joanne "Джоанна",
-SurvivorName_Joaquin "Хоакин",
-SurvivorName_Jocelyn "Джослин",
-SurvivorName_Jodi "Джоди",
-SurvivorName_Jodie "Джоди",
-SurvivorName_Jody "Джоди",
-SurvivorName_Joe "Джо",
-SurvivorName_Joel "Джоэл",
-SurvivorName_Joelle "Джоэль",
-SurvivorName_Joey "Джоуи",
-SurvivorName_Johanna "Джоанна",
-SurvivorName_John "Джон",
-SurvivorName_Johnathan "Джонатан",
-SurvivorName_Johnnie "Джонни",
-SurvivorName_Johnny "Джонни",
-SurvivorName_Johnson "Джонсон",
-SurvivorName_Jolene "Джолин",
-SurvivorName_Jon "Джон",
-SurvivorName_Jonah "Джона",
-SurvivorName_Jonas "Джонас",
-SurvivorName_Jonathan "Джонатан",
-SurvivorName_Jonathon "Джонатан",
-SurvivorName_Joni "Джони",
-SurvivorName_Jordan "Джордан",
-SurvivorName_Jorge "Хорхе",
-SurvivorName_Jose "Хосе",
-SurvivorName_Josefa "Джозефа",
-SurvivorName_Josefina "Жозефина",
-SurvivorName_Joseph "Джозеф",
-SurvivorName_Josephine "Джозефина",
-SurvivorName_Josette "Джозетт",
-SurvivorName_Josh "Джош",
-SurvivorName_Joshua "Джошуа",
-SurvivorName_Josiah "Джосайя",
-SurvivorName_Josie "Джози",
-SurvivorName_Joy "Джой",
-SurvivorName_Joyce "Джойс",
-SurvivorName_Juan "Хуан",
-SurvivorName_Juana "Хуана",
-SurvivorName_Juanita "Хуанита",
-SurvivorName_Jude "Джуд",
-SurvivorName_Judie "Джуди",
-SurvivorName_Judith "Джудит",
-SurvivorName_Judson "Джадсон",
-SurvivorName_Judy "Джуди",
-SurvivorName_Jules "Джулс",
-SurvivorName_Julia "Джулия",
-SurvivorName_Julian "Джулиан",
-SurvivorName_Juliana "Джулиана",
-SurvivorName_Julianne "Джулианна",
-SurvivorName_Julie "Джули",
-SurvivorName_Juliet "Джульетта",
-SurvivorName_Juliette "Джульетта",
-SurvivorName_Julio "Хулио",
-SurvivorName_Julius "Джулиус",
-SurvivorName_June "Джун",
-SurvivorName_Jung "Юнг",
-SurvivorName_Junior "Джуниор",
-SurvivorName_Justin "Джастин",
-SurvivorName_Justina "Джастина",
-SurvivorName_Justine "Джастин",
-SurvivorName_Kaitlin "Кейтлин",
-SurvivorName_Kaitlyn "Кейтлин",
-SurvivorName_Kami "Ками",
-SurvivorName_Kara "Кара",
-SurvivorName_Kareem "Карим",
-SurvivorName_Karen "Карен",
-SurvivorName_Kari "Кари",
-SurvivorName_Karin "Карин",
-SurvivorName_Karina "Карина",
-SurvivorName_Karl "Карл",
-SurvivorName_Karla "Карла",
-SurvivorName_Karrie "Кэрри",
-SurvivorName_Karyn "Карин",
-SurvivorName_Kasey "Кейси",
-SurvivorName_Kate "Кейт",
-SurvivorName_Katelyn "Кейтлин",
-SurvivorName_Katharine "Кэтрин",
-SurvivorName_Katherine "Кэтрин",
-SurvivorName_Kathi "Кэти",
-SurvivorName_Kathie "Кэти",
-SurvivorName_Kathleen "Кэтлин",
-SurvivorName_Kathrine "Кэтрин",
-SurvivorName_Kathryn "Кэтрин",
-SurvivorName_Kathy "Кэти",
-SurvivorName_Katie "Кэти",
-SurvivorName_Katina "Катина",
-SurvivorName_Katrina "Катрина",
-SurvivorName_Katy "Кэти",
-SurvivorName_Kay "Кей",
-SurvivorName_Kaye "Кайя",
-SurvivorName_Kayla "Кайла",
-SurvivorName_Keenan "Кинан",
-SurvivorName_Keiko "Кейко",
-SurvivorName_Keisha "Кейша",
-SurvivorName_Keith "Кит",
-SurvivorName_Kelley "Келли",
-SurvivorName_Kelli "Келли",
-SurvivorName_Kellie "Келли",
-SurvivorName_Kelly "Келли",
-SurvivorName_Kelsey "Келси",
-SurvivorName_Kelvin "Келвин",
-SurvivorName_Ken "Кен",
-SurvivorName_Kendall "Кендалл",
-SurvivorName_Kendra "Кендра",
-SurvivorName_Kendrick "Кендрик",
-SurvivorName_Kenneth "Кеннет",
-SurvivorName_Kenny "Кенни",
-SurvivorName_Kent "Кент",
-SurvivorName_Kenton "Кентон",
-SurvivorName_Kenya "Кения",
-SurvivorName_Keri "Кери",
-SurvivorName_Kermit "Кермит",
-SurvivorName_Kerri "Керри",
-SurvivorName_Kerrie "Керри",
-SurvivorName_Kerry "Керри",
-SurvivorName_Kevin "Кевин",
-SurvivorName_Kim "Ким",
-SurvivorName_Kimberlee "Кимберли",
-SurvivorName_Kimberley "Кимберли",
-SurvivorName_Kimberly "Кимберли",
-SurvivorName_King "Король",
-SurvivorName_Kip "Кип",
-SurvivorName_Kira "Кира",
-SurvivorName_Kirby "Кирби",
-SurvivorName_Kirk "Кирк",
-SurvivorName_Kirsten "Кирстен",
-SurvivorName_Kisha "Киша",
-SurvivorName_Kitty "Китти",
-SurvivorName_Kizzy "Киззи",
-SurvivorName_Kory "Кори",
-SurvivorName_Kra "Кра",
-SurvivorName_Kris "Крис",
-SurvivorName_Krista "Криста",
-SurvivorName_Kristal "Кристал",
-SurvivorName_Kristen "Кристен",
-SurvivorName_Kristi "Кристи",
-SurvivorName_Kristie "Кристи",
-SurvivorName_Kristin "Кристин",
-SurvivorName_Kristina "Кристина",
-SurvivorName_Kristine "Кристин",
-SurvivorName_Kristofer "Кристофер",
-SurvivorName_Kristopher "Кристофер",
-SurvivorName_Kristy "Кристи",
-SurvivorName_Krystal "Кристал",
-SurvivorName_Kurt "Курт",
-SurvivorName_Kurtis "Куртис",
-SurvivorName_Kyla "Кайла",
-SurvivorName_Kyle "Кайл",
-SurvivorName_Kylie "Кайли",
-SurvivorName_Kym "Ким",
-SurvivorName_Kyung "Кен",
-SurvivorName_Lacey "Лейси",
-SurvivorName_Laci "Лейси",
-SurvivorName_Lacy "Лейси",
-SurvivorName_Ladonna "Ладонна",
-SurvivorName_Lakeisha "Лейкиша",
-SurvivorName_Lakesha "Лейкша",
-SurvivorName_Lakisha "Лакиша",
-SurvivorName_Lamar "Ламар",
-SurvivorName_Lamont "Ламонт",
-SurvivorName_Lana "Лана",
-SurvivorName_Lance "Лэнс",
-SurvivorName_Landon "Лэндон",
-SurvivorName_Lane "Лейн",
-SurvivorName_Lanny "Лэнни",
-SurvivorName_Laquita "Лакита",
-SurvivorName_Lara "Лара",
-SurvivorName_Larissa "Лариса",
-SurvivorName_Larry "Ларри",
-SurvivorName_Lashawn "Лэшон",
-SurvivorName_Lashonda "Лашонда",
-SurvivorName_Latanya "Латанья",
-SurvivorName_Latasha "Латаша",
-SurvivorName_Latisha "Латиша",
-SurvivorName_Latonia "Латония",
-SurvivorName_Latonya "Латония",
-SurvivorName_Latoya "Латоя",
-SurvivorName_Latrice "Латрис",
-SurvivorName_Laura "Лора",
-SurvivorName_Laurel "Лорел",
-SurvivorName_Lauren "Лорен",
-SurvivorName_Laurence "Лоуренс",
-SurvivorName_Lauretta "Лоретта",
-SurvivorName_Lauri "Лаури",
-SurvivorName_Laurie "Лори",
-SurvivorName_Lavern "Лаверн",
-SurvivorName_Laverne "Лаверн",
-SurvivorName_Lavonne "Лавонн",
-SurvivorName_Lawanda "Лоуанда",
-SurvivorName_Lawrence "Лоуренс",
-SurvivorName_Lazaro "Лазаро",
-SurvivorName_Le "Ле",
-SurvivorName_Lea "Леа",
-SurvivorName_Leah "Лия",
-SurvivorName_Leandro "Леандро",
-SurvivorName_Leann "Лиэнн",
-SurvivorName_Leanna "Лианна",
-SurvivorName_Leanne "Лиэнн",
-SurvivorName_Lee "Ли",
-SurvivorName_Leeann "Лиэнн",
-SurvivorName_Leif "Лейф",
-SurvivorName_Leigh "Ли",
-SurvivorName_Leila "Лейла",
-SurvivorName_Leilani "Лейлани",
-SurvivorName_Lela "Лела",
-SurvivorName_Leland "Лиланд",
-SurvivorName_Lemuel "Лемюэл",
-SurvivorName_Len "Лен",
-SurvivorName_Lena "Лена",
-SurvivorName_Lenny "Ленни",
-SurvivorName_Lenora "Ленора",
-SurvivorName_Lenore "Ленор",
-SurvivorName_Leo "Лео",
-SurvivorName_Leola "Леола",
-SurvivorName_Leon "Леон",
-SurvivorName_Leona "Леона",
-SurvivorName_Leonard "Леонард",
-SurvivorName_Leonardo "Леонардо",
-SurvivorName_Leonel "Леонел",
-SurvivorName_Leonor "Леонор",
-SurvivorName_Leonora "Леонора",
-SurvivorName_Leroy "Лерой",
-SurvivorName_Les "Лес",
-SurvivorName_Lesley "Лесли",
-SurvivorName_Leslie "Лесли",
-SurvivorName_Lester "Лестер",
-SurvivorName_Leta "Лета",
-SurvivorName_Letha "Лета",
-SurvivorName_Leticia "Летиция",
-SurvivorName_Letitia "Летиция",
-SurvivorName_Levi "Леви",
-SurvivorName_Lewis "Льюис",
-SurvivorName_Lexi "Лекси",
-SurvivorName_Li "Ли",
-SurvivorName_Libby "Либби",
-SurvivorName_Lidia "Лидия",
-SurvivorName_Lien "Лиен",
-SurvivorName_Lila "Лайла",
-SurvivorName_Lilia "Лилия",
-SurvivorName_Lilian "Лилиан",
-SurvivorName_Liliana "Лилиана",
-SurvivorName_Lillian "Лилиан",
-SurvivorName_Lillie "Лилли",
-SurvivorName_Lilly "Лилли",
-SurvivorName_Lily "Лили",
-SurvivorName_Lina "Лина",
-SurvivorName_Lincoln "Линкольн",
-SurvivorName_Linda "Линда",
-SurvivorName_Lindsay "Линдси",
-SurvivorName_Lindsey "Линдси",
-SurvivorName_Ling "Линг",
-SurvivorName_Linh "Линь",
-SurvivorName_Linnie "Линни",
-SurvivorName_Linwood "Линвуд",
-SurvivorName_Lionel "Лайонел",
-SurvivorName_Lisa "Лиза",
-SurvivorName_Liz "Лиз",
-SurvivorName_Liza "Лайза",
-SurvivorName_Lizette "Лизетт",
-SurvivorName_Lizzie "Лиззи",
-SurvivorName_Lloyd "Ллойд",
-SurvivorName_Logan "Логан",
-SurvivorName_Lois "Лоис",
-SurvivorName_Lola "Лола",
-SurvivorName_Lolita "Лолита",
-SurvivorName_Lon "Лон",
-SurvivorName_Long "Длинный",
-SurvivorName_Lonnie "Лонни",
-SurvivorName_Lonny "Лонни",
-SurvivorName_Lora "Лора",
-SurvivorName_Loren "Лорен",
-SurvivorName_Lorena "Лорена",
-SurvivorName_Lorene "Лорен",
-SurvivorName_Lorenzo "Лоренцо",
-SurvivorName_Loretta "Лоретта",
-SurvivorName_Lori "Лори",
-SurvivorName_Lorie "Лори",
-SurvivorName_Lorna "Лорна",
-SurvivorName_Lorraine "Лоррейн",
-SurvivorName_Lorrie "Лорри",
-SurvivorName_Lottie "Лотти",
-SurvivorName_Lou "Лу",
-SurvivorName_Louella "Луэлла",
-SurvivorName_Louie "Луи",
-SurvivorName_Louis "Луис",
-SurvivorName_Louisa "Луиза",
-SurvivorName_Louise "Луиза",
-SurvivorName_Lourdes "Лурдес",
-SurvivorName_Lowell "Лоуэлл",
-SurvivorName_Loyd "Лойд",
-SurvivorName_Lu "Лу",
-SurvivorName_Luann "Луэнн",
-SurvivorName_Luanne "Луэнн",
-SurvivorName_Lucas "Лукас",
-SurvivorName_Lucia "Люсия",
-SurvivorName_Luciano "Лучано",
-SurvivorName_Lucien "Люсьен",
-SurvivorName_Lucile "Люсиль",
-SurvivorName_Lucille "Люсиль",
-SurvivorName_Lucinda "Люсинда",
-SurvivorName_Lucius "Люциус",
-SurvivorName_Lucretia "Лукреция",
-SurvivorName_Lucy "Люси",
-SurvivorName_Luella "Луэлла",
-SurvivorName_Luigi "Луиджи",
-SurvivorName_Luis "Луис",
-SurvivorName_Luisa "Луиза",
-SurvivorName_Luke "Люк",
-SurvivorName_Lula "Лула",
-SurvivorName_Lulu "Лулу",
-SurvivorName_Lupe "Лупе",
-SurvivorName_Luther "Лютер",
-SurvivorName_Luz "Луз",
-SurvivorName_Lydia "Лидия",
-SurvivorName_Lyle "Лайл",
-SurvivorName_Lyn "Лин",
-SurvivorName_Lynda "Линда",
-SurvivorName_Lyndon "Линдон",
-SurvivorName_Lyndsey "Линдси",
-SurvivorName_Lynette "Линетт",
-SurvivorName_Lynn "Линн",
-SurvivorName_Lynne "Линн",
-SurvivorName_Lynnette "Линетт",
-SurvivorName_Mabel "Мейбл",
-SurvivorName_Mable "Мэйбл",
-SurvivorName_Mac "Мак",
-SurvivorName_Mack "Мак",
-SurvivorName_Mackenzie "Маккензи",
-SurvivorName_Madeleine "Мадлен",
-SurvivorName_Madeline "Мэдлин",
-SurvivorName_Madelyn "Маделин",
-SurvivorName_Madge "Мэдж",
-SurvivorName_Madonna "Мадонна",
-SurvivorName_Mae "Мэй",
-SurvivorName_Magda "Магда",
-SurvivorName_Magdalena "Магдалена",
-SurvivorName_Maggie "Мэгги",
-SurvivorName_Mai "Мэй",
-SurvivorName_Maia "Майя",
-SurvivorName_Malcolm "Малкольм",
-SurvivorName_Malik "Малик",
-SurvivorName_Malinda "Малинда",
-SurvivorName_Mallory "Мэллори",
-SurvivorName_Mamie "Мэми",
-SurvivorName_Mandi "Мэнди",
-SurvivorName_Mandy "Мэнди",
-SurvivorName_Manuel "Мануэль",
-SurvivorName_Manuela "Мануэла",
-SurvivorName_Mara "Мара",
-SurvivorName_Marc "Марк",
-SurvivorName_Marcel "Марсель",
-SurvivorName_Marcela "Марсела",
-SurvivorName_Marcelino "Марселино",
-SurvivorName_Marcella "Марселла",
-SurvivorName_Marcelle "Марсель",
-SurvivorName_Marcellus "Марселлус",
-SurvivorName_Marcelo "Марсело",
-SurvivorName_Marci "Марси",
-SurvivorName_Marcia "Марсия",
-SurvivorName_Marcie "Марси",
-SurvivorName_Marco "Марко",
-SurvivorName_Marcos "Маркос",
-SurvivorName_Marcus "Маркус",
-SurvivorName_Marcy "Марси",
-SurvivorName_Margaret "Маргарет",
-SurvivorName_Margarita "Маргарита",
-SurvivorName_Marge "Мардж",
-SurvivorName_Margery "Марджери",
-SurvivorName_Margie "Марджи",
-SurvivorName_Margo "Марго",
-SurvivorName_Margot "Марго",
-SurvivorName_Marguerite "Маргарита",
-SurvivorName_Mari "Мэри",
-SurvivorName_Maria "Мария",
-SurvivorName_Mariah "Мэрайя",
-SurvivorName_Mariam "Мариам",
-SurvivorName_Marian "Мэриан",
-SurvivorName_Mariana "Мариана",
-SurvivorName_Marianna "Марианна",
-SurvivorName_Marianne "Марианна",
-SurvivorName_Mariano "Мариано",
-SurvivorName_Maribel "Марибель",
-SurvivorName_Maricela "Марисела",
-SurvivorName_Marie "Мэри",
-SurvivorName_Marietta "Мариетта",
-SurvivorName_Marilee "Мэрили",
-SurvivorName_Marilyn "Мэрилин",
-SurvivorName_Marina "Марина",
-SurvivorName_Mario "Марио",
-SurvivorName_Marion "Марион",
-SurvivorName_Marisa "Мариса",
-SurvivorName_Marisela "Марисела",
-SurvivorName_Marisol "Марисоль",
-SurvivorName_Marissa "Марисса",
-SurvivorName_Maritza "Марица",
-SurvivorName_Marjorie "Марджори",
-SurvivorName_Marjory "Марджори",
-SurvivorName_Mark "Марк",
-SurvivorName_Markus "Маркус",
-SurvivorName_Marla "Марла",
-SurvivorName_Marlene "Марлен",
-SurvivorName_Marlin "Марлин",
-SurvivorName_Marlon "Марлон",
-SurvivorName_Marquis "Маркиз",
-SurvivorName_Marsha "Марша",
-SurvivorName_Marshall "Маршалл",
-SurvivorName_Marta "Марта",
-SurvivorName_Martha "Марта",
-SurvivorName_Martin "Мартин",
-SurvivorName_Martina "Мартина",
-SurvivorName_Martine "Мартин",
-SurvivorName_Marty "Марти",
-SurvivorName_Marva "Марва",
-SurvivorName_Marvin "Марвин",
-SurvivorName_Mary "Мэри",
-SurvivorName_Maryann "Мэриэнн",
-SurvivorName_Maryanne "Мэриэнн",
-SurvivorName_Marybeth "Мэрибет",
-SurvivorName_Maryellen "Мэрилин",
-SurvivorName_Maryjane "Мэриджейн",
-SurvivorName_Marylou "Мэрилу",
-SurvivorName_Masako "Масако",
-SurvivorName_Mason "Мейсон",
-SurvivorName_Mathew "Мэтью",
-SurvivorName_Matilda "Матильда",
-SurvivorName_Matt "Мэтт",
-SurvivorName_Matthew "Мэтью",
-SurvivorName_Mattie "Мэтти",
-SurvivorName_Maude "Мод",
-SurvivorName_Maudie "Моди",
-SurvivorName_Maura "Маура",
-SurvivorName_Maureen "Морин",
-SurvivorName_Maurice "Морис",
-SurvivorName_Mauricio "Муарисио",
-SurvivorName_Maurine "Морин",
-SurvivorName_Mavis "Мэвис",
-SurvivorName_Max "Макс",
-SurvivorName_Maximo "Максимо",
-SurvivorName_Maxine "Максин",
-SurvivorName_Maxwell "Максвелл",
-SurvivorName_May "Мэй",
-SurvivorName_Maya "Майя",
-SurvivorName_Maybelle "Мейбелл",
-SurvivorName_Maynard "Мейнард",
-SurvivorName_Mayra "Майра",
-SurvivorName_Mayumi "Маюми",
-SurvivorName_Meagan "Миган",
-SurvivorName_Meg "Мэг",
-SurvivorName_Megan "Меган",
-SurvivorName_Meghan "Меган",
-SurvivorName_Mei "Мэй",
-SurvivorName_Mel "Мел",
-SurvivorName_Melanie "Мелани",
-SurvivorName_Melba "Мелба",
-SurvivorName_Melina "Мелина",
-SurvivorName_Melinda "Мелинда",
-SurvivorName_Melisa "Мелиса",
-SurvivorName_Melissa "Мелисса",
-SurvivorName_Melodie "Мэлоди",
-SurvivorName_Melody "Мелоди",
-SurvivorName_Melva "Мелва",
-SurvivorName_Melvin "Мелвин",
-SurvivorName_Mercedes "Мерседес",
-SurvivorName_Meredith "Мередит",
-SurvivorName_Merle "Мерл",
-SurvivorName_Merlin "Мерлин",
-SurvivorName_Merrill "Меррилл",
-SurvivorName_Mervin "Мервин",
-SurvivorName_Mi "Ми",
-SurvivorName_Mia "Миа",
-SurvivorName_Micah "Мика",
-SurvivorName_Michael "Майкл",
-SurvivorName_Michaela "Микаэла",
-SurvivorName_Michel "Мишель",
-SurvivorName_Michele "Мишель",
-SurvivorName_Michelle "Мишель",
-SurvivorName_Michiko "Митико",
-SurvivorName_Mickey "Микки",
-SurvivorName_Miguel "Мигель",
-SurvivorName_Mike "Майк",
-SurvivorName_Mila "Мила",
-SurvivorName_Milagros "Милагрос",
-SurvivorName_Mildred "Милдред",
-SurvivorName_Miles "Майлз",
-SurvivorName_Milford "Милфорд",
-SurvivorName_Millard "Миллард",
-SurvivorName_Millicent "Миллисент",
-SurvivorName_Millie "Милли",
-SurvivorName_Milo "Майло",
-SurvivorName_Milton "Милтон",
-SurvivorName_Mimi "Мими",
-SurvivorName_Min "Мин",
-SurvivorName_Mina "Мина",
-SurvivorName_Mindy "Минди",
-SurvivorName_Minerva "Минерва",
-SurvivorName_Minh "Мин",
-SurvivorName_Minnie "Минни",
-SurvivorName_Mira "Мира",
-SurvivorName_Miranda "Миранда",
-SurvivorName_Miriam "Мириам",
-SurvivorName_Missy "Мисси",
-SurvivorName_Misti "Мисти",
-SurvivorName_Misty "Мисти",
-SurvivorName_Mitch "Митч",
-SurvivorName_Mitchell "Митчелл",
-SurvivorName_Mitsuko "Мицуко",
-SurvivorName_Mitzi "Митци",
-SurvivorName_Mohamed "Мохаммед",
-SurvivorName_Mohammad "Мохаммад",
-SurvivorName_Mohammed "Мохаммед",
-SurvivorName_Moira "Мойра",
-SurvivorName_Mollie "Молли",
-SurvivorName_Molly "Молли",
-SurvivorName_Mona "Мона",
-SurvivorName_Monica "Моника",
-SurvivorName_Monika "Моника",
-SurvivorName_Monique "Моник",
-SurvivorName_Monroe "Монро",
-SurvivorName_Monte "Монте",
-SurvivorName_Monty "Монти",
-SurvivorName_Morgan "Морган",
-SurvivorName_Morris "Моррис",
-SurvivorName_Morton "Мортон",
-SurvivorName_Moses "Мозес",
-SurvivorName_Moshe "Моше",
-SurvivorName_Mui "Муи",
-SurvivorName_Muriel "Мюриэл",
-SurvivorName_Murray "Мюррей",
-SurvivorName_Myles "Майлз",
-SurvivorName_Myong "Мен",
-SurvivorName_Myra "Майра",
-SurvivorName_Myrna "Мирна",
-SurvivorName_Myron "Майрон",
-SurvivorName_Myrtle "Миртл",
-SurvivorName_Nadia "Надя",
-SurvivorName_Nadine "Надин",
-SurvivorName_Nancy "Нэнси",
-SurvivorName_Nanette "Нанетт",
-SurvivorName_Naomi "Наоми",
-SurvivorName_Napoleon "Наполеон",
-SurvivorName_Natalia "Наталья",
-SurvivorName_Natalie "Натали",
-SurvivorName_Natasha "Наташа",
-SurvivorName_Nathan "Натан",
-SurvivorName_Nathaniel "Натаниэль",
-SurvivorName_Neal "Нил",
-SurvivorName_Ned "Нед",
-SurvivorName_Neil "Нил",
-SurvivorName_Nelda "Нельда",
-SurvivorName_Nell "Нелл",
-SurvivorName_Nellie "Нелли",
-SurvivorName_Nelson "Нельсон",
-SurvivorName_Nereida "Нереида",
-SurvivorName_Nestor "Нестор",
-SurvivorName_Nettie "Нетти",
-SurvivorName_Neva "Нева",
-SurvivorName_Neville "Невилл",
-SurvivorName_Newton "Ньютон",
-SurvivorName_Nicholas "Николас",
-SurvivorName_Nichole "Николь",
-SurvivorName_Nick "Ник",
-SurvivorName_Nicki "Ники",
-SurvivorName_Nicky "Ники",
-SurvivorName_Nicola "Никола",
-SurvivorName_Nicolas "Николас",
-SurvivorName_Nicole "Николь",
-SurvivorName_Nigel "Найджел",
-SurvivorName_Nikita "Никита",
-SurvivorName_Nikki "Никки",
-SurvivorName_Nina "Нина",
-SurvivorName_Nita "Нита",
-SurvivorName_Noah "Ноа",
-SurvivorName_Noble "Ноубл",
-SurvivorName_Noel "Ноэль",
-SurvivorName_Noelle "Ноэль",
-SurvivorName_Noemi "Ноэми",
-SurvivorName_Nola "Нола",
-SurvivorName_Nolan "Нолан",
-SurvivorName_Nona "Нона",
-SurvivorName_Nora "Нора",
-SurvivorName_Norbert "Норберт",
-SurvivorName_Noreen "Норин",
-SurvivorName_Noriko "Норико",
-SurvivorName_Norma "Норма",
-SurvivorName_Norman "Норман",
-SurvivorName_Norris "Норрис",
-SurvivorName_Nova "Нова",
-SurvivorName_Octavia "Октавия",
-SurvivorName_Octavio "Октавио",
-SurvivorName_Odell "Оделл",
-SurvivorName_Odessa "Одесса",
-SurvivorName_Odette "Одетта",
-SurvivorName_Ofelia "Офелия",
-SurvivorName_Ola "Ола",
-SurvivorName_Olga "Ольга",
-SurvivorName_Olin "Олин",
-SurvivorName_Olive "Олив",
-SurvivorName_Oliver "Оливер",
-SurvivorName_Olivia "Оливия",
-SurvivorName_Ollie "Олли",
-SurvivorName_Omar "Омар",
-SurvivorName_Omer "Омер",
-SurvivorName_Opal "Опал",
-SurvivorName_Ophelia "Офелия",
-SurvivorName_Ora "Ора",
-SurvivorName_Oren "Орен",
-SurvivorName_Orlando "Орландо",
-SurvivorName_Orville "Орвилл",
-SurvivorName_Oscar "Оскар",
-SurvivorName_Otis "Отис",
-SurvivorName_Otto "Отто",
-SurvivorName_Owen "Оуэн",
-SurvivorName_Pablo "Пабло",
-SurvivorName_Paige "Пейдж",
-SurvivorName_Pam "Пэм",
-SurvivorName_Pamela "Памела",
-SurvivorName_Pansy "Панси",
-SurvivorName_Paola "Паола",
-SurvivorName_Paris "Пэрис",
-SurvivorName_Parker "Паркер",
-SurvivorName_Pasquale "Паскуале",
-SurvivorName_Pat "Пэт",
-SurvivorName_Patrice "Патрис",
-SurvivorName_Patricia "Патриция",
-SurvivorName_Patrick "Патрик",
-SurvivorName_Patsy "Пэтси",
-SurvivorName_Patti "Патти",
-SurvivorName_Pattie "Патти",
-SurvivorName_Patty "Пэтти",
-SurvivorName_Paul "Пол",
-SurvivorName_Paula "Пола",
-SurvivorName_Paulette "Полетт",
-SurvivorName_Paulina "Паулина",
-SurvivorName_Pauline "Полин",
-SurvivorName_Pearl "Перл",
-SurvivorName_Pearlie "Перли",
-SurvivorName_Pedro "Педро",
-SurvivorName_Peggy "Пегги",
-SurvivorName_Penelope "Пенелопа",
-SurvivorName_Penny "Пенни",
-SurvivorName_Percy "Перси",
-SurvivorName_Perry "Перри",
-SurvivorName_Pete "Пит",
-SurvivorName_Peter "Питер",
-SurvivorName_Petra "Петра",
-SurvivorName_Phil "Фил",
-SurvivorName_Philip "Филип",
-SurvivorName_Phillip "Филип",
-SurvivorName_Philomena "Филомена",
-SurvivorName_Phoebe "Фиби",
-SurvivorName_Phyllis "Филлис",
-SurvivorName_Pia "Пиа",
-SurvivorName_Pierre "Пьер",
-SurvivorName_Pilar "Пилар",
-SurvivorName_Piper "Пайпер",
-SurvivorName_Polly "Полли",
-SurvivorName_Porter "Портер",
-SurvivorName_Portia "Порция",
-SurvivorName_Precious "Драгоценный",
-SurvivorName_Preston "Престон",
-SurvivorName_Prince "Принц",
-SurvivorName_Princess "Принцесса",
-SurvivorName_Priscilla "Присцилла",
-SurvivorName_Quentin "Квентин",
-SurvivorName_Quincy "Куинси",
-SurvivorName_Quinn "Куинн",
-SurvivorName_Quintin "Квинтин",
-SurvivorName_Quinton "Куинтон",
-SurvivorName_Rachael "Рейчел",
-SurvivorName_Rachel "Рэйчел",
-SurvivorName_Rachelle "Рашель",
-SurvivorName_Racquel "Ракель",
-SurvivorName_Rae "Рей",
-SurvivorName_Rafael "Рафаэль",
-SurvivorName_Rafaela "Рафаэла",
-SurvivorName_Raleigh "Роли",
-SurvivorName_Ralph "Ральф",
-SurvivorName_Ramiro "Рамиро",
-SurvivorName_Ramon "Рамон",
-SurvivorName_Ramona "Рамона",
-SurvivorName_Randal "Рэндал",
-SurvivorName_Randall "Рэндалл",
-SurvivorName_Randi "Рэнди",
-SurvivorName_Randolph "Рэндольф",
-SurvivorName_Randy "Рэнди",
-SurvivorName_Raphael "Рафаэль",
-SurvivorName_Raquel "Ракель",
-SurvivorName_Rashad "Рашад",
-SurvivorName_Rashida "Рашида",
-SurvivorName_Raul "Рауль",
-SurvivorName_Raven "Рейвен",
-SurvivorName_Ray "Рэй",
-SurvivorName_Raymon "Рэймон",
-SurvivorName_Raymond "Рэймонд",
-SurvivorName_Reba "Реба",
-SurvivorName_Rebecca "Ребекка",
-SurvivorName_Rebekah "Ребекка",
-SurvivorName_Reed "Рид",
-SurvivorName_Reggie "Реджи",
-SurvivorName_Regina "Реджина",
-SurvivorName_Reginald "Реджинальд",
-SurvivorName_Reid "Рид",
-SurvivorName_Reina "Рейна",
-SurvivorName_Rena "Рена",
-SurvivorName_Renae "Рене",
-SurvivorName_Renata "Рената",
-SurvivorName_Renato "Ренато",
-SurvivorName_Rene "Рене",
-SurvivorName_Renee "Рене",
-SurvivorName_Reuben "Рубен",
-SurvivorName_Reva "Рива",
-SurvivorName_Rex "Рекс",
-SurvivorName_Rey "Рей",
-SurvivorName_Reyes "Рейес",
-SurvivorName_Reyna "Рейна",
-SurvivorName_Reynaldo "Рейнальдо",
-SurvivorName_Rhea "Рея",
-SurvivorName_Rhett "Ретт",
-SurvivorName_Rhoda "Рода",
-SurvivorName_Rhonda "Ронда",
-SurvivorName_Ricardo "Рикардо",
-SurvivorName_Rich "Рич",
-SurvivorName_Richard "Ричард",
-SurvivorName_Richie "Ричи",
-SurvivorName_Rick "Рик",
-SurvivorName_Rickey "Рики",
-SurvivorName_Rickie "Рики",
-SurvivorName_Ricky "Рики",
-SurvivorName_Rico "Рико",
-SurvivorName_Rikki "Рикки",
-SurvivorName_Riley "Райли",
-SurvivorName_Rita "Рита",
-SurvivorName_Rob "Роб",
-SurvivorName_Robbie "Робби",
-SurvivorName_Robert "Роберт",
-SurvivorName_Roberta "Роберта",
-SurvivorName_Roberto "Роберто",
-SurvivorName_Robin "Робин",
-SurvivorName_Robyn "Робин",
-SurvivorName_Rocco "Рокко",
-SurvivorName_Rochelle "Рошель",
-SurvivorName_Rocio "Росио",
-SurvivorName_Rocky "Рокки",
-SurvivorName_Rod "Род",
-SurvivorName_Roderick "Родерик",
-SurvivorName_Rodger "Роджер",
-SurvivorName_Rodney "Родни",
-SurvivorName_Rodolfo "Родольфо",
-SurvivorName_Rodrigo "Родриго",
-SurvivorName_Roger "Роджер",
-SurvivorName_Roland "Роланд",
-SurvivorName_Rolando "Роландо",
-SurvivorName_Rolf "Рольф",
-SurvivorName_Roma "Рома",
-SurvivorName_Roman "Роман",
-SurvivorName_Romeo "Ромео",
-SurvivorName_Ron "Рон",
-SurvivorName_Ronald "Рональд",
-SurvivorName_Ronda "Ронда",
-SurvivorName_Ronnie "Ронни",
-SurvivorName_Ronny "Ронни",
-SurvivorName_Roosvedlt "Рузвельт",
-SurvivorName_Rory "Рори",
-SurvivorName_Rosa "Роза",
-SurvivorName_Rosalee "Розали",
-SurvivorName_Rosalia "Розалия",
-SurvivorName_Rosalie "Розали",
-SurvivorName_Rosalina "Розалина",
-SurvivorName_Rosalind "Розалинда",
-SurvivorName_Rosalinda "Розалинда",
-SurvivorName_Rosaline "Розалин",
-SurvivorName_Rosalyn "Розалин",
-SurvivorName_Rosamond "Розамонд",
-SurvivorName_Rosanna "Розанна",
-SurvivorName_Rosario "Росарио",
-SurvivorName_Roscoe "Роско",
-SurvivorName_Rose "Роза",
-SurvivorName_Roseann "Розанна",
-SurvivorName_Roseanne "Розанна",
-SurvivorName_Rosella "Розелла",
-SurvivorName_Rosemarie "Розмари",
-SurvivorName_Rosemary "Розмари",
-SurvivorName_Rosetta "Розетта",
-SurvivorName_Rosie "Рози",
-SurvivorName_Rosita "Розита",
-SurvivorName_Roslyn "Рослин",
-SurvivorName_Ross "Росс",
-SurvivorName_Rowena "Ровена",
-SurvivorName_Roxanna "Роксана",
-SurvivorName_Roxanne "Роксана",
-SurvivorName_Roxie "Рокси",
-SurvivorName_Roy "Рой",
-SurvivorName_Royce "Ройс",
-SurvivorName_Ruben "Рубен",
-SurvivorName_Rubin "Рубин",
-SurvivorName_Ruby "Руби",
-SurvivorName_Rudolph "Рудольф",
-SurvivorName_Rudy "Руди",
-SurvivorName_Rufus "Руфус",
-SurvivorName_Rupert "Руперт",
-SurvivorName_Russ "Расс",
-SurvivorName_Russel "Рассел",
-SurvivorName_Russell "Рассел",
-SurvivorName_Rusty "Расти",
-SurvivorName_Ruth "Рут",
-SurvivorName_Ruthie "Рути",
-SurvivorName_Ryan "Райан",
-SurvivorName_Sabina "Сабина",
-SurvivorName_Sabrina "Сабрина",
-SurvivorName_Sadie "Сэди",
-SurvivorName_Sal "Сэл",
-SurvivorName_Sallie "Салли",
-SurvivorName_Sally "Салли",
-SurvivorName_Salome "Саломея",
-SurvivorName_Salvador "Сальвадор",
-SurvivorName_Salvatore "Сальваторе",
-SurvivorName_Sam "Сэм",
-SurvivorName_Samantha "Саманта",
-SurvivorName_Sammie "Сэмми",
-SurvivorName_Sammy "Сэмми",
-SurvivorName_Samuel "Сэмюэл",
-SurvivorName_Sandi "Сэнди",
-SurvivorName_Sandra "Сандра",
-SurvivorName_Sandy "Сэнди",
-SurvivorName_Sanford "Сэнфорд",
-SurvivorName_Sang "Пел",
-SurvivorName_Santiago "Сантьяго",
-SurvivorName_Santo "Санто",
-SurvivorName_Santos "Сантос",
-SurvivorName_Sara "Сара",
-SurvivorName_Sarah "Сара",
-SurvivorName_Sasha "Саша",
-SurvivorName_Saul "Сол",
-SurvivorName_Savannah "Саванна",
-SurvivorName_Scarlett "Скарлетт",
-SurvivorName_Scot "Скотт",
-SurvivorName_Scott "Скотт",
-SurvivorName_Scotty "Скотти",
-SurvivorName_Sean "Шон",
-SurvivorName_Sebastian "Себастьян",
-SurvivorName_Selena "Селена",
-SurvivorName_Selina "Селина",
-SurvivorName_Selma "Сельма",
-SurvivorName_Serena "Серена",
-SurvivorName_Sergio "Серхио",
-SurvivorName_Seth "Сет",
-SurvivorName_Seymour "Сеймур",
-SurvivorName_Sha "Ша",
-SurvivorName_Shad "Шэд",
-SurvivorName_Shamika "Шамика",
-SurvivorName_Shana "Шана",
-SurvivorName_Shanda "Шанда",
-SurvivorName_Shane "Шейн",
-SurvivorName_Shanna "Шанна",
-SurvivorName_Shannon "Шеннон",
-SurvivorName_Shari "Шери",
-SurvivorName_Sharlene "Шарлин",
-SurvivorName_Sharon "Шэрон",
-SurvivorName_Sharonda "Шаронда",
-SurvivorName_Sharron "Шаррон",
-SurvivorName_Shaun "Шон",
-SurvivorName_Shauna "Шона",
-SurvivorName_Shaundra "Шондра",
-SurvivorName_Shawn "Шон",
-SurvivorName_Shawna "Шона",
-SurvivorName_Shayla "Шейла",
-SurvivorName_Shayna "Шейна",
-SurvivorName_Shayne "Шейн",
-SurvivorName_Sheena "Шина",
-SurvivorName_Sheila "Шейла",
-SurvivorName_Shelby "Шелби",
-SurvivorName_Sheldon "Шелдон",
-SurvivorName_Shelia "Шелия",
-SurvivorName_Shelley "Шелли",
-SurvivorName_Shelli "Шелли",
-SurvivorName_Shellie "Шелли",
-SurvivorName_Shelly "Шелли",
-SurvivorName_Shelton "Шелтон",
-SurvivorName_Sheree "Шери",
-SurvivorName_Sheri "Шери",
-SurvivorName_Sherie "Шери",
-SurvivorName_Sherman "Шерман",
-SurvivorName_Sherri "Шерри",
-SurvivorName_Sherrie "Шерри",
-SurvivorName_Sherry "Шерри",
-SurvivorName_Sheryl "Шерил",
-SurvivorName_Shirley "Ширли",
-SurvivorName_Shona "Шона",
-SurvivorName_Shonda "Шонда",
-SurvivorName_Sid "Сид",
-SurvivorName_Sidney "Сидни",
-SurvivorName_Sierra "Сьерра -",
-SurvivorName_Silas "Сайлас",
-SurvivorName_Silvia "Сильвия",
-SurvivorName_Simon "Саймон",
-SurvivorName_Simone "Симона",
-SurvivorName_Siu "Сиу",
-SurvivorName_Socorro "Сокорро",
-SurvivorName_Sofia "София",
-SurvivorName_Sol "Сол",
-SurvivorName_Solomon "Соломон",
-SurvivorName_Sondra "Сондра",
-SurvivorName_Sonia "Соня",
-SurvivorName_Sonja "Соня",
-SurvivorName_Sonny "Сонни",
-SurvivorName_Sonya "Соня",
-SurvivorName_Sophia "София",
-SurvivorName_Sophie "Софи",
-SurvivorName_Spencer "Спенсер",
-SurvivorName_Stacey "Стейси",
-SurvivorName_Staci "Стейси",
-SurvivorName_Stacie "Стейси",
-SurvivorName_Stacy "Стейси",
-SurvivorName_Stan "Стэн",
-SurvivorName_Stanford "Стэнфорд",
-SurvivorName_Stanley "Стэнли",
-SurvivorName_Starla "Старла",
-SurvivorName_Stefan "Стефан",
-SurvivorName_Stefanie "Стефани",
-SurvivorName_Stella "Стелла",
-SurvivorName_Stephan "Стефан",
-SurvivorName_Stephanie "Стефани",
-SurvivorName_Stephany "Стефани",
-SurvivorName_Stephen "Стивен",
-SurvivorName_Sterling "Стерлинг",
-SurvivorName_Steve "Стив",
-SurvivorName_Steven "Стивен",
-SurvivorName_Stevie "Стиви",
-SurvivorName_Stewart "Стюарт",
-SurvivorName_Stuart "Стюарт",
-SurvivorName_Su "Су",
-SurvivorName_Sue "Сью",
-SurvivorName_Summer "Саммер",
-SurvivorName_Sun "Сан",
-SurvivorName_Sung "Сун",
-SurvivorName_Sunny "Санни",
-SurvivorName_Susan "Сьюзан",
-SurvivorName_Susana "Сюзанна",
-SurvivorName_Susanne "Сюзанна",
-SurvivorName_Susannna "Сюзанна",
-SurvivorName_Susia "Сусия",
-SurvivorName_Suzanne "Сюзанна",
-SurvivorName_Suzette "Сюзетта",
-SurvivorName_Suzie "Сьюзи",
-SurvivorName_Sybil "Сибилла",
-SurvivorName_Sydney "Сидни",
-SurvivorName_Sylvester "Сильвестр",
-SurvivorName_Sylvia "Сильвия",
-SurvivorName_Syreeta "Сириета",
-SurvivorName_Tabitha "Табита",
-SurvivorName_Tamara "Тамара",
-SurvivorName_Tameka "Тамека",
-SurvivorName_Tamera "Тамера",
-SurvivorName_Tami "Тами",
-SurvivorName_Tamika "Тамика",
-SurvivorName_Tammi "Тэмми",
-SurvivorName_Tammie "Тэмми",
-SurvivorName_Tammy "Тэмми",
-SurvivorName_Tamra "Тамра",
-SurvivorName_Tamsin "Тэмсин",
-SurvivorName_Tana "Тана",
-SurvivorName_Tania "Таня",
-SurvivorName_Tanisha "Таниша",
-SurvivorName_Tanner "Таннер",
-SurvivorName_Tanya "Таня",
-SurvivorName_Tara "Тара",
-SurvivorName_Taryn "Тарин",
-SurvivorName_Tasha "Таша",
-SurvivorName_Tawana "Тавана",
-SurvivorName_Tawanda "Таванда",
-SurvivorName_Tawny "Тони",
-SurvivorName_Taylor "Тейлор",
-SurvivorName_Ted "Тед",
-SurvivorName_Teddy "Тедди",
-SurvivorName_Teresa "Тереза",
-SurvivorName_Teri "Тери",
-SurvivorName_Terra "Терра",
-SurvivorName_Terrance "Терренс",
-SurvivorName_Terrell "Террелл",
-SurvivorName_Terrence "Терренс",
-SurvivorName_Terri "Терри",
-SurvivorName_Terrie "Терри",
-SurvivorName_Terry "Терри",
-SurvivorName_Tessa "Тесса",
-SurvivorName_Tessie "Тесси",
-SurvivorName_Thad "Тэд",
-SurvivorName_Thaddeus "Таддеус",
-SurvivorName_Thanh "Тхань",
-SurvivorName_Thea "Теа",
-SurvivorName_Thelma "Тельма",
-SurvivorName_Theo "Тео",
-SurvivorName_Theodora "Теодора",
-SurvivorName_Theodore "Теодор",
-SurvivorName_Theresa "Тереза",
-SurvivorName_Therese "Тереза",
-SurvivorName_Thomas "Томас",
-SurvivorName_Thurman "Турман",
-SurvivorName_Tia "Тиа",
-SurvivorName_Tiana "Тиана",
-SurvivorName_Tiffany "Тиффани",
-SurvivorName_Tillie "Тилли",
-SurvivorName_Tim "Тим",
-SurvivorName_Timmy "Тимми",
-SurvivorName_Timothy "Тимоти",
-SurvivorName_Tina "Тина",
-SurvivorName_Tisha "Тиша",
-SurvivorName_Titus "Титус",
-SurvivorName_Tobias "Тобиас",
-SurvivorName_Toby "Тоби",
-SurvivorName_Tod "Тод",
-SurvivorName_Todd "Тодд",
-SurvivorName_Tom "Том",
-SurvivorName_Tomas "Томас",
-SurvivorName_Tomiko "Томико",
-SurvivorName_Tommie "Томми",
-SurvivorName_Tommy "Томми",
-SurvivorName_Tomoko "Томоко",
-SurvivorName_Toni "Тони",
-SurvivorName_Tonia "Тоня",
-SurvivorName_Tony "Тони",
-SurvivorName_Tonya "Тоня",
-SurvivorName_Tori "Тори",
-SurvivorName_Tory "Тори",
-SurvivorName_Toya "Тойя",
-SurvivorName_Tracey "Трейси",
-SurvivorName_Traci "Трейси",
-SurvivorName_Tracie "Трейси",
-SurvivorName_Tracy "Трейси",
-SurvivorName_Tran "Тран",
-SurvivorName_Travis "Трэвис",
-SurvivorName_Trent "Трент",
-SurvivorName_Trenton "Трентон",
-SurvivorName_Tressa "Тресса",
-SurvivorName_Treva "Трева",
-SurvivorName_Trevor "Тревор",
-SurvivorName_Trey "Трей",
-SurvivorName_Tricia "Триша",
-SurvivorName_Trina "Трина",
-SurvivorName_Trinh "Трин",
-SurvivorName_Trish "Триш",
-SurvivorName_Trisha "Триша",
-SurvivorName_Trista "Триста",
-SurvivorName_Tristan "Тристан",
-SurvivorName_Troy "Трой",
-SurvivorName_Trudy "Труди",
-SurvivorName_Truman "Трумэн",
-SurvivorName_Tuan "Туан",
-SurvivorName_Twila "Твила",
-SurvivorName_Twyla "Твайла",
-SurvivorName_Ty "Тай",
-SurvivorName_Tyler "Тайлер",
-SurvivorName_Tyra "Тайра",
-SurvivorName_Tyree "Тайри",
-SurvivorName_Tyrell "Тайрелл",
-SurvivorName_Tyron "Тайрон",
-SurvivorName_Tyrone "Тайрон",
-SurvivorName_Tyson "Тайсон",
-SurvivorName_Ulysses "Улисс",
-SurvivorName_Una "Уна",
-SurvivorName_Ursula "Урсула",
-SurvivorName_Val "Вэл",
-SurvivorName_Valarie "Валари",
-SurvivorName_Valencia "Валенсия",
-SurvivorName_Valentin "Валентин",
-SurvivorName_Valentina "Валентина",
-SurvivorName_Valeria "Валерия",
-SurvivorName_Valerie "Валери",
-SurvivorName_Van "Ван",
-SurvivorName_Vance "Вэнс",
-SurvivorName_Vanessa "Ванесса",
-SurvivorName_Vaughn "Вон",
-SurvivorName_Velma "Велма",
-SurvivorName_Venus "Винус",
-SurvivorName_Vera "Вера",
-SurvivorName_Verda "Верда",
-SurvivorName_Vern "Верн",
-SurvivorName_Verna "Верна",
-SurvivorName_Vernell "Вернелл",
-SurvivorName_Vernice "Вернис",
-SurvivorName_Vernon "Вернон",
-SurvivorName_Veronica "Вероника",
-SurvivorName_Vicki "Вики",
-SurvivorName_Vickie "Вики",
-SurvivorName_Vicky "Вики",
-SurvivorName_Victor "Виктор",
-SurvivorName_Victoria "Виктория",
-SurvivorName_Vida "Вида",
-SurvivorName_Vikki "Викки",
-SurvivorName_Vince "Винс",
-SurvivorName_Vincent "Винсент",
-SurvivorName_Viola "Виола",
-SurvivorName_Violet "Вайолет",
-SurvivorName_Virgie "Вирджи",
-SurvivorName_Virgil "Вирджил",
-SurvivorName_Virginia "Вирджиния",
-SurvivorName_Vito "Вито",
-SurvivorName_Vivian "Вивиан",
-SurvivorName_Von "Вон",
-SurvivorName_Vonda "Вонда",
-SurvivorName_Wade "Уэйд",
-SurvivorName_Wai "Вай",
-SurvivorName_Waldo "Уолдо",
-SurvivorName_Walker "Уокер",
-SurvivorName_Wallace "Уоллес",
-SurvivorName_Wally "Уолли",
-SurvivorName_Walter "Уолтер",
-SurvivorName_Wanda "Ванда",
-SurvivorName_Ward "Уорд",
-SurvivorName_Warner "Уорнер",
-SurvivorName_Warren "Уоррен",
-SurvivorName_Waylon "Уэйлон",
-SurvivorName_Wayne "Уэйн",
-SurvivorName_Weldon "Уэлдон",
-SurvivorName_Wen "Вен",
-SurvivorName_Wendell "Уэнделл",
-SurvivorName_Wendi "Венди",
-SurvivorName_Wendy "Венди",
-SurvivorName_Werner "Вернер",
-SurvivorName_Wes "Уэс",
-SurvivorName_Wesley "Уэсли",
-SurvivorName_Weston "Уэстон",
-SurvivorName_Whitney "Уитни",
-SurvivorName_Wilber "Уилбер",
-SurvivorName_Wilbert "Уилберт",
-SurvivorName_Wilbur "Уилбур",
-SurvivorName_Wilda "Уайлда",
-SurvivorName_Wiley "Уайли",
-SurvivorName_Wilfred "Уилфред",
-SurvivorName_Wilfredo "Уилфредо",
-SurvivorName_Wilhelmina "Вильгельмина",
-SurvivorName_Will "Уилл",
-SurvivorName_Willa "Уилла",
-SurvivorName_Willard "Уиллард",
-SurvivorName_William "Уильям",
-SurvivorName_Willie "Вилли",
-SurvivorName_Willis "Уиллис",
-SurvivorName_Willy "Вилли",
-SurvivorName_Wilma "Уилма",
-SurvivorName_Wilmer "Уилмер",
-SurvivorName_Wilson "Уилсон",
-SurvivorName_Wilton "Уилтон",
-SurvivorName_Winifred "Уинифред",
-SurvivorName_Winnie "Винни",
-SurvivorName_Winona "Вайнона",
-SurvivorName_Winston "Уинстон",
-SurvivorName_Woodrow "Вудроу",
-SurvivorName_Wyatt "Уайатт",
-SurvivorName_Wynona "Вайнона",
-SurvivorName_Xavier "Ксавье",
-SurvivorName_Yan "Ян",
-SurvivorName_Yang "Ян",
-SurvivorName_Yasmin "Ясмин",
-SurvivorName_Yee "Йи",
-SurvivorName_Yesenia "Есения",
-SurvivorName_Yi "Йи",
-SurvivorName_Ying "Ин",
-SurvivorName_Yoko "Йоко",
-SurvivorName_Yolanda "Иоланда",
-SurvivorName_Yolonda "Йолонда",
-SurvivorName_Yong "Йонг",
-SurvivorName_Young "Молодой",
-SurvivorName_Yu "Ю",
-SurvivorName_Yuko "Юко",
-SurvivorName_Yun "Юн",
-SurvivorName_Yvette "Иветт",
-SurvivorName_Yvonne "Ивонн",
-SurvivorName_Zachariah "Захария",
-SurvivorName_Zachary "Закари",
-SurvivorName_Zack "Зак",
-SurvivorName_Zane "Зейн",
-SurvivorName_Zelda "Зельда",
-SurvivorName_Zella "Зелла",
-SurvivorName_Zelma "Зелма",
-SurvivorName_Zenaida "Зинаида",
-SurvivorName_Zoe "Зои",
-
-Aaron "Аарон",
-Abbott "Эббот",
-Abel "Абель",
-Abernathy "Абернати",
-Abner "Абнер",
-Abney "Эбни",
-Abraham "Абрахам",
-Abrams "Абрамс",
-Abreau "Абро",
-Acevedo "Асеведо",
-Acker "Экер",
-Ackerman "Аккерман",
-Acosta "Акоста",
-Acuna "Акуна",
-Adair "Адэр",
-Adam "Адам",
-Adama "Адама",
-Adams "Адамс",
-Adamson "Адамсон",
-Adcock "Эдкок",
-Addison "Аддисон",
-Adkins "Адкинс",
-Adler "Адлер",
-Agathon "Агатон",
-Aghdashloo "Агдашлу",
-Agnew "Эгню",
-Aguilar "Агилар",
-Aguilera "Агилера",
-Aguirre "Агирре",
-Ahmad "Ахмад",
-Ahmed "Ахмед",
-Ahrens "Аренс",
-Aiken "Эйкен",
-Ainsworth "Эйнсворт",
-Akers "Эйкерс",
-Akins "Эйкинс",
-Alba "Альба",
-Albert "Альберт",
-Albrecht "Албрехт",
-Albright "Олбрайт",
-Alderman "Олдермен",
-Aldrich "Олдрич",
-Aldridge "Олдридж",
-Alexander "Александер",
-Alfaro "Альфаро",
-Alford "Элфорд",
-Ali "Али",
-Alicea "Алисия",
-Allan "Аллан",
-Allard "Аллард",
-Allen "Аллен",
-Alley "Элли",
-Allison "Эллисон",
-Allman "Оллман",
-Allred "Оллред",
-Almeida "Альмеида",
-Almond "Алмонд",
-Alonso "Алонсо",
-Alonzo "Алонсо",
-Alston "Олстон",
-Altman "Альтман",
-Alvarado "Альварадо",
-Alvarez "Альварес",
-Amador "Амадор",
-Amato "Амато",
-Amaya "Амайя",
-Ambrose "Эмброуз",
-Ames "Эймс",
-Ammons "Аммонс",
-Amos "Амос",
-Anaya "Анайя",
-Anders "Андерс",
-Andersen "Андерсен",
-Anderson "Андерсон",
-Andrade "Андраде",
-Andres "Андрес",
-Andrew "Эндрю",
-Andrews "Эндрюс",
-Andrus "Андрус",
-Angel "Энджел",
-Anglin "Энглин",
-Anthony "Энтони",
-Anvar "Анвар",
-Applegate "Эпплгейт",
-Appleton "Эпплтон",
-Aquino "Акино",
-Aragon "Арагон",
-Archer "Арчер",
-Archibald "Арчибальд",
-Archuleta "Арчулета",
-Arellano "Арельяно",
-Arevalo "Аревало",
-Arias "Ариас",
-Armstead "Армстед",
-Armstrong "Армстронг",
-Arndt "Арндт",
-Arnett "Арнетт",
-Arnold "Арнольд",
-Arredondo "Арредондо",
-Arriaga "Арриага",
-Arrington "Аррингтон",
-Arroyo "Арройо",
-Arthur "Артур",
-Artis "Артис",
-Ash "Эш",
-Ashby "Эшби",
-Ashe "Эш",
-Asher "Ашер",
-Ashford "Эшфорд",
-Ashley "Эшли",
-Ashmore "Эшмор",
-Ashton "Эштон",
-Ashworth "Эшворт",
-Askew "Аскью",
-Atherton "Атертон",
-Atkins "Аткинс",
-Atkinson "Аткинсон",
-Atwell "Этвелл",
-Atwood "Этвуд",
-Augustine "Огастин",
-Austin "Остин",
-Autry "Отри",
-Avalos "Авалос",
-Avarsarala "Аварсарала",
-Avery "Эйвери",
-Avila "Авила",
-Aviles "Эйвилз",
-Ayala "Айала",
-Ayers "Эйерс",
-Ayres "Эйрес",
-Babb "Бэбб",
-Babcock "Бэбкок",
-Baca "Бака",
-Bach "Бах",
-Bachman "Бахман",
-Bacon "Бэкон",
-Bader "Бейдер",
-Baer "Бэр",
-Baez "Баэз",
-Baggett "Баггетт",
-Bagley "Бэгли",
-Bagwell "Бэгвелл",
-Bailey "Бейли",
-Bain "Бэйн",
-Baines "Бейнс",
-Bair "Бэйр",
-Baird "Бэйрд",
-Baker "Бейкер",
-Baldwin "Болдуин",
-Bales "Бейлс",
-Ball "Болл",
-Ballard "Баллард",
-Ballinger "Баллинджер",
-Baltar "Балтар",
-Bamber "Бамбер",
-Banda "Банда",
-Banks "Бэнкс",
-Banner "Баннер",
-Bannister "Баннистер",
-Baptiste "Батист",
-Barber "Барбер",
-Barbosa "Барбоза",
-Barbour "Барбур",
-Barclay "Барклай",
-Barela "Барела",
-Barfield "Барфилд",
-Barker "Баркер",
-Barkley "Баркли",
-Barksdale "Барксдейл",
-Barlow "Барлоу",
-Barnard "Барнард",
-Barnes "Барнс",
-Barnett "Барнетт",
-Barney "Барни",
-Barnhart "Барнхарт",
-Baron "Барон",
-Barr "Барр",
-Barraza "Барраза",
-Barrera "Баррера",
-Barrett "Барретт",
-Barron "Бэррон",
-Barrow "Бэрроу",
-Barrows "Бэрроуз",
-Barry "Барри",
-Barth "Барт",
-Bartholomew "Бартоломью",
-Bartlett "Бартлетт",
-Bartley "Бартли",
-Barton "Бартон",
-Baskin "Баскин",
-Bass "Басс",
-Bassett "Бассетт",
-Batchelor "Батчелор",
-Bateman "Бейтман",
-Bates "Бейтс",
-Batista "Батиста",
-Batiste "Батист",
-Battaglia "Баттаглия",
-Battle "Баттл",
-Batts "Баттс",
-Bauer "Бауэр",
-Baugh "Бо",
-Baughman "Боуман",
-Baum "Баум",
-Bauman "Бауман",
-Baumgardner "Баумгарднер",
-Bautista "Баутиста",
-Baxter "Бакстер",
-Bayer "Байер",
-Beach "Бич",
-Beal "Бил",
-Beall "Билл",
-Bean "Бин",
-Bear "Бир",
-Beard "Бирд",
-Beasley "Бисли",
-Beattie "Битти",
-Beatty "Битти",
-Beaty "Бити",
-Beauchamp "Бошан",
-Beaulieu "Болье",
-Beauregard "Борегар",
-Beaver "Бивер",
-Becerra "Бесерра",
-Beck "Бек",
-Becker "Беккер",
-Beckett "Беккет",
-Beckham "Бекхэм",
-Beckman "Бекман",
-Beckwith "Беквит",
-Beers "Бирс",
-Behrens "Бехренс",
-Belanger "Беленджер",
-Belcher "Белчер",
-Bell "Белл",
-Bellamy "Беллами",
-Bello "Белло",
-Belt "Белт",
-Beltran "Белтран",
-Benavides "Бенавидес",
-Benavidez "Бенавидес",
-Bender "Бендер",
-Benedict "Бенедикт",
-Benitez "Бенитес",
-Benjamin "Бенджамин",
-Benner "Беннер",
-Bennet "Беннет",
-Bennett "Беннетт",
-Benoit "Бенуа",
-Benson "Бенсон",
-Bentley "Бентли",
-Benton "Бентон",
-Benyaer "Беньяер",
-Berg "Берг",
-Berger "Бергер",
-Bergeron "Бержерон",
-Bergman "Бергман",
-Bergstrom "Бергстром",
-Berlin "Берлин",
-Berman "Берман",
-Bermudez "Бермудес",
-Bernal "Бернал",
-Bernard "Бернард",
-Bernier "Бернье",
-Bernstein "Бернштайн",
-Berrios "Берриос",
-Berry "Берри",
-Berryman "Берримен",
-Bertram "Бертрам",
-Bertrand "Бертран",
-Bess "Бесс",
-Best "Бест",
-Betancourt "Бетанкур",
-Bethel "Бетел",
-Betts "Беттс",
-Beverly "Беверли",
-Bevins "Бевинс",
-Beyer "Бейер",
-Bible "Библия Дональда",
-Bickford "Бикфорд",
-Biers "Бирс",
-Biggs "Биггс",
-Billings "Биллингс",
-Billingsley "Биллингсли",
-Bingham "Бингхэм",
-Birch "Берч",
-Bird "Берд",
-Bishop "Бишоп",
-Bisson "Биссон",
-Bivens "Бивенс",
-Black "Блэк",
-Blackburn "Блэкберн",
-Blackman "Блэкман",
-Blackwell "Блэкуэлл",
-Blackwood "Блэквуд",
-Blaine "Блейн",
-Blair "Блэр",
-Blais "Блейз",
-Blake "Блейк",
-Blakely "Блейкли",
-Blalock "Блэлок",
-Blanchard "Бланчард",
-Blanco "Бланко",
-Bland "Блэнд",
-Blank "Бланк",
-Blankenship "Бланкеншип",
-Blanton "Блэнтон",
-Bledsoe "Бледсоу",
-Blevins "Блевинс",
-Bliss "Блисс",
-Block "Блок",
-Blocker "Блокер",
-Blodgett "Блоджетт",
-Bloom "Блум",
-Blount "Блаунт",
-Blue "Блу",
-Blum "Блюм",
-Blunt "Блант",
-Blythe "Блайт",
-Bobo "Бобо",
-Bock "Бок",
-Boggs "Боггс",
-Bohannon "Бохэннон",
-Bolden "Болден",
-Bolen "Болен",
-Boles "Боулз",
-Bolin "Болин",
-Bollinger "Боллинджер",
-Bolton "Болтон",
-Bond "Бонд",
-Bonds "Бондс",
-Bone "Боун",
-Bonilla "Бонилла",
-Bonner "Боннер",
-Book "Бук",
-Booker "Букер",
-Boone "Бун",
-Booth "Бут",
-Borden "Борден",
-Boren "Борен",
-Borges "Борхес",
-Boss "Босс",
-Bostic "Бостик",
-Boston "Бостон",
-Boswell "Босуэлл",
-Bouchard "Бушар",
-Boucher "Буше",
-Boudreau "Будро",
-Boudreaux "Будро",
-Bourgeois "Буржуа",
-Bourne "Борн",
-Bourque "Бурк",
-Bowden "Боуден",
-Bowen "Боуэн",
-Bowens "Боуэнс",
-Bower "Бауэр",
-Bowers "Бауэрс",
-Bowie "Боуи",
-Bowles "Боулз",
-Bowling "Боулинг",
-Bowman "Боумен",
-Bowser "Боузер",
-Box "Бокс",
-Boyce "Бойс",
-Boyd "Бойд",
-Boyer "Бойер",
-Boyles "Бойлз",
-Bracken "Брэкен",
-Braden "Брейден",
-Bradford "Брэдфорд",
-Bradley "Брэдли",
-Bradshaw "Брэдшоу",
-Brady "Брэди",
-Bragg "Брэгг",
-Branch "Бранч",
-Brand "Брэнд",
-Brandenburg "Бранденбург",
-Brandon "Брэндон",
-Brandt "Брандт",
-Branham "Бранхам",
-Brannon "Брэннон",
-Branson "Брэнсон",
-Brantley "Брэнтли",
-Braswell "Брэсвелл",
-Braun "Браун",
-Bravo "Браво",
-Braxton "Брэкстон",
-Bray "Брэй",
-Breaux "Бро",
-Bren "Брен",
-Brennan "Бреннан",
-Brenner "Бреннер",
-Brent "Брент",
-Brewer "Брюер",
-Brewster "Брюстер",
-Bridges "Бриджес",
-Briggs "Бриггс",
-Bright "Брайт",
-Brinkley "Бринкли",
-Brinkman "Бринкман",
-Brinson "Бринсон",
-Briscoe "Бриско",
-Britt "Бритт",
-Britton "Бриттон",
-Broadway "Бродвей",
-Brock "Брок",
-Brockman "Брокман",
-Broderick "Бродерик",
-Brody "Броуди",
-Brogan "Броган",
-Bronson "Бронсон",
-Brooks "Брукс",
-Broughton "Броутон",
-Broussard "Бруссард",
-Browder "Браудер",
-Brower "Брауэр",
-Brown "Браун",
-Browne "Браун",
-Browning "Браунинг",
-Brownlee "Браунли",
-Brubaker "Брубейкер",
-Bruce "Брюс",
-Bruner "Брунер",
-Brunner "Браннер",
-Bruno "Бруно",
-Brunson "Брансон",
-Bryan "Брайан",
-Bryant "Брайант",
-Bryk "Брик",
-Bryson "Брайсон",
-Buchanan "Бьюкенен",
-Buck "Бак",
-Buckingham "Бакингем",
-Buckley "Бакли",
-Buckner "Бакнер",
-Bueno "Буэно",
-Buford "Бьюфорд",
-Bull "Булл",
-Bullard "Буллард",
-Bullock "Буллок",
-Bunch "Банч",
-Bundy "Банди",
-Bunn "Банн",
-Bunting "Бантинг",
-Burch "Берч",
-Burchett "Берчетт",
-Burchfield "Берчфилд",
-Burden "Берден",
-Burdette "Бердетт",
-Burdick "Бердик",
-Burgess "Берджесс",
-Burgos "Бургос",
-Burk "Берк",
-Burke "Берк",
-Burkett "Беркетт",
-Burkhart "Беркхарт",
-Burks "Беркс",
-Burleson "Берлесон",
-Burnett "Бернетт",
-Burnette "Бернетт",
-Burney "Берни",
-Burnham "Бернхэм",
-Burns "Бернс",
-Burnside "Бернсайд",
-Burr "Берр",
-Burrell "Баррелл",
-Burris "Баррис",
-Burroughs "Берроуз",
-Burrow "Берроу",
-Burrows "Берроуз",
-Burt "Берт",
-Burton "Бертон",
-Busby "Басби",
-Busch "Буш",
-Bush "Буш",
-Buss "Басс",
-Bustamente "Бустаменте",
-Butcher "Батчер",
-Butler "Батлер",
-Butterfield "Баттерфилд",
-Button "Баттон",
-Butts "Баттс",
-Buxton "Бакстон",
-Byers "Байерс",
-Bynum "Байнум",
-Byrd "Берд",
-Byrne "Бирн",
+-----------------------------------SURNAMES
+Aaron
+Abbott
+Abel
+Abernathy
+Abner
+Abney
+Abraham
+Abrams
+Abreau
+Acevedo
+Acker
+Ackerman
+Acosta
+Acuna
+Adair
+Adam
+Adama
+Adams
+Adamson
+Adcock
+Addison
+Adkins
+Adler
+Agathon
+Aghdashloo
+Agnew
+Aguilar
+Aguilera
+Aguirre
+Ahmad
+Ahmed
+Ahrens
+Aiken
+Ainsworth
+Akers
+Akins
+Alba
+Albert
+Albrecht
+Albright
+Alderman
+Aldrich
+Aldridge
+Alexander
+Alfaro
+Alford
+Ali
+Alicea
+Allan
+Allard
+Allen
+Alley
+Allison
+Allman
+Allred
+Almeida
+Almond
+Alonso
+Alonzo
+Alston
+Altman
+Alvarado
+Alvarez
+Amador
+Amato
+Amaya
+Ambrose
+Ames
+Ammons
+Amos
+Anaya
+Anders
+Andersen
+Anderson
+Andrade
+Andres
+Andrew
+Andrews
+Andrus
+Angel
+Anglin
+Anthony
+Anvar
+Applegate
+Appleton
+Aquino
+Aragon
+Archer
+Archibald
+Archuleta
+Arellano
+Arevalo
+Arias
+Armstead
+Armstrong
+Arndt
+Arnett
+Arnold
+Arredondo
+Arriaga
+Arrington
+Arroyo
+Arthur
+Artis
+Ash
+Ashby
+Ashe
+Asher
+Ashford
+Ashley
+Ashmore
+Ashton
+Ashworth
+Askew
+Atherton
+Atkins
+Atkinson
+Atwell
+Atwood
+Augustine
+Austin
+Autry
+Avalos
+Avarsarala
+Avery
+Avila
+Aviles
+Ayala
+Ayers
+Ayres
+--------------------------------------------------------B
+Babb
+Babcock
+Baca
+Bach
+Bachman
+Bacon
+Bader
+Baer
+Baez
+Baggett
+Bagley
+Bagwell
+Bailey
+Bain
+Baines
+Bair
+Baird
+Baker
+Baldwin
+Bales
+Ball
+Ballard
+Ballinger
+Baltar
+Bamber
+Banda
+Banks
+Banner
+Bannister
+Baptiste
+Barber
+Barbosa
+Barbour
+Barclay
+Barela
+Barfield
+Barker
+Barkley
+Barksdale
+Barlow
+Barnard
+Barnes
+Barnett
+Barney
+Barnhart
+Baron
+Barr
+Barraza
+Barrera
+Barrett
+Barron
+Barrow
+Barrows
+Barry
+Barth
+Bartholomew
+Bartlett
+Bartley
+Barton
+Baskin
+Bass
+Bassett
+Batchelor
+Bateman
+Bates
+Batista
+Batiste
+Battaglia
+Battle
+Batts
+Bauer
+Baugh
+Baughman
+Baum
+Bauman
+Baumgardner
+Bautista
+Baxter
+Bayer
+Beach
+Beal
+Beall
+Bean
+Bear
+Beard
+Beasley
+Beattie
+Beatty
+Beaty
+Beauchamp
+Beaulieu
+Beauregard
+Beaver
+Becerra
+Beck
+Becker
+Beckett
+Beckham
+Beckman
+Beckwith
+Beers
+Behrens
+Belanger
+Belcher
+Bell
+Bellamy
+Bello
+Belt
+Beltran
+Benavides
+Benavidez
+Bender
+Benedict
+Benitez
+Benjamin
+Benner
+Bennet
+Bennett
+Benoit
+Benson
+Bentley
+Benton
+Benyaer
+Berg
+Berger
+Bergeron
+Bergman
+Bergstrom
+Berlin
+Berman
+Bermudez
+Bernal
+Bernard
+Bernier
+Bernstein
+Berrios
+Berry
+Berryman
+Bertram
+Bertrand
+Bess
+Best
+Betancourt
+Bethel
+Betts
+Beverly
+Bevins
+Beyer
+Bible " ",
+Bickford
+Biers
+Biggs
+Billings
+Billingsley
+Bingham
+Birch
+Bird
+Bishop
+Bisson
+Bivens
+Black
+Blackburn
+Blackman
+Blackwell
+Blackwood
+Blaine
+Blair
+Blais
+Blake
+Blakely
+Blalock
+Blanchard
+Blanco
+Bland
+Blank
+Blankenship
+Blanton
+Bledsoe
+Blevins
+Bliss
+Block
+Blocker
+Blodgett
+Bloom
+Blount
+Blue
+Blum
+Blunt
+Blythe
+Bobo
+Bock
+Boggs
+Bohannon
+Bolden
+Bolen
+Boles
+Bolin
+Bollinger
+Bolton
+Bond
+Bonds
+Bone
+Bonilla
+Bonner
+Book
+Booker
+Boone
+Booth
+Borden
+Boren
+Borges
+Boss
+Bostic
+Boston
+Boswell
+Bouchard
+Boucher
+Boudreau
+Boudreaux
+Bourgeois
+Bourne
+Bourque
+Bowden
+Bowen
+Bowens
+Bower
+Bowers
+Bowie
+Bowles
+Bowling
+Bowman
+Bowser
+Box
+Boyce
+Boyd
+Boyer
+Boyles
+Bracken
+Braden
+Bradford
+Bradley
+Bradshaw
+Brady
+Bragg
+Branch
+Brand
+Brandenburg
+Brandon
+Brandt
+Branham
+Brannon
+Branson
+Brantley
+Braswell
+Braun
+Bravo
+Braxton
+Bray
+Breaux
+Bren
+Brennan
+Brenner
+Brent
+Brewer
+Brewster
+Bridges
+Briggs
+Bright
+Brinkley
+Brinkman
+Brinson
+Briscoe
+Britt
+Britton
+Broadway
+Brock
+Brockman
+Broderick
+Brody
+Brogan
+Bronson
+Brooks
+Broughton
+Broussard
+Browder
+Brower
+Brown
+Browne
+Browning
+Brownlee
+Brubaker
+Bruce
+Bruner
+Brunner
+Bruno
+Brunson
+Bryan
+Bryant
+Bryk
+Bryson
+Buchanan
+Buck
+Buckingham
+Buckley
+Buckner
+Bueno
+Buford
+Bull
+Bullard
+Bullock
+Bunch
+Bundy
+Bunn
+Bunting
+Burch
+Burchett
+Burchfield
+Burden
+Burdette
+Burdick
+Burgess
+Burgos
+Burk
+Burke
+Burkett
+Burkhart
+Burks
+Burleson
+Burnett
+Burnette
+Burney
+Burnham
+Burns
+Burnside
+Burr
+Burrell
+Burris
+Burroughs
+Burrow
+Burrows
+Burt
+Burton
+Busby
+Busch
+Bush
+Buss
+Bustamente
+Butcher
+Butler
+Butterfield
+Button
+Butts
+Buxton
+Byers
+Bynum
+Byrd
+Byrne
 -------------------------------------------------C
-Caballero "Кабальеро",
-Cable "Кейбл",
-Cabral "Кабрал",
-Cabrera "Кабрера",
-Cade "Кейд",
-Cady "Кэди",
-Cagle "Кейгл",
-Cahill "Кэхилл",
-Cain "Кейн",
-Cairns "Кэрнс",
-Calabrese "Калабрезе",
-Calderon "Кальдерон",
-Caldwell "Колдуэлл",
-Calhoun "Калхун",
-Call "Колл",
-Callaghan "Каллаган",
-Callahan "Каллахан",
-Callaway "Кэллауэй",
-Callis "Кэллис",
-Calloway "Кэллоуэй",
-Calvert "Калверт",
-Calvin "Кэлвин",
-Camacho "Камачо",
-Camarillo "Камарильо",
-Cameron "Кэмерон",
-Camp "Кэмп",
-Campbell "Кэмпбелл",
-Campos "Кампос",
-Canada "Канада",
-Canady "Кэнади",
-Canales "Каналес",
-Candelaria "Канделярия",
-Canfield "Кэнфилд",
-Cannon "Кэннон",
-Cano "Кано",
-Cantrell "Кантрелл",
-Cantu "Канту",
-Cantwell "Кантуэлл",
-Canty "Кэнти",
-Capps "Кэппс",
-Caraballo "Карабалло",
-Carawayh "Кэроуэй",
-Carbone "Карбон",
-Cardenas "Карденас",
-Cardona "Кардона",
-Cardoza "Кардоза",
-Cardwell "Кардуэлл",
-Carey "Кэри",
-Carlin "Карлин",
-Carlisle "Карлайл",
-Carlson "Карлсон",
-Carlton "Карлтон",
-Carmichael "Кармайкл",
-Carmona "Кармона",
-Carnahan "Карнахан",
-Carnes "Карнс",
-Carney "Карни",
-Caro "Каро",
-Caron "Карон",
-Carpenter "Карпентер",
-Carr "Карр",
-Carrasco "Карраско",
-Carrier "Кэрриер",
-Carrillo "Каррильо",
-Carrington "Кэррингтон",
-Carro "Карро",
-Carroll "Кэрролл",
-Carson "Карсон",
-Carter "Картер",
-Cartwright "Картрайт",
-Caruso "Карузо",
-Carvalho "Карвалью",
-Carver "Карвер",
-Cary "Кэри",
-Case "Кейс",
-Casey "Кейси",
-Cash "Кэш",
-Casillas "Касильяс",
-Casper "Каспер",
-Cass "Касс",
-Cassell "Касселл",
-Cassidy "Кэссиди",
-Castaneda "Кастанеда",
-Casteel "Кастил",
-Castellano "Кастеллано",
-Castellanos "Кастелланос",
-Castillo "Кастильо",
-Castle "Касл",
-Castro "Кастро",
-Caswell "Касвелл",
-Catalano "Каталано",
-Cates "Кейтс",
-Cato "Кейтон",
-Caudill "Кодилл",
-Causey "Коузи",
-Cavanaugh "Кавано",
-Cavazos "Кавазос",
-Cave "Кейв",
-Cavil "Кэвил",
-Cecil "Сесил",
-Cerda "Серда",
-Cervantes "Сервантес",
-Chacon "Чакон",
-Chadwick "Чедвик",
-Chamberlain "Чемберлен",
-Chambers "Чемберс",
-Champagne "Шампань",
-Champion "Чемпион",
-Chan "Чан",
-Chandler "Чандлер",
-Chaney "Чейни",
-Chang "Чанг",
-Chapa "Чапа",
-Chapin "Чапин",
-Chapman "Чэпмен",
-Chappell "Чаппелл",
-Charles "Чарльз",
-Charlton "Чарлтон",
-Chase "Чейз",
-Chastain "Частин",
-Chatham "Чатем",
-Chatman "Чатмен",
-Chau "Чау",
-Chavez "Чавес",
-Chavis "Чавис",
-Cheatham "Читэм",
-Chen "Чен",
-Cheney "Чейни",
-Cheng "Ченг",
-Cherry "Черри",
-Chester "Честер",
-Chestnut "Честнат",
-Cheung "Чунг",
-Child "Чайлд",
-Childers "Чайлдерс",
-Childress "Чайлдресс",
-Childs "Чайлдс",
-Chilton "Чилтон",
-Chin "Чин",
-Chisholm "Чисхолм",
-Cho "Чо",
-Choate "Чоут",
-Choi "Чой",
-Chong "Чонг",
-Chow "Чоу",
-Christensen "Кристенсен",
-Christenson "Кристенсон",
-Christiansen "Кристиансен",
-Christie "Кристи",
-Christmas "Кристмас",
-Christopher "Кристофер",
-Chu "Чу",
-Chun "Чан",
-Chung "Чанг",
-Church "Черч",
-Churchill "Черчилль",
-Cintron "Синтрон",
-Cisneros "Сиснерос",
-Clapp "Клэпп",
-Clark "Кларк",
-Clarke "Кларк",
-Clarkson "Кларксон",
-Clary "Клэри",
-Clay "Клей",
-Clayton "Клейтон",
-Clemens "Клеменс",
-Clement "Клемент",
-Clements "Клементс",
-Clemmons "Клеммонс",
-Clemons "Клемонс",
-Cleveland "Кливленд",
-Clevenger "Клевенджер",
-Clifford "Клиффорд",
-Clifton "Клифтон",
-Cline "Клайн",
-Clinton "Клинтон",
-Cloud "Клауд",
-Clough "Клаф",
-Clyne "Клайн",
-Coates "Коутс",
-Coats "Коутс",
-Cobb "Кобб",
-Cobbs "Коббс",
-Coble "Кобл",
-Coburn "Коберн",
-Cochran "Кокран",
-Cochrane "Кокрейн",
-Cody "Коди",
-Coe "Коу",
-Coffey "Коффи",
-Coffin "Коффин",
-Coffman "Коффман",
-Cohen "Коэн",
-Coker "Кокер",
-Colbert "Кольбер",
-Colburn "Колберн",
-Colby "Колби",
-Cole "Коул",
-Coleman "Коулман",
-Coles "Коулз",
-Coley "Коули",
-Collado "Колладо",
-Collazo "Коллазо",
-Collier "Коллиер",
-Collins "Коллинз",
-Colon "Колон",
-Colson "Колсон",
-Colvin "Колвин",
-Colwell "Колвелл",
-Combs "Комбс",
-Comer "Комер",
-Compton "Комптон",
-Conaway "Конауэй",
-Conklin "Конклин",
-Conley "Конли",
-Conn "Конн",
-Connell "Коннелл",
-Connelly "Коннелли",
-Conner "Коннер",
-Connolly "Коннолли",
-Connor "Коннор",
-Connors "Коннорс",
-Conoy "Коной",
-Conrad "Конрад",
-Conroy "Конрой",
-Conte "Конте",
-Conti "Конти",
-Contreras "Контрерас",
-Conway "Конвей",
-Conyers "Коньерс",
-Cook "Кук",
-Cooke "Кук",
-Cooks "Кукс",
-Cooley "Кули",
-Coombs "Кумбс",
-Cooney "Куни",
-Cooper "Купер",
-Cope "Коуп",
-Copeland "Коупленд",
-Copley "Копли",
-Coppola "Коппола",
-Corbett "Корбетт",
-Corbin "Корбин",
-Corcoran "Коркоран",
-Cordell "Корделл",
-Cordero "Кордеро",
-Cordova "Кордова",
-Corey "Кори",
-Corley "Корли",
-Cormier "Кормье",
-Cornelius "Корнелиус",
-Cornell "Корнелл",
-Cornett "Корнетт",
-Cornish "Корниш",
-Cornwell "Корнуэлл",
-Corona "Корона",
-Corral "Коррал",
-Correa "Корреа",
-Correia "Коррейя",
-Cortes "Кортес",
-Cortez "Кортес",
-Cosgrove "Косгроув",
-Costa "Коста",
-Costanza "Костанза",
-Costanzo "Костанцо",
-Costello "Костелло",
-Cote "Коут",
-Cotter "Коттер",
-Cottle "Коттл",
-Cotton "Коттон",
-Cottrell "Коттрелл",
-Couch "Кушетка",
-Coughlin "Кофлин",
-Coulter "Коултер",
-Courtney "Кортни",
-Cousins "Казинс",
-Couture "Кутюр",
-Covey "Кови",
-Covington "Ковингтон",
-Cowan "Коуэн",
-Cowell "Коуэлл",
-Cox "Кокс",
-Coy "Кой",
-Coyle "Койл",
-Coyne "Койн",
-Crabtree "Крэбтри",
-Craddock "Крэддок",
-Craft "Крафт",
-Craig "Крейг",
-Crain "Крейн",
-Cramer "Кремер",
-Crandall "Крэндалл",
-Crane "Крейн",
-Cranford "Крэнфорд",
-Craven "Крейвен",
-Crawford "Кроуфорд",
-Crawley "Кроули",
-Creech "Крич",
-Creel "Крил",
-Creighton "Крейтон",
-Crenshaw "Креншоу",
-Crespo "Креспо",
-Crews "Крюс",
-Crisp "Крисп",
-Crittenden "Криттенден",
-Crocker "Крокер",
-Crockett "Крокетт",
-Croft "Крофт",
-Cromer "Кромер",
-Cromwell "Кромвель",
-Cronin "Кронин",
-Crook "Крук",
-Crooks "Крукс",
-Crosby "Кросби",
-Cross "Кросс",
-Croteau "Крото",
-Crouch "Крауч",
-Crouse "Крауз",
-Crow "Кроу",
-Crowder "Краудер",
-Crowe "Кроу",
-Crowell "Кроуэлл",
-Crowley "Кроули",
-Crum "Крам",
-Crump "Крамп",
-Crutcher "Кратчер",
-Cruz "Круз",
-Cuellar "Куэльяр",
-Cuevas "Куэвас",
-Cullen "Каллен",
-Culp "Калп",
-Culpepper "Калпеппер",
-Culver "Калвер",
-Cummings "Каммингс",
-Cummins "Камминс",
-Cunningham "Каннингем",
-Curley "Керли",
-Curran "Карран",
-Currie "Карри",
-Currier "Карриер",
-Curry "Карри",
-Curtis "Кертис",
-Custer "Кастер",
-Cutler "Катлер",
+Caballero
+Cable
+Cabral
+Cabrera
+Cade
+Cady
+Cagle
+Cahill
+Cain
+Cairns
+Calabrese
+Calderon
+Caldwell
+Calhoun
+Call
+Callaghan
+Callahan
+Callaway
+Callis
+Calloway
+Calvert
+Calvin
+Camacho
+Camarillo
+Cameron
+Camp
+Campbell
+Campos
+Canada
+Canady
+Canales
+Candelaria
+Canfield
+Cannon
+Cano
+Cantrell
+Cantu
+Cantwell
+Canty
+Capps
+Caraballo
+Carawayh
+Carbone
+Cardenas
+Cardona
+Cardoza
+Cardwell
+Carey
+Carlin
+Carlisle
+Carlson
+Carlton
+Carmichael
+Carmona
+Carnahan
+Carnes
+Carney
+Caro
+Caron
+Carpenter
+Carr
+Carrasco
+Carrier
+Carrillo
+Carrington
+Carro
+Carroll
+Carson
+Carter
+Cartwright
+Caruso
+Carvalho
+Carver
+Cary
+Case
+Casey
+Cash
+Casillas
+Casper
+Cass
+Cassell
+Cassidy
+Castaneda
+Casteel
+Castellano
+Castellanos
+Castillo
+Castle
+Castro
+Caswell
+Catalano
+Cates
+Cato
+Caudill
+Causey
+Cavanaugh
+Cavazos
+Cave
+Cavil
+Cecil
+Cerda
+Cervantes
+Chacon
+Chadwick
+Chamberlain
+Chambers
+Champagne
+Champion
+Chan
+Chandler
+Chaney
+Chang
+Chapa
+Chapin
+Chapman
+Chappell
+Charles
+Charlton
+Chase
+Chastain
+Chatham
+Chatman
+Chau
+Chavez
+Chavis
+Cheatham
+Chen
+Cheney
+Cheng
+Cherry
+Chester
+Chestnut
+Cheung
+Child
+Childers
+Childress
+Childs
+Chilton
+Chin
+Chisholm
+Cho
+Choate
+Choi
+Chong
+Chow
+Christensen
+Christenson
+Christiansen
+Christie
+Christmas
+Christopher
+Chu
+Chun
+Chung
+Church
+Churchill
+Cintron
+Cisneros
+Clapp
+Clark
+Clarke
+Clarkson
+Clary
+Clay
+Clayton
+Clemens
+Clement
+Clements
+Clemmons
+Clemons
+Cleveland
+Clevenger
+Clifford
+Clifton
+Cline
+Clinton
+Cloud
+Clough
+Clyne
+Coates
+Coats
+Cobb
+Cobbs
+Coble
+Coburn
+Cochran
+Cochrane
+Cody
+Coe
+Coffey
+Coffin
+Coffman
+Cohen
+Coker
+Colbert
+Colburn
+Colby
+Cole
+Coleman
+Coles
+Coley
+Collado
+Collazo
+Collier
+Collins
+Colon
+Colson
+Colvin
+Colwell
+Combs
+Comer
+Compton
+Conaway
+Conklin
+Conley
+Conn
+Connell
+Connelly
+Conner
+Connolly
+Connor
+Connors
+Conoy
+Conrad
+Conroy
+Conte
+Conti
+Contreras
+Conway
+Conyers
+Cook
+Cooke
+Cooks
+Cooley
+Coombs
+Cooney
+Cooper
+Cope
+Copeland
+Copley
+Coppola
+Corbett
+Corbin
+Corcoran
+Cordell
+Cordero
+Cordova
+Corey
+Corley
+Cormier
+Cornelius
+Cornell
+Cornett
+Cornish
+Cornwell
+Corona
+Corral
+Correa
+Correia
+Cortes
+Cortez
+Cosgrove
+Costa
+Costanza
+Costanzo
+Costello
+Cote
+Cotter
+Cottle
+Cotton
+Cottrell
+Couch
+Coughlin
+Coulter
+Courtney
+Cousins
+Couture
+Covey
+Covington
+Cowan
+Cowell
+Cox
+Coy
+Coyle
+Coyne
+Crabtree
+Craddock
+Craft
+Craig
+Crain
+Cramer
+Crandall
+Crane
+Cranford
+Craven
+Crawford
+Crawley
+Creech
+Creel
+Creighton
+Crenshaw
+Crespo
+Crews
+Crisp
+Crittenden
+Crocker
+Crockett
+Croft
+Cromer
+Cromwell
+Cronin
+Crook
+Crooks
+Crosby
+Cross
+Croteau
+Crouch
+Crouse
+Crow
+Crowder
+Crowe
+Crowell
+Crowley
+Crum
+Crump
+Crutcher
+Cruz
+Cuellar
+Cuevas
+Cullen
+Culp
+Culpepper
+Culver
+Cummings
+Cummins
+Cunningham
+Curley
+Curran
+Currie
+Currier
+Curry
+Curtis
+Custer
+Cutler
 ------------------------------------------------------------------------D
-D'Angelo "Д'Анджело",
-Dahl "Даль",
-Dailey "Дейли",
-Daily "Дейли",
-Dale "Дейл",
-Daley "Дейли",
-Dallas "Даллас",
-Dalton "Далтон",
-Daly "Дейли",
-Damico "Дамико",
-Damon "Деймон",
-Dancy "Дэнси",
-Dang "Данг",
-Daniel "Дэниел",
-Daniels "Дэниелс",
-Danner "Дэннер",
-Darby "Дарби",
-Darden "Дарден",
-Darling "Дарлинг",
-Darnell "Дарнелл",
-DaSilva "Дасильва",
-Daugherty "Догерти",
-Daughtry "Дотри",
-Davenport "Дэвенпорт",
-David "Дэвид",
-Davidson "Дэвидсон",
-Davies "Дэвис",
-Davila "Давила",
-Davis "Дэвис",
-Davison "Дэвисон",
-Dawkins "Докинз",
-Dawson "Доусон",
-Day "Дэй",
-Dayton "Дейтон",
-Deal "Дил",
-Dean "Дин",
-Deaton "Дитон",
-Decker "Декер",
-Dees "Диз",
-Dejesus "Деджесус",
-Delacruz "Делакруз",
-Delagarza "Делагарза",
-Delaney "Делани",
-Delarosa "Делароза",
-Delatorre "Делаторре",
-Deleon "Делеон",
-Delgadillo "Дельгадильо",
-Delgado "Дельгадо",
-Dell "Делл",
-Dellinger "Деллинджер",
-Deloach "Делоах",
-Delong "Делонг",
-Deluca "Делука",
-Delvalle "Дельваль",
-DeMarco "ДеМарко",
-Dempsey "Демпси",
-Denham "Денхэм",
-Denney "Денни",
-Denning "Деннинг",
-Dennis "Деннис",
-Dennison "Деннисон",
-Denny "Денни",
-Denson "Денсон",
-Dent "Дент",
-Denton "Дентон",
-Derosa "Дероса",
-Derrick "Деррик",
-Desantis "Десантис",
-Devine "Дивайн",
-Devito "Девито",
-Devlin "Девлин",
-Devore "Девор",
-Dewey "Дьюи",
-Dewitt "Девитт",
-Dexter "Декстер",
-Diamond "Даймонд",
-Dias "Диас",
-Diaz "Диас",
-Dick "Дик",
-Dickens "Диккенс",
-Dickerson "Дикерсон",
-Dickey "Дикки",
-Dickinson "Дикинсон",
-Dickson "Диксон",
-Diehl "Диель",
-Dietrich "Дитрих",
-Dietz "Диетс",
-Diggs "Диггс",
-Dill "Дилл",
-Dillard "Диллард",
-Dillon "Диллон",
-Dion "Дион",
-Dionne "Дионн",
-Dixon "Диксон",
-Do "Ду",
-Dobbins "Доббинс",
-Dobbs "Доббс",
-Dobson "Добсон",
-Dockery "Докери",
-Dodd "Додд",
-Dodge "Додж",
-Dodson "Додсон",
-Doe "Доу",
-Doherty "Догерти",
-Dolan "Долан",
-Dollar "Доллар",
-Domingo "Доминго",
-Dominguez "Домингес",
-Donahue "Донахью",
-Donald "Дональд",
-Donalds "Дональдс",
-Donaldson "Дональдсон",
-Donaldston "Дональдстон",
-Donato "Донато",
-Donnell "Доннелл",
-Donnelly "Доннелли",
-Donovan "Донован",
-Dooley "Дули",
-Doral "Дорал",
-Doran "Доран",
-Dorman "Дорман",
-Dorn "Дорн",
-Dorsey "Дорси",
-Doss "Досс",
-Dotson "Дотсон",
-Doty "Доти",
-Doucette "Дусетт",
-Dougherty "Догерти",
-Dove "Доув",
-Dow "Доу",
-Dowd "Дауд",
-Dowdy "Дауди",
-Dowell "Доуэлл",
-Dowling "Даулинг",
-Downey "Дауни",
-Downing "Даунинг",
-Downs "Даунс",
-Doyle "Дойл",
-Dozier "Дозье",
-Drake "Дрейк",
-Draper "Дрейпер",
-Dresden "Дрэсден",
-Drew "Дрю",
-Driscoll "Дрисколл",
-Driver "Драйвер",
-Drummer "Барабанщик",
-Drummond "Драммонд",
-Drury "Друри",
-Dualla "Дуалла",
-Duarte "Дуарте",
-Dube "Дьюб",
-Dubois "Дюбуа",
-Dubose "Дюбоз",
-Duckett "Дакетт",
-Duckworth "Дакворт",
-Dudley "Дадли",
-Duff "Дафф",
-Duffy "Даффи",
-Dugan "Дуган",
-Dugas "Дугас",
-Duggan "Дагган",
-Dugger "Даггер",
-Duke "Дьюк",
-Dukes "Дьюкс",
-Dumas "Дюма",
-Dunaway "Данауэй",
-Dunbar "Данбар",
-Duncan "Дункан",
-Dunham "Данэм",
-Dunlap "Данлэп",
-Dunn "Данн",
-Dunne "Данн",
-Dunning "Даннинг",
-Duong "Дуонг",
-Dupont "Дюпон",
-Dupre "Дюпре",
-Dupree "Дюпре",
-Dupuis "Дюпюи",
-Duran "Дюран",
-Durand "Дюран",
-Durant "Дюрант",
-Durbin "Дурбин",
-Durden "Дерден",
-Durham "Дарем",
-Dutton "Даттон",
-Duval "Дюваль",
-Duvall "Дюваль",
-Dye "Дай",
-Dyer "Дайер",
-Dykes "Дайкс",
-Dyson "Дайсон",
+D'Angelo "'",
+Dahl
+Dailey
+Daily
+Dale
+Daley
+Dallas
+Dalton
+Daly
+Damico
+Damon
+Dancy
+Dang
+Daniel
+Daniels
+Danner
+Darby
+Darden
+Darling
+Darnell
+DaSilva
+Daugherty
+Daughtry
+Davenport
+David
+Davidson
+Davies
+Davila
+Davis
+Davison
+Dawkins
+Dawson
+Day
+Dayton
+Deal
+Dean
+Deaton
+Decker
+Dees
+Dejesus
+Delacruz
+Delagarza
+Delaney
+Delarosa
+Delatorre
+Deleon
+Delgadillo
+Delgado
+Dell
+Dellinger
+Deloach
+Delong
+Deluca
+Delvalle
+DeMarco
+Dempsey
+Denham
+Denney
+Denning
+Dennis
+Dennison
+Denny
+Denson
+Dent
+Denton
+Derosa
+Derrick
+Desantis
+Devine
+Devito
+Devlin
+Devore
+Dewey
+Dewitt
+Dexter
+Diamond
+Dias
+Diaz
+Dick
+Dickens
+Dickerson
+Dickey
+Dickinson
+Dickson
+Diehl
+Dietrich
+Dietz
+Diggs
+Dill
+Dillard
+Dillon
+Dion
+Dionne
+Dixon
+Do
+Dobbins
+Dobbs
+Dobson
+Dockery
+Dodd
+Dodge
+Dodson
+Doe
+Doherty
+Dolan
+Dollar
+Domingo
+Dominguez
+Donahue
+Donald
+Donalds
+Donaldson
+Donaldston
+Donato
+Donnell
+Donnelly
+Donovan
+Dooley
+Doral
+Doran
+Dorman
+Dorn
+Dorsey
+Doss
+Dotson
+Doty
+Doucette
+Dougherty
+Dove
+Dow
+Dowd
+Dowdy
+Dowell
+Dowling
+Downey
+Downing
+Downs
+Doyle
+Dozier
+Drake
+Draper
+Dresden
+Drew
+Driscoll
+Driver
+Drummer
+Drummond
+Drury
+Dualla
+Duarte
+Dube
+Dubois
+Dubose
+Duckett
+Duckworth
+Dudley
+Duff
+Duffy
+Dugan
+Dugas
+Duggan
+Dugger
+Duke
+Dukes
+Dumas
+Dunaway
+Dunbar
+Duncan
+Dunham
+Dunlap
+Dunn
+Dunne
+Dunning
+Duong
+Dupont
+Dupre
+Dupree
+Dupuis
+Duran
+Durand
+Durant
+Durbin
+Durden
+Durham
+Dutton
+Duval
+Duvall
+Dye
+Dyer
+Dykes
+Dyson
 ------------------------------------------------------------------------E
-Eagle "Игл",
-Earl "Эрл",
-Earley "Эрли",
-Earls "Эрлс",
-Early "Эрли",
-Easley "Изли",
-Eason "Исон",
-East "Ист",
-Easter "Истер",
-Easterling "Истерлинг",
-Eastman "Истмен",
-Easton "Истон",
-Eaton "Итон",
-Eaves "Ивз",
-Ebert "Эберт",
-Echevarria "Эчеваррия",
-Echols "Экхолс",
-Eckert "Эккерт",
-Eddy "Эдди",
-Edgar "Эдгар",
-Edge "Эдж",
-Edmond "Эдмонд",
-Edmonds "Эдмондс",
-Edmondson "Эдмондсон",
-Edwards "Эдвардс",
-Egan "Иган",
-Eggleston "Эгглстон",
-Elam "Элам",
-Elder "Элдер",
-Eldridge "Элдридж",
-Elias "Элиас",
-Elkins "Элкинс",
-Eller "Эллер",
-Ellington "Эллингтон",
-Elliot "Эллиот",
-Elliott "Эллиотт",
-Ellis "Эллис",
-Ellison "Эллисон",
-Ellsworth "Эллсворт",
-Elmore "Элмор",
-Elrod "Элрод",
-Ely "Эли",
-Emanuel "Эмануэль",
-Embry "Эмбри",
-Emerson "Эмерсон",
-Emery "Эмери",
-Emmons "Эммонс",
-Engel "Энгел",
-England "Ингленд",
-Engle "Энгл",
-English "Инглиш",
-Ennis "Эннис",
-Enos "Энос",
-Enright "Энрайт",
-Enriquez "Энрикес",
-Epperson "Эпперсон",
-Epps "Эппс",
-Epstein "Эпштейн",
-Erickson "Эриксон",
-Ernst "Эрнст",
-Errinwright "Эрринрайт",
-Ervin "Эрвин",
-Erwin "Эрвин",
-Escalante "Эскаланте",
-Escamilla "Эскамилья",
-Escobar "Эскобар",
-Esparza "Эспарза",
-Espinal "Эспинал",
-Espinosa "Эспиноза",
-Espinoza "Эспиноза",
-Esposito "Эспозито",
-Estes "Эстес",
-Estevez "Эстевес",
-Estrada "Эстрада",
-Estrella "Эстрелла",
-Etheridge "Этеридж",
-Ethridge "Этридж",
-Eubanks "Юбенкс",
-Evans "Эванс",
-Everett "Эверетт",
-Everhart "Эверхарт",
-Ewing "Юинг",
+Eagle
+Earl
+Earley
+Earls
+Early
+Easley
+Eason
+East
+Easter
+Easterling
+Eastman
+Easton
+Eaton
+Eaves
+Ebert
+Echevarria
+Echols
+Eckert
+Eddy
+Edgar
+Edge
+Edmond
+Edmonds
+Edmondson
+Edwards
+Egan
+Eggleston
+Elam
+Elder
+Eldridge
+Elias
+Elkins
+Eller
+Ellington
+Elliot
+Elliott
+Ellis
+Ellison
+Ellsworth
+Elmore
+Elrod
+Ely
+Emanuel
+Embry
+Emerson
+Emery
+Emmons
+Engel
+England
+Engle
+English
+Ennis
+Enos
+Enright
+Enriquez
+Epperson
+Epps
+Epstein
+Erickson
+Ernst
+Errinwright
+Ervin
+Erwin
+Escalante
+Escamilla
+Escobar
+Esparza
+Espinal
+Espinosa
+Espinoza
+Esposito
+Estes
+Estevez
+Estrada
+Estrella
+Etheridge
+Ethridge
+Eubanks
+Evans
+Everett
+Everhart
+Ewing
 ---------------------------------------------------------------------F
-Faber "Фабер",
-Fabian "Фабиан",
-Fagan "Фейган",
-Fahey "Фейхи",
-Fain "Фейн",
-Fair "Фейр",
-Fairbanks "Фэрбенкс",
-Fairchild "Фэйрчайлд",
-Fairley "Фэрли",
-Faivre "Фейвр",
-Falcon "Фалькон",
-Falk "Фальк",
-Fallon "Фэллон",
-Fanning "Фаннинг",
-Farley "Фарли",
-Farmer "Фармер",
-Farnsworth "Фарнсворт",
-Farr "Фарр",
-Farrar "Фаррар",
-Farrell "Фаррелл",
-Farrington "Фаррингтон",
-Farris "Фаррис",
-Farrow "Фэрроу",
-Faulk "Фолк",
-Faulkner "Фолкнер",
-Faust "Фауст",
-Fay "Фэй",
-Feeney "Фини",
-Felder "Фэлдер",
-Feldman "Фельдман",
-Feliciano "Феличиано",
-Felix "Феликс",
-Felton "Фелтон",
-Fennell "Феннелл",
-Fenner "Феннер",
-Fenton "Фентон",
-Ferguson "Фергюсон",
-Fernandes "Фернандес",
-Fernandez "Фернандес",
-Ferrara "Феррара",
-Ferraro "Ферраро",
-Ferreira "Феррейра",
-Ferrell "Феррелл",
-Ferrer "Феррер",
-Ferris "Феррис",
-Ferry "Ферри",
-Field "Филд",
-Fields "Филдс",
-Fife "Файф",
-Figueroa "Фигероа",
-Fincher "Финчер",
-Findley "Финдли",
-Fine "Файн",
-Fink "Финк",
-Finley "Финли",
-Finn "Финн",
-Finnegan "Финнеган",
-Finney "Финни",
-Fiore "Фиёр",
-Fischer "Фишер",
-Fish "Фиш",
-Fisher "Фишер",
-Fisk "Фиск",
-Fitch "Фитч",
-Fitzgerald "Фитцджеральд",
-Fitzpatrick "Фитцпатрик",
-Fitzsimmons "Фитцсиммонс",
-Flaherty "Флаэрти",
-Flanagan "Фланаган",
-Flanders "Фландерс",
-Flannery "Флэннери",
-Fleck "Флек",
-Fleming "Флеминг",
-Fletcher "Флетчер",
-Flint "Флинт",
-Flood "Флуд",
-Flores "Флорес",
-Florez "Флорез",
-Flowers "Флауэрс",
-Floyd "Флойд",
-Flynn "Флинн",
-Fogle "Фогл",
-Foley "Фоули",
-Folsom "Фолсом",
-Foltz "Фольц",
-Fong "Фонг",
-Fontaine "Фонтейн",
-Fontenot "Фонтено",
-Foote "Фут",
-Forbes "Форбс",
-Ford "Форд",
-Foreman "Форман",
-Forman "Форман",
-Forrest "Форрест",
-Forrester "Форрестер",
-Forsyth "Форсайт",
-Forsythe "Форсайт",
-Fortenberry "Фортенберри",
-Fortier "Фортье",
-Fortin "Фортин",
-Fortner "Фортнер",
-Fortune "Форчун",
-Foss "Фосс",
-Foster "Фостер",
-Fountain "Фонтейн",
-Fournier "Фурнье",
-Foust "Фауст",
-Fowler "Фаулер",
-Fox "Фокс",
-Foy "Фой",
-Fraley "Фрейли",
-France "Франс",
-Francis "Фрэнсис",
-Francisco "Франсиско",
-Franco "Франко",
-Francois "Франсуа",
-Frank "Фрэнк",
-Franklin "Франклин",
-Franks "Фрэнкс",
-Franz "Франц",
-Fraser "Фрейзер",
-Frasier "Фрейзер",
-Frazier "Фрейзер",
-Frederick "Фредерик",
-Freed "Фрид",
-Freedman "Фридман",
-Freeman "Фримен",
-French "Френч",
-Freund "Френд",
-Frey "Фрей",
-Friedman "Фридман",
-Friend "Друг Дональда",
-Fritz "Фриц",
-Frost "Фрост",
-Fry "Фрай",
-Frye "Фрай",
-Fuchs "Фукс",
-Fuentes "Фуэнтес",
-Fuller "Фуллер",
-Fullerton "Фуллертон",
-Fulmer "Фалмер",
-Fulton "Фултон",
-Fultz "Фульц",
-Funk "Фанк",
-Furlong "Ферлонг",
-Furman "Фурман",
+Faber
+Fabian
+Fagan
+Fahey
+Fain
+Fair
+Fairbanks
+Fairchild
+Fairley
+Faivre
+Falcon
+Falk
+Fallon
+Fanning
+Farley
+Farmer
+Farnsworth
+Farr
+Farrar
+Farrell
+Farrington
+Farris
+Farrow
+Faulk
+Faulkner
+Faust
+Fay
+Feeney
+Felder
+Feldman
+Feliciano
+Felix
+Felton
+Fennell
+Fenner
+Fenton
+Ferguson
+Fernandes
+Fernandez
+Ferrara
+Ferraro
+Ferreira
+Ferrell
+Ferrer
+Ferris
+Ferry
+Field
+Fields
+Fife
+Figueroa
+Fincher
+Findley
+Fine
+Fink
+Finley
+Finn
+Finnegan
+Finney
+Fiore
+Fischer
+Fish
+Fisher
+Fisk
+Fitch
+Fitzgerald
+Fitzpatrick
+Fitzsimmons
+Flaherty
+Flanagan
+Flanders
+Flannery
+Fleck
+Fleming
+Fletcher
+Flint
+Flood
+Flores
+Florez
+Flowers
+Floyd
+Flynn
+Fogle
+Foley
+Folsom
+Foltz
+Fong
+Fontaine
+Fontenot
+Foote
+Forbes
+Ford
+Foreman
+Forman
+Forrest
+Forrester
+Forsyth
+Forsythe
+Fortenberry
+Fortier
+Fortin
+Fortner
+Fortune
+Foss
+Foster
+Fountain
+Fournier
+Foust
+Fowler
+Fox
+Foy
+Fraley
+France
+Francis
+Francisco
+Franco
+Francois
+Frank
+Franklin
+Franks
+Franz
+Fraser
+Frasier
+Frazier
+Frederick
+Freed
+Freedman
+Freeman
+French
+Freund
+Frey
+Friedman
+Friend " ",
+Fritz
+Frost
+Fry
+Frye
+Fuchs
+Fuentes
+Fuller
+Fullerton
+Fulmer
+Fulton
+Fultz
+Funk
+Furlong
+Furman
 -----------------------------------------------------------------------------------G
-Gable "Гейбл",
-Gabriel "Габриэль",
-Gaddis "Гэддис",
-Gaeta "Гаэта",
-Gaffney "Гаффни",
-Gage "Гейдж",
-Gagne "Ганье",
-Gagnon "Ганьон",
-Gaines "Гейнс",
-Gaither "Гейтер",
-Galbraith "Гэлбрейт",
-Gale "Гейл",
-Galindo "Галиндо",
-Gallagher "Галлахер",
-Gallant "Галлант",
-Gallardo "Гальярдо",
-Gallegos "Гальегос",
-Gallo "Галло",
-Galloway "Гэллоуэй",
-Galvan "Гальван",
-Galves "Галвес",
-Galvin "Гэлвин",
-Gamble "Гэмбл",
-Gamez "Гамез",
-Gandy "Гэнди",
-Gann "Ганн",
-Gannon "Гэннон",
-Gant "Гант",
-Garber "Гарбер",
-Garcia "Гарсия",
-Gardiner "Гардинер",
-Gardner "Гарднер",
-Garland "Гарленд",
-Garmon "Гармон",
-Garner "Гарнер",
-Garnett "Гарнетт",
-Garrett "Гарретт",
-Garrison "Гаррисон",
-Garvey "Гарви",
-Garvin "Гарвин",
-Garza "Гарза",
-Gaskin "Гаскин",
-Gaskins "Гаскинс",
-Gaston "Гастон",
-Gates "Гейтс",
-Gatlin "Гэтлин",
-Gauthier "Готье",
-Gavin "Гэвин",
-Geary "Гири",
-Gee "Джи",
-Geiger "Гейгер",
-Gentry "Джентри",
-George "Джордж",
-Gerald "Джеральд",
-Gerard "Джерард",
-Gerber "Гербер",
-German "Герман",
-Getz "Гетц",
-Ghazi "Гази",
-Gibbons "Гиббонс",
-Gibbs "Гиббс",
-Gibson "Гибсон",
-Gifford "Гиффорд",
-Gilbert "Гилберт",
-Gilchrist "Гилкрист",
-Giles "Джайлс",
-Gill "Гилл",
-Gillen "Гиллен",
-Gillespie "Гиллеспи",
-Gillette "Джиллетт",
-Gilley "Джилли",
-Gilliam "Гиллиам",
-Gilliand "Гиллианд",
-Gillis "Гиллис",
-Gilman "Гилман",
-Gilmore "Гилмор",
-Ginn "Гин",
-Giordano "Джордано",
-Gipson "Гипсон",
-Girard "Джирард",
-Giroux "Жиру",
-Givens "Гивенс",
-Glasgow "Глазго",
-Glasner "Гласнер",
-Glass "Гласс",
-Glaudini "Глаудини",
-Gleason "Глисон",
-Glenn "Гленн",
-Glover "Гловер",
-Glynn "Глинн",
-Goddard "Годдард",
-Godfrey "Годфри",
-Godwin "Годвин",
-Goetz "Гетц",
-Goff "Гофф",
-Goins "Гоинс",
-Gold "Голд",
-Goldberg "Голдберг",
-Golden "Голден",
-Goldman "Голдман",
-Goldsmith "Голдсмит",
-Goldstein "Голдштейн",
-Gomes "Гомес",
-Gomez "Гомес",
-Gonzales "Гонсалес",
-Gonzalez "Гонсалес",
-Gooch "Гуч",
-Good "Гуд",
-Goode "Гуд",
-Gooden "Гуден",
-Goodin "Гудин",
-Goodman "Гудман",
-Goodrich "Гудрич",
-Goodson "Гудсон",
-Goodwin "Гудвин",
-Gordon "Гордон",
-Gore "Гор",
-Gorman "Горман",
-Goss "Госс",
-Gough "Гоф",
-Gould "Гулд",
-Grace "Грейс",
-Grady "Грейди",
-Graf "Граф",
-Graff "Графф",
-Graham "Грэм",
-Granger "Грейнджер",
-Grant "Грант",
-Grantham "Грэнтэм",
-Graves "Грейвс",
-Gray "Грей",
-Grayon "Грейон",
-Greco "Греко",
-Green "Грин",
-Greenberg "Гринберг",
-Greene "Грин",
-Greenfield "Гринфилд",
-Greenwood "Гринвуд",
-Greer "Грир",
-Gregg "Грегг",
-Gregory "Грегори",
-Grenier "Гренье",
-Gresham "Грэшем",
-Grey "Грей",
-Grier "Гриер",
-Griffin "Гриффин",
-Griffith "Гриффит",
-Griffiths "Гриффитс",
-Griggs "Григгс",
-Grigsby "Григсби",
-Grimes "Граймс",
-Grimm "Гримм",
-Grisham "Гришем",
-Grissom "Гриссом",
-Griswold "Грисволд",
-Grogan "Гроган",
-Gross "Гросс",
-Grossman "Гроссман",
-Grove "Гроув",
-Grover "Гроувер",
-Groves "Гроувз",
-Grubb "Грабб",
-Grubbs "Граббс",
-Gruber "Грубер",
-Guajardo "Гуахардо",
-Guerra "Гуэрра",
-Guerrero "Герреро",
-Guest "Гест",
-Guevara "Гевара",
-Guidry "Гидри",
-Guillen "Гиллен",
-Guillory "Гиллори",
-Guinn "Гуинн",
-Gunderson "Гандерсон",
-Gunn "Ганн",
-Gunter "Гюнтер",
-Gunther "Гюнтер",
-Gurley "Герли",
-Gustafson "Густафсон",
-Guthrie "Гатри",
-Gutierrez "Гутьеррес",
-Guy "Гай",
-Guzman "Гусман",
+Gable
+Gabriel
+Gaddis
+Gaeta
+Gaffney
+Gage
+Gagne
+Gagnon
+Gaines
+Gaither
+Galbraith
+Gale
+Galindo
+Gallagher
+Gallant
+Gallardo
+Gallegos
+Gallo
+Galloway
+Galvan
+Galves
+Galvin
+Gamble
+Gamez
+Gandy
+Gann
+Gannon
+Gant
+Garber
+Garcia
+Gardiner
+Gardner
+Garland
+Garmon
+Garner
+Garnett
+Garrett
+Garrison
+Garvey
+Garvin
+Garza
+Gaskin
+Gaskins
+Gaston
+Gates
+Gatlin
+Gauthier
+Gavin
+Geary
+Gee
+Geiger
+Gentry
+George
+Gerald
+Gerard
+Gerber
+German
+Getz
+Ghazi
+Gibbons
+Gibbs
+Gibson
+Gifford
+Gilbert
+Gilchrist
+Giles
+Gill
+Gillen
+Gillespie
+Gillette
+Gilley
+Gilliam
+Gilliand
+Gillis
+Gilman
+Gilmore
+Ginn
+Giordano
+Gipson
+Girard
+Giroux
+Givens
+Glasgow
+Glasner
+Glass
+Glaudini
+Gleason
+Glenn
+Glover
+Glynn
+Goddard
+Godfrey
+Godwin
+Goetz
+Goff
+Goins
+Gold
+Goldberg
+Golden
+Goldman
+Goldsmith
+Goldstein
+Gomes
+Gomez
+Gonzales
+Gonzalez
+Gooch
+Good
+Goode
+Gooden
+Goodin
+Goodman
+Goodrich
+Goodson
+Goodwin
+Gordon
+Gore
+Gorman
+Goss
+Gough
+Gould
+Grace
+Grady
+Graf
+Graff
+Graham
+Granger
+Grant
+Grantham
+Graves
+Gray
+Grayon
+Greco
+Green
+Greenberg
+Greene
+Greenfield
+Greenwood
+Greer
+Gregg
+Gregory
+Grenier
+Gresham
+Grey
+Grier
+Griffin
+Griffith
+Griffiths
+Griggs
+Grigsby
+Grimes
+Grimm
+Grisham
+Grissom
+Griswold
+Grogan
+Gross
+Grossman
+Grove
+Grover
+Groves
+Grubb
+Grubbs
+Gruber
+Guajardo
+Guerra
+Guerrero
+Guest
+Guevara
+Guidry
+Guillen
+Guillory
+Guinn
+Gunderson
+Gunn
+Gunter
+Gunther
+Gurley
+Gustafson
+Guthrie
+Gutierrez
+Guy
+Guzman
 --------------------------------------------------------------------------------------------H
-Ha "Ха",
-Haas "Хаас",
-Haase "Хаазе",
-Hacker "Хакер",
-Hackett "Хэкетт",
-Hackney "Хэкни",
-Haddad "Хаддад",
-Hadden "Хэдден",
-Hadley "Хэдли",
-Hagan "Хейген",
-Hagen "Хейген",
-Hager "Хагер",
-Haggard "Хаггард",
-Haggerty "Хаггерти",
-Hahn "Хан",
-Haines "Хейнс",
-Hairston "Хейрстон",
-Hale "Хейл",
-Haley "Хейли",
-Hall "Холл",
-Hallman "Холлман",
-Halstead "Холстед",
-Ham "Хэм",
-Hamblin "Хэмблин",
-Hamel "Хэмел",
-Hamer "Хеймер",
-Hamilton "Гамильтон",
-Hamlin "Хэмлин",
-Hamm "Хэмм",
-Hammer "Хаммер",
-Hammett "Хэммет",
-Hammond "Хэммонд",
-Hammons "Хэммонс",
-Hampton "Хэмптон",
-Han "Хан",
-Hanchard "Хэнчард",
-Hancock "Хэнкок",
-Hand "Хэнд",
-Handley "Хэндли",
-Handy "Хэнди",
-Hanes "Хейнс",
-Haney "Хейни",
-Hankins "Хэнкинс",
-Hanks "Хэнкс",
-Hanley "Хэнли",
-Hanlon "Хэнлон",
-Hanna "Ханна",
-Hannah "Ханна",
-Hansen "Хансен",
-Hanson "Хэнсон",
-Harari "Харари",
-Harbin "Харбин",
-Harden "Харден",
-Harder "Хардер",
-Hardin "Хардин",
-Harding "Хардинг",
-Hardison "Хардисон",
-Hardman "Хардман",
-Hardwick "Хардвик",
-Hardy "Харди",
-Hare "Хэйр",
-Hargrave "Харгрейв",
-Hargrove "Харгроув",
-Harkins "Харкинс",
-Harlan "Харлан",
-Harley "Харли",
-Harlow "Харлоу",
-Harman "Харман",
-Harmon "Хармон",
-Harp "Харп",
-Harper "Харпер",
-Harrell "Харрелл",
-Harrington "Харрингтон",
-Harris "Харрис",
-Harrison "Харрисон",
-Hart "Харт",
-Hartley "Хартли",
-Hartman "Хартман",
-Hartmann "Хартманн",
-Hartnett "Хартнетт",
-Harvey "Харви",
-Harwell "Харвелл",
-Harwood "Харвуд",
-Haskell "Хаскелл",
-Haskins "Хаскинс",
-Hass "Хасс",
-Hastings "Гастингс",
-Hatch "Хэтч",
-Hatcher "Хэтчер",
-Hatchett "Хэчетт",
-Hatfield "Хэтфилд",
-Hathaway "Хэтуэй",
-Hatton "Хаттон",
-Hauser "Хаузер",
-Havens "Хейвенс",
-Hawes "Хейз",
-Hawk "Хоук",
-Hawkins "Хокинс",
-Hawks "Хоукс",
-Hawley "Хоули",
-Hawthorne "Хоторн",
-Hay "Хэй",
-Hayden "Хейден",
-Hayes "Хейз",
-Haynes "Хейнс",
-Hays "Хейз",
-Hayward "Хейворд",
-Haywood "Хейвуд",
-Hazel "Хейзел",
-Head "Хед",
-Headley "Хедли",
-Healey "Хили",
-Healy "Хили",
-Heard "Услышал",
-Hearn "Хирн",
-Heath "Хит",
-Heaton "Хитон",
-Hebert "Хеберт",
-Heck "Хек",
-Hedrick "Хедрик",
-Heflin "Хефлин",
-Hefner "Хефнер",
-Heim "Хейм",
-Hein "Хейн",
-Heinrich "Генрих",
-Heinz "Хайнс",
-Helfer "Хелфер",
-Heller "Хеллер",
-Helm "Хелм",
-Helms "Хелмс",
-Helton "Хелтон",
-Hemphill "Хемпхилл",
-Henderson "Хендерсон",
-Hendrick "Хендрик",
-Hendricks "Хендрикс",
-Hendrickson "Хендриксон",
-Hendrix "Хендрикс",
-Henley "Хенли",
-Hennessey "Хеннесси",
-Henning "Хеннинг",
-Henry "Генри",
-Hensley "Хенсли",
-Henson "Хенсон",
-Herbert "Герберт",
-Herman "Герман",
-Hernandez "Эрнандес",
-Herndon "Херндон",
-Herrera "Эррера",
-Herring "Херринг",
-Herrington "Херрингтон",
-Herrmann "Херман",
-Herron "Херрон",
-Hershberger "Хершбергер",
-Herzog "Герцог",
-Hess "Хесс",
-Hewitt "Хьюитт",
-Hiatt "Хайатт",
-Hickey "Хики",
-Hickman "Хикман",
-Hicks "Хикс",
-Hickson "Хиксон",
-Hidalgo "Идальго",
-Higginbotham "Хиггинботэм",
-Higgins "Хиггинс",
-High "Хай",
-Hightower "Хайтауэр",
-Hildebrand "Хильдебранд",
-Hildreth "Хилдрет",
-Hill "Хилл",
-Hiller "Хиллер",
-Hilliard "Хиллиард",
-Hillman "Хиллман",
-Hills "Хиллс",
-Hilton "Хилтон",
-Hinds "Хиндс",
-Hines "Хайнс",
-Hinkle "Хинкль",
-Hinson "Хинсон",
-Hinton "Хинтон",
-Hirsch "Хирш",
-Hitchcock "Хичкок",
-Hitt "Хитт",
-Ho "Хо",
-Hoang "Хоанг",
-Hobbs "Хоббс",
-Hobson "Хобсон",
-Hodge "Ходж",
-Hodges "Ходжес",
-Hodgetts "Ходжеттс",
-Hoff "Хофф",
-Hoffman "Хоффман",
-Hoffmann "Хоффманн",
-Hogan "Хоган",
-Hogue "Хог",
-Holbrook "Холбрук",
-Holcomb "Холкомб",
-Holden "Холден",
-Holder "Холдер",
-Holiday "Холидей",
-Holland "Холланд",
-Hollenbeck "Холленбек",
-Holley "Холли",
-Holliday "Холлидей",
-Hollingsworth "Холлингсворт",
-Hollins "Холлинз",
-Hollis "Холлис",
-Holloway "Холлоуэй",
-Holly "Холли",
-Holm "Холм",
-Holman "Холман",
-Holmes "Холмс",
-Holt "Холт",
-Holton "Холтон",
-Holtz "Хольц",
-Honeycutt "Ханикатт",
-Hong "Хонг",
-Hood "Худ",
-Hook "Хук",
-Hooker "Хукер",
-Hooks "Хукс",
-Hooper "Хупер",
-Hoover "Гувер",
-Hope "Хоуп",
-Hopkins "Хопкинс",
-Hopper "Хоппер",
-Hopson "Хопсон",
-Horan "Хоран",
-Horn "Хорн",
-Horne "Хорн",
-Horner "Хорнер",
-Horowitz "Горовиц",
-Horton "Хортон",
-Horvath "Хорват",
-Hoskins "Хоскинс",
-Houck "Хоук",
-Hough "Хью",
-Houghton "Хоутон",
-Houle "Хоул",
-House "Хаус",
-Houser "Хаузер",
-Houston "Хьюстон",
-Howard "Ховард",
-Howe "Хоу",
-Howell "Хауэлл",
-Howes "Хауз",
-Howland "Хауленд",
-Hoy "Хой",
-Hoyle "Хойл",
-Hoyt "Хойт",
-Hsu "Хсу",
-Huang "Хуан",
-Hubbard "Хаббард",
-Huber "Хубер",
-Huddleston "Хаддлстон",
-Hudgins "Хаджинс",
-Hudson "Хадсон",
-Hudspeth "Хадспет",
-Huerta "Уэрта",
-Huey "Хьюи",
-Huff "Хафф",
-Huffman "Хаффман",
-Huggins "Хаггинс",
-Hughes "Хьюз",
-Hull "Халл",
-Humes "Хьюмс",
-Hummel "Хаммел",
-Humphrey "Хамфри",
-Humphreys "Хамфриз",
-Humphries "Хамфрис",
-Hunt "Хант",
-Hunter "Хантер",
-Huntley "Хантли",
-Hurd "Херд",
-Hurley "Херли",
-Hurst "Херст",
-Hurt "Ранен",
-Hurtado "Уртадо",
-Huston "Хьюстон",
-Hutchens "Хатченс",
-Hutchins "Хатчинс",
-Hutchinson "Хатчинсон",
-Hutson "Хатсон",
-Hutton "Хаттон",
-Huynh "Хайнх",
-Hwang "Хван",
-Hyatt "Хайатт",
-Hyde "Хайд",
-Hyland "Хайланд",
-Hyman "Хайман",
-Hynes "Хайнс",
+Ha
+Haas
+Haase
+Hacker
+Hackett
+Hackney
+Haddad
+Hadden
+Hadley
+Hagan
+Hagen
+Hager
+Haggard
+Haggerty
+Hahn
+Haines
+Hairston
+Hale
+Haley
+Hall
+Hallman
+Halstead
+Ham
+Hamblin
+Hamel
+Hamer
+Hamilton
+Hamlin
+Hamm
+Hammer
+Hammett
+Hammond
+Hammons
+Hampton
+Han
+Hanchard
+Hancock
+Hand
+Handley
+Handy
+Hanes
+Haney
+Hankins
+Hanks
+Hanley
+Hanlon
+Hanna
+Hannah
+Hansen
+Hanson
+Harari
+Harbin
+Harden
+Harder
+Hardin
+Harding
+Hardison
+Hardman
+Hardwick
+Hardy
+Hare
+Hargrave
+Hargrove
+Harkins
+Harlan
+Harley
+Harlow
+Harman
+Harmon
+Harp
+Harper
+Harrell
+Harrington
+Harris
+Harrison
+Hart
+Hartley
+Hartman
+Hartmann
+Hartnett
+Harvey
+Harwell
+Harwood
+Haskell
+Haskins
+Hass
+Hastings
+Hatch
+Hatcher
+Hatchett
+Hatfield
+Hathaway
+Hatton
+Hauser
+Havens
+Hawes
+Hawk
+Hawkins
+Hawks
+Hawley
+Hawthorne
+Hay
+Hayden
+Hayes
+Haynes
+Hays
+Hayward
+Haywood
+Hazel
+Head
+Headley
+Healey
+Healy
+Heard
+Hearn
+Heath
+Heaton
+Hebert
+Heck
+Hedrick
+Heflin
+Hefner
+Heim
+Hein
+Heinrich
+Heinz
+Helfer
+Heller
+Helm
+Helms
+Helton
+Hemphill
+Henderson
+Hendrick
+Hendricks
+Hendrickson
+Hendrix
+Henley
+Hennessey
+Henning
+Henry
+Hensley
+Henson
+Herbert
+Herman
+Hernandez
+Herndon
+Herrera
+Herring
+Herrington
+Herrmann
+Herron
+Hershberger
+Herzog
+Hess
+Hewitt
+Hiatt
+Hickey
+Hickman
+Hicks
+Hickson
+Hidalgo
+Higginbotham
+Higgins
+High
+Hightower
+Hildebrand
+Hildreth
+Hill
+Hiller
+Hilliard
+Hillman
+Hills
+Hilton
+Hinds
+Hines
+Hinkle
+Hinson
+Hinton
+Hirsch
+Hitchcock
+Hitt
+Ho
+Hoang
+Hobbs
+Hobson
+Hodge
+Hodges
+Hodgetts
+Hoff
+Hoffman
+Hoffmann
+Hogan
+Hogue
+Holbrook
+Holcomb
+Holden
+Holder
+Holiday
+Holland
+Hollenbeck
+Holley
+Holliday
+Hollingsworth
+Hollins
+Hollis
+Holloway
+Holly
+Holm
+Holman
+Holmes
+Holt
+Holton
+Holtz
+Honeycutt
+Hong
+Hood
+Hook
+Hooker
+Hooks
+Hooper
+Hoover
+Hope
+Hopkins
+Hopper
+Hopson
+Horan
+Horn
+Horne
+Horner
+Horowitz
+Horton
+Horvath
+Hoskins
+Houck
+Hough
+Houghton
+Houle
+House
+Houser
+Houston
+Howard
+Howe
+Howell
+Howes
+Howland
+Hoy
+Hoyle
+Hoyt
+Hsu
+Huang
+Hubbard
+Huber
+Huddleston
+Hudgins
+Hudson
+Hudspeth
+Huerta
+Huey
+Huff
+Huffman
+Huggins
+Hughes
+Hull
+Humes
+Hummel
+Humphrey
+Humphreys
+Humphries
+Hunt
+Hunter
+Huntley
+Hurd
+Hurley
+Hurst
+Hurt
+Hurtado
+Huston
+Hutchens
+Hutchins
+Hutchinson
+Hutson
+Hutton
+Huynh
+Hwang
+Hyatt
+Hyde
+Hyland
+Hyman
+Hynes
 ---------------------------------------------------------------------------------I
-Ibarra "Ибарра",
-Inaros "Инарос",
-Ingalls "Ингаллс",
-Ingle "Ингл",
-Ingram "Ингрэм",
-Inman "Инман",
-Irby "Ирби",
-Ireland "Айрленд",
-Irish "Айриш",
-Irons "Айронс",
-Irvin "Ирвин",
-Irvine "Ирвин",
-Irving "Ирвинг",
-Irwin "Ирвин",
-Isaac "Айзек",
-Isaacs "Айзекс",
-Isbell "Исбелл",
-Isom "Айсом",
-Israel "Израэль",
-Iturbi "Итурби",
-Iverson "Айверсон",
-Ivey "Айви",
-Ivory "Айвори",
-Ivy "Айви",
+Ibarra
+Inaros
+Ingalls
+Ingle
+Ingram
+Inman
+Irby
+Ireland
+Irish
+Irons
+Irvin
+Irvine
+Irving
+Irwin
+Isaac
+Isaacs
+Isbell
+Isom
+Israel
+Iturbi
+Iverson
+Ivey
+Ivory
+Ivy
 --------------------------------------------------------------------------------J
-Jack "Джек",
-Jackman "Джекман",
-Jackson "Джексон",
-Jacob "Джейкоб",
-Jacobs "Джейкобс",
-Jacobsen "Джэкобсон",
-Jacobson "Джейкобсон",
-Jacoby "Джейкоби",
-Jacques "Жак",
-Jaeger "Джегер",
-James "Джеймс",
-Jameson "Джеймсон",
-Jamison "Джеймисон",
-Jane "Джейн",
-Janes "Джейнс",
-Jankowski "Янковский",
-Jansen "Янсен",
-Janssen "Хансен",
-Jaramillo "Харамильо",
-Jarrell "Джарелл",
-Jarrett "Джарретт",
-Jarvis "Джарвис",
-Jaspter "Джасптер",
-Jay "Джей",
-Jean "Джин",
-Jeffers "Джефферс",
-Jefferson "Джефферсон",
-Jeffrey "Джеффри",
-Jeffries "Джеффрис",
-Jenkins "Дженкинс",
-Jennings "Дженнингс",
-Jensen "Дженсен",
-Jenson "Дженсон",
-Jernigan "Джерниган",
-Jessup "Джессап",
-Jeter "Джетер",
-Jett "Джетт",
-Jewell "Джуэлл",
-Jiminez "Химинес",
-Johansen "Йохансен",
-Joiner "Джойнер",
-Jolly "Джолли",
-Jones "Джонс",
-Jordan "Джордан",
-Jorgensen "Йоргенсен",
-Joseph "Джозеф",
-Joy "Джой",
-Joyce "Джойс",
-Joyner "Джойнер",
-Juarez "Хуарес",
-Judd "Джадд",
-Judge "Джадж",
-Julian "Джулиан",
-Juliani "Джулиани",
-Jung "Юнг",
-Justice "Джастис",
+Jack
+Jackman
+Jackson
+Jacob
+Jacobs
+Jacobsen
+Jacobson
+Jacoby
+Jacques
+Jaeger
+James
+Jameson
+Jamison
+Jane
+Janes
+Jankowski
+Jansen
+Janssen
+Jaramillo
+Jarrell
+Jarrett
+Jarvis
+Jaspter
+Jay
+Jean
+Jeffers
+Jefferson
+Jeffrey
+Jeffries
+Jenkins
+Jennings
+Jensen
+Jenson
+Jernigan
+Jessup
+Jeter
+Jett
+Jewell
+Jiminez
+Johansen
+Joiner
+Jolly
+Jones
+Jordan
+Jorgensen
+Joseph
+Joy
+Joyce
+Joyner
+Juarez
+Judd
+Judge
+Julian
+Juliani
+Jung
+Justice
 -----------------------------------------------------------------------------------------k
-Kahn "Кан",
-Kaiser "Кайзер",
-Kamal "Камаль",
-Kaminski "Камински",
-Kane "Кейн",
-Kang "Канг",
-Kaplan "Каплан",
-Karkanis "Карканис",
-Karr "Карр",
-Kash "Кэш",
-Katraine "Катрейн",
-Katz "Катц",
-Kauffman "Кауфман",
-Kaufman "Кауфман",
-Kay "Кей",
-Kaye "Кей",
-Keane "Кин",
-Kearney "Кирни",
-Kearns "Кернс",
-Keating "Китинг",
-Keaton "Китон",
-Kee "Ки",
-Keefe "Киф",
-Keegan "Киган",
-Keel "Кил",
-Keeler "Килер",
-Keeling "Килинг",
-Keen "Кин",
-Keenan "Кинан",
-Keene "Кин",
-Keener "Кинер",
-Keeney "Кини",
-Keikeya "Кейкея",
-Keith "Кит",
-Kelleher "Келлехер",
-Keller "Келлер",
-Kelley "Келли",
-Kellogg "Келлогг",
-Kelly "Келли",
-Kelsey "Келси",
-Kelso "Келсо",
-Kemp "Кемп",
-Kemper "Кемпер",
-Kendall "Кендалл",
-Kendrick "Кендрик",
-Kennedy "Кеннеди",
-Kenney "Кенни",
-Kenny "Кенни",
-Kent "Кент",
-Kenyon "Кеньон",
-Kern "Керн",
-Kerns "Кернс",
-Kerr "Керр",
-Kessler "Кесслер",
-Key "Ки",
-Keyes "Кейс",
-Keys "Киз",
-Khan "Хан",
-Kidd "Кидд",
-Kidwell "Кидвелл",
-Kilgore "Килгор",
-Killian "Киллиан",
-Kilpatrick "Килпатрик",
-Kim "Ким",
-Kimball "Кимболл",
-Kimble "Кимбл",
-Kimbrell "Кимбрелл",
-Kimbrough "Кимброу",
-Kimmel "Киммел",
-Kinard "Кинар",
-Kincaid "Кинкейд",
-Kinder "Киндер",
-King "Кинг",
-Kingsley "Кингсли",
-Kinney "Кинни",
-Kinsey "Кинси",
-Kirby "Кирби",
-Kirchner "Кирхнер",
-Kirk "Кирк",
-Kirkland "Киркленд",
-Kirkpatrick "Киркпатрик",
-Kirkwood "Кирквуд",
-Kiser "Кайзер",
-Kitchen "Кухня Дональда",
-Klein "Клейн",
-Kline "Клайн",
-Knapp "Кнапп",
-Knight "Найт",
-Knoll "Кнолл",
-Knott "Нотт",
-Knotts "Ноттс",
-Knowles "Ноулз",
-Knowlton "Ноултон",
-Knox "Нокс",
-Knudsen "Кнудсен",
-Knutson "Натсон",
-Koaho "Коахо",
-Koch "Кох",
-Koelher "Колер",
-Koenig "Кениг",
-Kohl "Коль",
-Kohler "Кохлер",
-Koontz "Кунц",
-Kopp "Копп",
-Korshunov "Коршунов",
-Kovach "Ковач",
-Kowalski "Ковасаки",
-Kozak "Козак",
-Kozlowski "Козловски",
-Kraft "Крафт",
-Kramer "Крамер",
-Kraus "Краус",
-Krause "Краус",
-Krauss "Краусс",
-Krieger "Кригер",
-Kroll "Кролл",
-Krueger "Крюгер",
-Kruger "Крюгер",
-Kruse "Крузе",
-Kuhn "Кун",
-Kuntz "Кунтс",
-Kunz "Кунс",
-Kurtz "Курц",
-Kuykendall "Кайкендалл",
-Kyle "Кайл",
+Kahn
+Kaiser
+Kamal
+Kaminski
+Kane
+Kang
+Kaplan
+Karkanis
+Karr
+Kash
+Katraine
+Katz
+Kauffman
+Kaufman
+Kay
+Kaye
+Keane
+Kearney
+Kearns
+Keating
+Keaton
+Kee
+Keefe
+Keegan
+Keel
+Keeler
+Keeling
+Keen
+Keenan
+Keene
+Keener
+Keeney
+Keikeya
+Keith
+Kelleher
+Keller
+Kelley
+Kellogg
+Kelly
+Kelsey
+Kelso
+Kemp
+Kemper
+Kendall
+Kendrick
+Kennedy
+Kenney
+Kenny
+Kent
+Kenyon
+Kern
+Kerns
+Kerr
+Kessler
+Key
+Keyes
+Keys
+Khan
+Kidd
+Kidwell
+Kilgore
+Killian
+Kilpatrick
+Kim
+Kimball
+Kimble
+Kimbrell
+Kimbrough
+Kimmel
+Kinard
+Kincaid
+Kinder
+King
+Kingsley
+Kinney
+Kinsey
+Kirby
+Kirchner
+Kirk
+Kirkland
+Kirkpatrick
+Kirkwood
+Kiser
+Kitchen " ",
+Klein
+Kline
+Knapp
+Knight
+Knoll
+Knott
+Knotts
+Knowles
+Knowlton
+Knox
+Knudsen
+Knutson
+Koaho
+Koch
+Koelher
+Koenig
+Kohl
+Kohler
+Koontz
+Kopp
+Korshunov
+Kovach
+Kowalski
+Kozak
+Kozlowski
+Kraft
+Kramer
+Kraus
+Krause
+Krauss
+Krieger
+Kroll
+Krueger
+Kruger
+Kruse
+Kuhn
+Kuntz
+Kunz
+Kurtz
+Kuykendall
+Kyle
 ------------------------------------------------------------------------------------------L
-La Plante "ЛаПлант",
-Labelle "Лабелл",
-Lacey "Лейси",
-Lachance "Лашанс",
-Lackey "Лэки",
-Lacroix "Лакруа",
-Lacy "Лейси",
-Ladd "Лэдд",
-Ladner "Ладнер",
-Lafleur "Лафлер",
-Lai "Лэй",
-Laird "Лэрд",
-Lake "Лейк",
-Lam "Лэм",
-Lamar "Ламар",
-Lamb "Лэмб",
-Lambert "Ламберт",
-Lamm "Ламм",
-Lamontagne "Ламонтань",
-Lampkin "Лампкин",
-Lancaster "Ланкастер",
-Lance "Лэнс",
-Land "Ленд",
-Landers "Ландерс",
-Landis "Лэндис",
-Landon "Лэндон",
-Landrum "Ландрам",
-Landry "Лэндри",
-Lane "Лейн",
-Laney "Лейни",
-Lang "Лэнг",
-Langdon "Лэнгдон",
-Lange "Лэнг",
-Langford "Лэнгфорд",
-Langley "Лэнгли",
-Langston "Лэнгстон",
-Lanier "Ланье",
-Lankford "Ланкфорд",
-Lantz "Ланц",
-Lara "Лара",
-Large "Лардж",
-Larkin "Ларкин",
-Laroche "Ларош",
-Larose "Лароуз",
-Larson "Ларсон",
-Larue "Ларю",
-Lash "Лэш",
-Lassiter "Лэсситер",
-Latham "Лэтем",
-Latimer "Латимер",
-Lau "Лау",
-Laughlin "Лафлин",
-Lavender "Лавендер",
-Lavigne "Лавин",
-Law "Лоу",
-Lawler "Лоулер",
-Lawless "Лоулесс",
-Lawrence "Лоуренс",
-Laws "Лоусс",
-Lawson "Лоусон",
-Lawton "Лоутон",
-Lay "Лежал",
-Layman "Лэймен",
-Layne "Лейн",
-Layton "Лейтон",
-Le "Ле",
-Lea "Ли",
-Leach "Лич",
-Leal "Лил",
-Lear "Лир",
-Leary "Лири",
-Leavitt "Ливитт",
-Leblanc "Леблан",
-Leboeuf "Лебеф",
-Lebron "Леброн",
-LeClair "Леклер",
-Ledbetter "Ледбеттер",
-Ledford "Ледфорд",
-Ledoux "Леду",
-Lee "Ли",
-Leger "Леджер",
-Legg "Легг",
-Leggett "Леггетт",
-Lehman "Леман",
-Lehmann "Леман",
-Leigh "Ли",
-Leighton "Лейтон",
-Lemay "Лемей",
-Lemmon "Леммон",
-Lemon "Лемон",
-Lennon "Леннон",
-Lennox "Леннокс",
-Lentz "Ленц",
-Lenz "Ленц",
-Leon "Леон",
-Leonard "Леонард",
-Leone "Леоне",
-Lerner "Лернер",
-Leroy "Лерой",
-Leslie "Лесли",
-Lester "Лестер",
-Leung "Леунг",
-Levesque "Левеск",
-Levi "Леви",
-Levin "Левин",
-Levine "Левайн",
-Levy "Леви",
-Lewandowski "Левандовски",
-Lewis "Льюис",
-Li "Ли",
-Libby "Либби",
-Liddell "Лидделл",
-Lieberman "Либерман",
-Light "Лайт",
-Lightfoot "Лайтфут",
-Liles "Лайлс",
-Lilley "Лилли",
-Lilly "Лилли",
-Lim "Лим",
-Lima "Лима",
-Lin "Лин",
-Lincoln "Линкольн",
-Lind "Линд",
-Lindberg "Линдберг",
-Linder "Линдер",
-Lindley "Линдли",
-Lindquist "Линдквист",
-Lindsay "Линдси",
-Lindsey "Линдси",
-Lindstrom "Линдстром",
-Link "Линк",
-Linn "Линн",
-Linton "Линтон",
-Lipscomb "Липскомб",
-Lira "Лира",
-Lister "Листер",
-Little "Литтл",
-Littlefield "Литтлфилд",
-LittleDonald "ЛиттлдОнальд",
-Liu "Лью",
-Lively "Лайвли",
-Livingston "Ливингстон",
-Lloyd "Ллойд",
-Lo "Ло",
-Locke "Локк",
-Lockett "Локетт",
-Lockhart "Локхарт",
-Locklear "Локлир",
-Lockwood "Локвуд",
-Loftis "Лофтис",
-Lofton "Лофтон",
-Loftus "Лофтус",
-Logan "Логан",
-Lomax "Ломакс",
-Lombardi "Ломбарди",
-Lombardo "Ломбардо",
-Lombnard "Ломбнард",
-London "Лондон",
-Long "Лонг",
-Longoria "Лонгория",
-Lopes "Лопес",
-Lopez "Лопес",
-Lord "Лорд",
-Lorenz "Лоренц",
-Lorenzo "Лоренцо",
-Lott "Лотт",
-Louis "Луис",
-Love "Лав",
-Lovejoy "Лавджой",
-Lovelace "Лавлейс",
-Loveless "Лавлесс",
-Lovell "Ловелл",
-Lovett "Ловетт",
-Low "Лоу",
-Lowe "Лоу",
-Lowell "Лоуэлл",
-Lowery "Лоури",
-Lowry "Лоури",
-Loy "Лой",
-Loyd "Лойд",
-Lozano "Лозано",
-Lu "Лу",
-Lucas "Лукас",
-Lucero "Лусеро",
-Luckett "Лакетт",
-Ludwig "Людвиг",
-Lugo "Луго",
-Lujan "Лухан",
-Luke "Люк",
-Lumpkin "Лампкин",
-Luna "Луна",
-Lund "Лунд",
-Lundy "Ланди",
-Lunsford "Лансфорд",
-Lusk "Ласк",
-Luther "Лютер",
-Luttrell "Латтрелл",
-Lutz "Лутц",
-Ly "Ли",
-Lyle "Лайл",
-Lyles "Лайлз",
-Lyman "Лайман",
-Lynch "Линч",
-Lynn "Линн",
-Lyon "Лайон",
-Lyons "Лайонс",
-Lytle "Лайтл",
+La Plante
+Labelle
+Lacey
+Lachance
+Lackey
+Lacroix
+Lacy
+Ladd
+Ladner
+Lafleur
+Lai
+Laird
+Lake
+Lam
+Lamar
+Lamb
+Lambert
+Lamm
+Lamontagne
+Lampkin
+Lancaster
+Lance
+Land
+Landers
+Landis
+Landon
+Landrum
+Landry
+Lane
+Laney
+Lang
+Langdon
+Lange
+Langford
+Langley
+Langston
+Lanier
+Lankford
+Lantz
+Lara
+Large
+Larkin
+Laroche
+Larose
+Larson
+Larue
+Lash
+Lassiter
+Latham
+Latimer
+Lau
+Laughlin
+Lavender
+Lavigne
+Law
+Lawler
+Lawless
+Lawrence
+Laws
+Lawson
+Lawton
+Lay
+Layman
+Layne
+Layton
+Le
+Lea
+Leach
+Leal
+Lear
+Leary
+Leavitt
+Leblanc
+Leboeuf
+Lebron
+LeClair
+Ledbetter
+Ledford
+Ledoux
+Lee
+Leger
+Legg
+Leggett
+Lehman
+Lehmann
+Leigh
+Leighton
+Lemay
+Lemmon
+Lemon
+Lennon
+Lennox
+Lentz
+Lenz
+Leon
+Leonard
+Leone
+Lerner
+Leroy
+Leslie
+Lester
+Leung
+Levesque
+Levi
+Levin
+Levine
+Levy
+Lewandowski
+Lewis
+Li
+Libby
+Liddell
+Lieberman
+Light
+Lightfoot
+Liles
+Lilley
+Lilly
+Lim
+Lima
+Lin
+Lincoln
+Lind
+Lindberg
+Linder
+Lindley
+Lindquist
+Lindsay
+Lindsey
+Lindstrom
+Link
+Linn
+Linton
+Lipscomb
+Lira
+Lister
+Little
+Littlefield
+LittleDonald
+Liu
+Lively
+Livingston
+Lloyd
+Lo
+Locke
+Lockett
+Lockhart
+Locklear
+Lockwood
+Loftis
+Lofton
+Loftus
+Logan
+Lomax
+Lombardi
+Lombardo
+Lombnard
+London
+Long
+Longoria
+Lopes
+Lopez
+Lord
+Lorenz
+Lorenzo
+Lott
+Louis
+Love
+Lovejoy
+Lovelace
+Loveless
+Lovell
+Lovett
+Low
+Lowe
+Lowell
+Lowery
+Lowry
+Loy
+Loyd
+Lozano
+Lu
+Lucas
+Lucero
+Luckett
+Ludwig
+Lugo
+Lujan
+Luke
+Lumpkin
+Luna
+Lund
+Lundy
+Lunsford
+Lusk
+Luther
+Luttrell
+Lutz
+Ly
+Lyle
+Lyles
+Lyman
+Lynch
+Lynn
+Lyon
+Lyons
+Lytle
 ------------------------------------------------------------------------------M
-Ma "Ма",
-Mabry "Мэбри",
-MacDonald "Макдональд",
-Machado "Мачадо",
-Macias "Масиас",
-Mack "Мак",
-Mackay "Маккей",
-Mackenzie "Маккензи",
-Mackey "Макки",
-Macklin "Маклин",
-Madden "Мэдден",
-Maddox "Мэддокс",
-Madigan "Мэдиган",
-Madison "Мэдисон",
-Madrid "Мадрид",
-Madrigal "Мадригал",
-Madsen "Мэдсен",
-Maes "Мэйс",
-Maestas "Маэстас",
-Magee "Мэги",
-Magnuson "Магнусон",
-Maguire "Магуайр",
-Mahan "Махан",
-Maher "Махер",
-Mahon "Махон",
-Mahoney "Махони",
-Maier "Майер",
-Main "Мэйн",
-Major "Мейджор",
-Majors "Мейджорс",
-Malcolm "Малкольм",
-Maldonado "Мальдонадо",
-Malley "Мэлли",
-Mallory "Мэллори",
-Malloy "Мэллой",
-Malone "Мэлоун",
-Maloney "Мэлони",
-Mancini "Манчини",
-Mancuso "Манкузо",
-Manley "Мэнли",
-Mann "Манн",
-Manning "Мэннинг",
-Mansfield "Мэнсфилд",
-Manson "Мэнсон",
-Manuel "Мануэль",
-Mao "Мао",
-Maples "Мейплз",
-March "Марч",
-Marchand "Маршан",
-Marcum "Маркум",
-Marcus "Маркус",
-Marin "Марин",
-Marino "Марино",
-Marion "Мэрион",
-Mark "Марк",
-Markham "Маркхэм",
-Marks "Маркс",
-Marlow "Марлоу",
-Marquez "Маркес",
-Marquis "Маркиз",
-Marr "Марр",
-Marrero "Марреро",
-Marsh "Марш",
-Marshall "Маршалл",
-Martel "Мартель",
-Martell "Мартелл",
-Martin "Мартин",
-Martindale "Мартиндейл",
-Martinez "Мартинес",
-Martino "Мартино",
-Martins "Мартинс",
-Martz "Марц",
-Marvin "Марвин",
-Marx "Маркс",
-Mason "Мейсон",
-Massey "Мэсси",
-Masters "Мастерс",
-Masterson "Мастерсон",
-Mata "Мата",
-Mathews "Мэтьюз",
-Mathias "Матиас",
-Mathis "Матис",
-Matlock "Мэтлок",
-Matos "Матос",
-Matson "Мэтсон",
-Matthew "Мэтью",
-Matthews "Мэтьюз",
-Mattingly "Мэттингли",
-Mattison "Мэттисон",
-Mattox "Мэттокс",
-Mattson "Мэттсон",
-Maudlin "Сентиментальный",
-Maupin "Мопин",
-Maurer "Маурер",
-Maxwell "Максвелл",
-May "Мэй",
-Mayberry "Мейберри",
-Mayer "Майер",
-Mayers "Майерс",
-Mayes "Мэйс",
-Mayfield "Мэйфилд",
-Mayhew "Мэйхью",
-Maynard "Мейнард",
-Mayo "Майо",
-Mays "Мэйс",
-McAdams "Макадамс",
-McAfee "Макафи",
-McAlister "Макалистер",
-McAllister "Макалистер",
-McBride "Макбрайд",
-McCabe "Маккейб",
-McCaffrey "Маккэффри",
-McCain "Маккейн",
-McCall "Макколл",
-McCann "Макканн",
-McCarter "Маккартер",
-McCarthy "Маккарти",
-McCartney "Маккартни",
-McCarty "Маккарти",
-McCauley "Макколи",
-McClain "Макклейн",
-McClanahan "Маккленахан",
-McClellan "Макклеллан",
-McClelland "Макклелланд",
-McClendon "Макклендон",
-McCloud "Макклауд",
-McClure "МакКлюр",
-McCollum "Макколлум",
-McConnell "Макконнелл",
-McCord "Маккорд",
-McCorkle "Маккоркл",
-McCormack "Маккормак",
-McCormick "Маккормик",
-McCoy "Маккой",
-McCracken "Маккракен",
-McCrary "Маккрэри",
-McCray "Маккрей",
-McCulloch "Маккалох",
-McCullough "Маккалоу",
-McCurdy "Маккерди",
-McDade "Макдэйд",
-McDaniel "Макдэниел",
-McDermott "Макдермотт",
-McDonald "Макдональд",
-McDonnell "Макдоннелл",
-McDonough "Макдоно",
-McDougal "Макдугал",
-McDougall "Макдугалл",
-McDowell "Макдауэлл",
-McDuffie "Макдаффи",
-McElroy "Макэлрой",
-McEwen "Макьюэн",
-McFadden "Макфадден",
-McFall "Макфолл",
-McFarland "Макфарланд",
-McGee "Макги",
-McGhee "Макги",
-McGill "Макгилл",
-McGinnis "Макгиннис",
-McGovern "Макговерн",
-McGowan "Макгоуэн",
-McGrath "Макграт",
-McGraw "Макгроу",
-McGregor "Макгрегор",
-McGuire "Макгуайр",
-McHugh "Макхью",
-McIntosh "Макинтош",
-McIntyre "Макинтайр",
-McKay "Маккей",
-McKee "Макки",
-McKenna "Маккенна",
-McKenzie "Маккензи",
-McKinley "Маккинли",
-McKinney "Маккинни",
-McKinnon "Маккиннон",
-McKnight "Макнайт",
-McLain "Маклейн",
-McLane "Маклейн",
-McLaughlin "Маклафлин",
-McLaurin "Маклорин",
-McLean "Маклин",
-McLendon "Маклендон",
-McLeod "Маклеод",
-McMahan "Макмахан",
-McMahon "Макмахон",
-McManus "Макманус",
-McMaster "Макмастер",
-McMillan "Макмиллан",
-McMullen "Макмаллен",
-McMurray "Макмюррей",
-McNair "Макнейр",
-McNally "Макнелли",
-McNamara "Макнамара",
-McNeal "Макнил",
-McNeil "Макнил",
-McNeill "Макнил",
-McNulty "Макналти",
-McNutt "Макнатт",
-McPherson "Макферсон",
-McQueen "Маккуин",
-McRae "Макрей",
-McVey "Маквей",
-McWhorter "Макуортер",
-McWilliams "Макуильямс",
-Meacham "Мичем",
-Mead "Мид",
-Meade "Мид",
-Meador "Мидор",
-Meadows "Медоуз",
-Means "имеет В виду",
-Medeiros "Медейрос",
-Medina "Медина",
-Medley "Медли",
-Medlin "Медлин",
-Medlock "Медлок",
-Medrano "Медрано",
-Meehan "Миган",
-Meek "Мик",
-Meeker "Микер",
-Meeks "Микс",
-Meier "Мейер",
-Melendez "Мелендес",
-Mello "Мелло",
-Melton "Мелтон",
-Melvin "Мелвин",
-Mena "Мена",
-Menard "Менар",
-Mendenhall "Менденхолл",
-Mendez "Мендес",
-Mendoza "Мендоса",
-Menendez "Менендес",
-Meng "Мэн",
-Mercado "Меркадо",
-Mercer "Мерсер",
-Merchant "Мерчант",
-Mercier "Мерсье",
-Meredith "Мередит",
-Merrell "Меррелл",
-Merrick "Меррик",
-Merrill "Меррилл",
-Merritt "Мерритт",
-Mesa "Меса",
-Messenger "Мессенджер",
-Messer "Мессер",
-Messina "Мессина",
-Metcalf "Меткалф",
-Metz "Метц",
-Metzger "Метцгер",
-Metzler "Метцлер",
-Meyer "Мейер",
-Meyers "Мейерс",
-Meza "Меза",
-Michael "Майкл",
-Michaels "Майклс",
-Michaud "Мишо",
-Michel "Мишель",
-Middleton "Миддлтон",
-Milam "Милам",
-Milburn "Милберн",
-Miles "Майлз",
-Millard "Миллард",
-Miller "Миллер",
-Milligan "Миллиган",
-Mills "Миллс",
-Milne "Милн",
-Milner "Милнер",
-Milton "Милтон",
-Mims "Мимс",
-Miner "Майнер",
-Minor "Майнор",
-Minter "Минтер",
-Minton "Минтон",
-Mintz "Минц",
-Miranda "Миранда",
-Mitchell "Митчелл",
-Mixon "Миксон",
-Mobley "Мобли",
-Mock "Мок",
-Moeller "Меллер",
-Moffett "Моффетт",
-Moffitt "Моффитт",
-Mohr "Мор",
-Molina "Молина",
-Monaghan "Монаган",
-Monahan "Монахан",
-Money "Мани",
-Moniz "Мониз",
-Monk "Монк",
-Monroe "Монро",
-Monson "Монсон",
-Montague "Монтегю",
-Montalvo "Монтальво",
-Montanez "Монтанес",
-Montano "Монтано",
-Montes "Монтес",
-Montgomery "Монтгомери",
-Montoya "Монтойя",
-Moody "Муди",
-Moon "Мун",
-Mooney "Муни",
-Moore "Мур",
-Mora "Мора",
-Morales "Моралес",
-Moran "Моран",
-Moreau "Моро",
-Moreland "Морленд",
-Moreno "Морено",
-Morgan "Морган",
-Moriarty "Мориарти",
-Morin "Морин",
-Morrell "Моррелл",
-Morris "Моррис",
-Morrison "Моррисон",
-Morrissey "Моррисси",
-Morrow "Морроу",
-Morse "Морз",
-Mortensen "Мортенсен",
-Morton "Мортон",
-Moseley "Мозли",
-Moser "Мозер",
-Moses "Мозес",
-Mosher "Мошер",
-Mosier "Мосье",
-Mosley "Мосли",
-Moss "Мосс",
-Motley "Мотли",
-Mott "Мотт",
-Moulton "Моултон",
-Mount "Маунт",
-Moya "Мойя",
-Moye "Мойе",
-Moyer "Мойер",
-Mueller "Мюллер",
-Muhammad "Мухаммед",
-Muir "Мьюир",
-Mull "Малл",
-Mullen "Маллен",
-Muller "Мюллер",
-Mulligan "Маллиган",
-Mullin "Маллин",
-Mullins "Маллинз",
-Mundy "Манди",
-Muniz "Мунис",
-Munoz "Муньос",
-Munson "Мансон",
-Murdock "Мердок",
-Murillo "Мурильо",
-Murphy "Мерфи",
-Murray "Мюррей",
-Murrell "Мюррелл",
-Musgrove "Мазгроув",
-Muss "Мусс",
-Musser "Массер",
-Myers "Майерс",
-Myles "Майлз",
-Myrick "Мирик",
+Ma
+Mabry
+MacDonald
+Machado
+Macias
+Mack
+Mackay
+Mackenzie
+Mackey
+Macklin
+Madden
+Maddox
+Madigan
+Madison
+Madrid
+Madrigal
+Madsen
+Maes
+Maestas
+Magee
+Magnuson
+Maguire
+Mahan
+Maher
+Mahon
+Mahoney
+Maier
+Main
+Major
+Majors
+Malcolm
+Maldonado
+Malley
+Mallory
+Malloy
+Malone
+Maloney
+Mancini
+Mancuso
+Manley
+Mann
+Manning
+Mansfield
+Manson
+Manuel
+Mao
+Maples
+March
+Marchand
+Marcum
+Marcus
+Marin
+Marino
+Marion
+Mark
+Markham
+Marks
+Marlow
+Marquez
+Marquis
+Marr
+Marrero
+Marsh
+Marshall
+Martel
+Martell
+Martin
+Martindale
+Martinez
+Martino
+Martins
+Martz
+Marvin
+Marx
+Mason
+Massey
+Masters
+Masterson
+Mata
+Mathews
+Mathias
+Mathis
+Matlock
+Matos
+Matson
+Matthew
+Matthews
+Mattingly
+Mattison
+Mattox
+Mattson
+Maudlin
+Maupin
+Maurer
+Maxwell
+May
+Mayberry
+Mayer
+Mayers
+Mayes
+Mayfield
+Mayhew
+Maynard
+Mayo
+Mays
+McAdams
+McAfee
+McAlister
+McAllister
+McBride
+McCabe
+McCaffrey
+McCain
+McCall
+McCann
+McCarter
+McCarthy
+McCartney
+McCarty
+McCauley
+McClain
+McClanahan
+McClellan
+McClelland
+McClendon
+McCloud
+McClure
+McCollum
+McConnell
+McCord
+McCorkle
+McCormack
+McCormick
+McCoy
+McCracken
+McCrary
+McCray
+McCulloch
+McCullough
+McCurdy
+McDade
+McDaniel
+McDermott
+McDonald
+McDonnell
+McDonough
+McDougal
+McDougall
+McDowell
+McDuffie
+McElroy
+McEwen
+McFadden
+McFall
+McFarland
+McGee
+McGhee
+McGill
+McGinnis
+McGovern
+McGowan
+McGrath
+McGraw
+McGregor
+McGuire
+McHugh
+McIntosh
+McIntyre
+McKay
+McKee
+McKenna
+McKenzie
+McKinley
+McKinney
+McKinnon
+McKnight
+McLain
+McLane
+McLaughlin
+McLaurin
+McLean
+McLendon
+McLeod
+McMahan
+McMahon
+McManus
+McMaster
+McMillan
+McMullen
+McMurray
+McNair
+McNally
+McNamara
+McNeal
+McNeil
+McNeill
+McNulty
+McNutt
+McPherson
+McQueen
+McRae
+McVey
+McWhorter
+McWilliams
+Meacham
+Mead
+Meade
+Meador
+Meadows
+Means "  ",
+Medeiros
+Medina
+Medley
+Medlin
+Medlock
+Medrano
+Meehan
+Meek
+Meeker
+Meeks
+Meier
+Melendez
+Mello
+Melton
+Melvin
+Mena
+Menard
+Mendenhall
+Mendez
+Mendoza
+Menendez
+Meng
+Mercado
+Mercer
+Merchant
+Mercier
+Meredith
+Merrell
+Merrick
+Merrill
+Merritt
+Mesa
+Messenger
+Messer
+Messina
+Metcalf
+Metz
+Metzger
+Metzler
+Meyer
+Meyers
+Meza
+Michael
+Michaels
+Michaud
+Michel
+Middleton
+Milam
+Milburn
+Miles
+Millard
+Miller
+Milligan
+Mills
+Milne
+Milner
+Milton
+Mims
+Miner
+Minor
+Minter
+Minton
+Mintz
+Miranda
+Mitchell
+Mixon
+Mobley
+Mock
+Moeller
+Moffett
+Moffitt
+Mohr
+Molina
+Monaghan
+Monahan
+Money
+Moniz
+Monk
+Monroe
+Monson
+Montague
+Montalvo
+Montanez
+Montano
+Montes
+Montgomery
+Montoya
+Moody
+Moon
+Mooney
+Moore
+Mora
+Morales
+Moran
+Moreau
+Moreland
+Moreno
+Morgan
+Moriarty
+Morin
+Morrell
+Morris
+Morrison
+Morrissey
+Morrow
+Morse
+Mortensen
+Morton
+Moseley
+Moser
+Moses
+Mosher
+Mosier
+Mosley
+Moss
+Motley
+Mott
+Moulton
+Mount
+Moya
+Moye
+Moyer
+Mueller
+Muhammad
+Muir
+Mull
+Mullen
+Muller
+Mulligan
+Mullin
+Mullins
+Mundy
+Muniz
+Munoz
+Munson
+Murdock
+Murillo
+Murphy
+Murray
+Murrell
+Musgrove
+Muss
+Musser
+Myers
+Myles
+Myrick
 ----------------------------------------------------------------------------------------N
-Nadeau "Надоу",
-Nagata "Нагата",
-Nagel "Нейджел",
-Nagle "Нэгл",
-Najera "Найера",
-Nakamura "Накамура",
-Nance "Нэнс",
-Napier "Нейпир",
-Naquin "Наквин",
-Nash "Нэш",
-Nathan "Натан",
-Nava "Нава",
-Navarette "Наваретт",
-Navarro "Наварро",
-Neal "Нил",
-Needham "Нидхэм",
-Neeley "Нили",
-Neely "Нили",
-Neff "Нефф",
-Neil "Нил",
-Nelson "Нельсон",
-Nesbitt "Несбитт",
-Nesmith "Несмит",
-Ness "Несс",
-Nettles "Неттлз",
-Neuman "Нойман",
-Neumann "Нойманн",
-Neville "Невилл",
-New "Нью",
-Newberry "Ньюберри",
-Newby "Ньюби",
-Newcomb "Ньюкомб",
-Newell "Ньюэлл",
-Newkirk "Ньюкирк",
-Newman "Ньюман",
-Newsom "Ньюсом",
-Newsome "Ньюсом",
-Newton "Ньютон",
-Ng "Нг",
-Ngo "Нго",
-Nguyen "Нгуен",
-Nicholas "Николас",
-Nichols "Николс",
-Nicholson "Николсон",
-Nickel "Никель",
-Nielsen "Нильсен",
-Nielson "Нильсон",
-Nieto "Ньето",
-Nieves "Ньевес",
-Nix "Никс",
-Nixon "Никсон",
-Noble "Ноубл",
-Noe "Ноэ",
-Noel "Ноэль",
-Nolan "Нолан",
-Noland "Ноланд",
-Nolen "Нолен",
-Noonan "Нунан",
-Norfleet "Норфлит",
-Noriega "Норьега",
-Norman "Норман",
-Norris "Норрис",
-North "Норт",
-Norton "Нортон",
-Norwood "Норвуд",
-Novak "Новак",
-Nowak "Новак",
-Nowell "Ноуэлл",
-Noyes "Нойес",
-Nugent "Ньюджент",
-Numbers "Числа Дональда",
-Nunez "Нуньес",
-Nunn "Нанн",
-Nye "Най",
+Nadeau
+Nagata
+Nagel
+Nagle
+Najera
+Nakamura
+Nance
+Napier
+Naquin
+Nash
+Nathan
+Nava
+Navarette
+Navarro
+Neal
+Needham
+Neeley
+Neely
+Neff
+Neil
+Nelson
+Nesbitt
+Nesmith
+Ness
+Nettles
+Neuman
+Neumann
+Neville
+New
+Newberry
+Newby
+Newcomb
+Newell
+Newkirk
+Newman
+Newsom
+Newsome
+Newton
+Ng
+Ngo
+Nguyen
+Nicholas
+Nichols
+Nicholson
+Nickel
+Nielsen
+Nielson
+Nieto
+Nieves
+Nix
+Nixon
+Noble
+Noe
+Noel
+Nolan
+Noland
+Nolen
+Noonan
+Norfleet
+Noriega
+Norman
+Norris
+North
+Norton
+Norwood
+Novak
+Nowak
+Nowell
+Noyes
+Nugent
+Numbers " ",
+Nunez
+Nunn
+Nye
 ------------------------------------------------------------------------------O
-O'Brien "О'Брайен",
-O'Connell "О'Коннелл",
-O'Conner "О'Коннер",
-O'Connor "О'Коннор",
-O'Donnell "О'Доннелл",
-O'Hara "О'Хара",
-O'Keefe "О'Киф",
-O'Leary "О'Лири",
-O'Malley "О'Мэлли",
-O'Neal "О'Нил",
-O'Neil "О'Нил",
-O'Neill "О'Нил",
-O'Rourke "О'Рурк",
-O'Shea "О'Ши",
-O'Sullivan "О'Салливан",
-O'Toole "О'Тул",
-Oakes "Оукс",
-Oakley "Оукли",
-Oaks "Оукс",
-Oates "Оутс",
-Ocampo "Окампо",
-Ocasio "Окасио",
-Ochoa "Очоа",
-Odell "Оделл",
-Odom "Одом",
-Ogden "Огден",
-Ogle "Огл",
-Oglesby "Оглсби",
-Oh "О",
-Ojeda "Оджеда",
-Oldham "Олдхэм",
-Oliphant "Олифант",
-Oliva "Олива",
-Olivares "Оливарес",
-Olivarez "Оливарес",
-Olivas "Оливас",
-Oliver "Оливер",
-Olmos "Олмос",
-Olmstead "Олмстед",
-Olsen "Олсен",
-Olson "Олсон",
-Ontiveros "Онтиверос",
-Orlando "Орландо",
-Orosco "Ороско",
-Orozco "Оронсо",
-Orr "Орр",
-Ortega "Ортега",
-Ortiz "Ортис",
-Osborn "Осборн",
-Osborne "Осборн",
-Osgood "Осгуд",
-Ostrander "Острандер",
-Oswald "Освальд",
-Otero "Отеро",
-Otis "Отис",
-Ott "Отт",
-Otto "Отто",
-Ouellette "Уэлетт",
-Outerbridge "Аутербридж",
-Outlaw "Вне Закона",
-Overstreet "Оверстрит",
-Overton "Овертон",
-Owen "Оуэн",
-Owens "Оуэнс",
+O'Brien "'",
+O'Connell "'",
+O'Conner "'",
+O'Connor "'",
+O'Donnell "'",
+O'Hara "'",
+O'Keefe "'",
+O'Leary "'",
+O'Malley "'",
+O'Neal "'",
+O'Neil "'",
+O'Neill "'",
+O'Rourke "'",
+O'Shea "'",
+O'Sullivan "'",
+O'Toole "'",
+Oakes
+Oakley
+Oaks
+Oates
+Ocampo
+Ocasio
+Ochoa
+Odell
+Odom
+Ogden
+Ogle
+Oglesby
+Oh
+Ojeda
+Oldham
+Oliphant
+Oliva
+Olivares
+Olivarez
+Olivas
+Oliver
+Olmos
+Olmstead
+Olsen
+Olson
+Ontiveros
+Orlando
+Orosco
+Orozco
+Orr
+Ortega
+Ortiz
+Osborn
+Osborne
+Osgood
+Ostrander
+Oswald
+Otero
+Otis
+Ott
+Otto
+Ouellette
+Outerbridge
+Outlaw " ",
+Overstreet
+Overton
+Owen
+Owens
 ---------------------------------------------------------------------------------------------P
-Pace "Пейс",
-Pacheco "Пачеко",
-Pack "Пак",
-Packard "Паккард",
-Packer "Пэкер",
-Padgett "Пэджетт",
-Padilla "Падилья",
-Pagan "Пэган",
-Page "Пейдж",
-Paige "Пейдж",
-Paine "Пейн",
-Painter "Пейнтер",
-Pak "Пак",
-Palacios "Паласиос",
-Palma "Пальма",
-Palmer "Палмер",
-Pannell "Паннелл",
-Pappas "Паппас",
-Paquette "Пакетт",
-Pararis "Парарис",
-Parham "Парэм",
-Paris "Пэрис",
-Parish "Пэриш",
-Park "Парк",
-Parker "Паркер",
-Parkinson "Паркинсон",
-Parks "Паркс",
-Parnell "Парнелл",
-Parr "Парр",
-Parra "Парра",
-Parris "Пэррис",
-Parrish "Пэрриш",
-Parrott "Пэрротт",
-Parry "Пэрри",
-Parson "Парсон",
-Parsons "Парсонс",
-Partridge "Партридж",
-Passmore "Пассмор",
-Pate "Пейт",
-Patel "Патель",
-Patino "Патино",
-Patrick "Патрик",
-Patten "Паттен",
-Patterson "Паттерсон",
-Patton "Паттон",
-Paul "Пол",
-Pauley "Поли",
-Paxton "Пакстон",
-Payne "Пейн",
-Payton "Пейтон",
-Paz "Паз",
-Peachey "Пичи",
-Peacock "Пикок",
-Peak "Пик",
-Pearce "Пирс",
-Pearson "Пирсон",
-Peck "Пек",
-Pedersen "Педерсен",
-Peel "Пил",
-Peeler "Пилер",
-Pellegrino "Пелегрино",
-Pelletier "Пеллетье",
-Pemberton "Пембертон",
-Pena "Пена",
-Pence "Пенс",
-Pendergrass "Пендерграсс",
-Pendleton "Пендлтон",
-Penikett "Пеникетт",
-Penn "Пенн",
-Pennington "Пеннингтон",
-Penny "Пенни",
-Peoples "Пиплс",
-Pepper "Пеппер",
-Peralta "Перальта",
-Perdue "Пердью",
-Pereira "Перейра",
-Perez "Перес",
-Perkins "Перкинс",
-Perreault "Перро",
-Perrin "Перрин",
-Perron "Перрон",
-Perry "Перри",
-Perryman "Перриман",
-Peters "Питерс",
-Petersen "Петерсен",
-Peterson "Питерсон",
-Petit "Пети",
-Pettit "Петтит",
-Petty "Петти",
-Peyton "Пейтон",
-Pfeiffer "Пфайфер",
-Pham "Фам",
-Phan "Фан",
-Phelan "Филан",
-Phelps "Фелпс",
-Phillips "Филлипс",
-Phipps "Фиппс",
-Piazza "Пиаза",
-Picard "Пикард",
-Pickens "Пикенс",
-Pickering "Пикеринг",
-Pickett "Пикетт",
-Pierce "Пирс",
-Pierre "Пьер",
-Pierson "Пирсон",
-Pike "Пайк",
-Pina "Пина",
-Pineda "Пинеда",
-Pinkerton "Пинкертон",
-Pinson "Пинсон",
-Pinto "Пинто",
-Piper "Пайпер",
-Pipkin "Пипкин",
-Pippin "Пиппин",
-Pitcher "Питчер",
-Pitman "Питман",
-Pitt "Питт",
-Pittman "Питтман",
-Pitts "Питтс",
-Plante "Плант",
-Platt "Платт",
-Pleasant "Плезант",
-Plummer "Пламмер",
-Plunkett "Планкетт",
-Poe "По",
-Poindexter "Пойндекстер",
-Pointer "Пойнтер",
-Poirier "Пуарье",
-Polanco "Поланко",
-Poland "Поланд",
-Polk "Полк",
-Pollack "Поллак",
-Pollard "Поллард",
-Pollock "Поллок",
-Ponce "Понс",
-Pond "Понд",
-Ponder "Пондер",
-Pool "Пул",
-Poole "Пул",
-Pope "Поуп",
-Porter "Портер",
-Porterfield "Портерфилд",
-Portillo "Портильо",
-Posey "Поузи",
-Post "Пост",
-Poston "Постон",
-Potter "Поттер",
-Potts "Поттс",
-Poulin "Пулин",
-Powell "Пауэлл",
-Power "Пауэр",
-Powers "Пауэрс",
-Prado "Прадо",
-Prater "Пратер",
-Prather "Пратер",
-Pratt "Пратт",
-Prentice "Прентис",
-Prescott "Прескотт",
-Presley "Пресли",
-Pressley "Прессли",
-Preston "Престон",
-Prewitt "Пруитт",
-Price "Прайс",
-Pride "Прайд",
-Priest "Прист",
-Prince "Принс",
-Pringle "Прингл",
-Pritchard "Притчард",
-Pritchett "Притчетт",
-Proctor "Проктор",
-Provost "Провост",
-Pruett "Пруэтт",
-Pruitt "Прюитт",
-Pryor "Прайор",
-Puckett "Пакетт",
-Puente "Пуэнте",
-Pugh "Пью",
-Pullen "Пуллен",
-Pulliam "Пуллиам",
-Purcell "Перселл",
-Purdy "Парди",
-Purnell "Парнелл",
-Purvis "Первис",
-Putman "Путман",
-Putnam "Патнэм",
-Pyle "Пайл",
+Pace
+Pacheco
+Pack
+Packard
+Packer
+Padgett
+Padilla
+Pagan
+Page
+Paige
+Paine
+Painter
+Pak
+Palacios
+Palma
+Palmer
+Pannell
+Pappas
+Paquette
+Pararis
+Parham
+Paris
+Parish
+Park
+Parker
+Parkinson
+Parks
+Parnell
+Parr
+Parra
+Parris
+Parrish
+Parrott
+Parry
+Parson
+Parsons
+Partridge
+Passmore
+Pate
+Patel
+Patino
+Patrick
+Patten
+Patterson
+Patton
+Paul
+Pauley
+Paxton
+Payne
+Payton
+Paz
+Peachey
+Peacock
+Peak
+Pearce
+Pearson
+Peck
+Pedersen
+Peel
+Peeler
+Pellegrino
+Pelletier
+Pemberton
+Pena
+Pence
+Pendergrass
+Pendleton
+Penikett
+Penn
+Pennington
+Penny
+Peoples
+Pepper
+Peralta
+Perdue
+Pereira
+Perez
+Perkins
+Perreault
+Perrin
+Perron
+Perry
+Perryman
+Peters
+Petersen
+Peterson
+Petit
+Pettit
+Petty
+Peyton
+Pfeiffer
+Pham
+Phan
+Phelan
+Phelps
+Phillips
+Phipps
+Piazza
+Picard
+Pickens
+Pickering
+Pickett
+Pierce
+Pierre
+Pierson
+Pike
+Pina
+Pineda
+Pinkerton
+Pinson
+Pinto
+Piper
+Pipkin
+Pippin
+Pitcher
+Pitman
+Pitt
+Pittman
+Pitts
+Plante
+Platt
+Pleasant
+Plummer
+Plunkett
+Poe
+Poindexter
+Pointer
+Poirier
+Polanco
+Poland
+Polk
+Pollack
+Pollard
+Pollock
+Ponce
+Pond
+Ponder
+Pool
+Poole
+Pope
+Porter
+Porterfield
+Portillo
+Posey
+Post
+Poston
+Potter
+Potts
+Poulin
+Powell
+Power
+Powers
+Prado
+Prater
+Prather
+Pratt
+Prentice
+Prescott
+Presley
+Pressley
+Preston
+Prewitt
+Price
+Pride
+Priest
+Prince
+Pringle
+Pritchard
+Pritchett
+Proctor
+Provost
+Pruett
+Pruitt
+Pryor
+Puckett
+Puente
+Pugh
+Pullen
+Pulliam
+Purcell
+Purdy
+Purnell
+Purvis
+Putman
+Putnam
+Pyle
 --------------------------------------------------------------------------------------------Q
-Qualls "Куоллс",
-Quartararo "Квартараро",
-Queen "Куин",
-Quick "Куик",
-Quigley "Куигли",
-Quillen "Квиллен",
-Quinlan "Квинлан",
-Quinn "Куинн",
-Quinones "Кинонес",
-Quintana "Кинтана",
-Quintanilla "Кинтанилья",
-Quintero "Кинтеро",
+Qualls
+Quartararo
+Queen
+Quick
+Quigley
+Quillen
+Quinlan
+Quinn
+Quinones
+Quintana
+Quintanilla
+Quintero
 -----------------------------------------------------------------------------------------R
-Rader "Рейдер",
-Radford "Рэдфорд",
-Rafferty "Рафферти",
-Ragland "Рэгленд",
-Ragsdale "Рэгсдейл",
-Raines "Рейнс",
-Rainey "Рейни",
-Rains "Рейнс",
-Ralston "Ралстон",
-Ramey "Рейми",
-Ramirez "Рамирес",
-Ramon "Рамон",
-Ramos "Рамос",
-Ramsay "Рамзи",
-Ramsey "Рэмси",
-Rand "Рэнд",
-Randall "Рэндалл",
-Randle "Рэндл",
-Randolph "Рэндольф",
-Rangel "Рэнджел",
-Rankin "Рэнкин",
-Ransom "Рэнсом",
-Rapp "Рэпп",
-Rasmussen "Расмуссен",
-Ratcliff "Рэтклифф",
-Ratliff "Рэтлифф",
-Rawlings "Роулингс",
-Rawlins "Роулинс",
-Ray "Рэй",
-Raymond "Рэймонд",
-Rea "Ри",
-Read "Прочитал",
-Reagan "Рейган",
-Reardon "Рирдон",
-Reaves "Ривз",
-Rector "Ректор",
-Redd "Редд",
-Redden "Редден",
-Reddick "Реддик",
-Redding "Реддинг",
-Redman "Редман",
-Redmon "Редмон",
-Redmond "Редмонд",
-Reece "Рис",
-Reed "Рид",
-Reeder "Ридер",
-Rees "Рис",
-Reese "Риз",
-Reeves "Ривз",
-Regan "Риган",
-Reichert "Рэйхерт",
-Reid "Рид",
-Reilly "Рейли",
-Reinhardt "Рейнхард",
-Reinhart "Рейнхарт",
-Reis "Райс",
-Reiter "Райтер",
-Reitz "Рэйтц",
-Rendon "Рэндон",
-Renner "Реннер",
-Rennie "Ренни",
-Reno "Рено",
-Reuter "Рейтер",
-Rey "Рей",
-Reyes "Рейес",
-Reyna "Рейна",
-Reynolds "Рейнольдс",
-Rhea "Рея",
-Rhoades "Роудс",
-Rhoads "Роудс",
-Rhodes "Родс",
-Rhyne "Райн",
-Ricci "Риччи",
-Rice "Райс",
-Rich "Рич",
-Richard "Ричард",
-Richards "Ричардс",
-Richardson "Ричардсон",
-Richey "Ричи",
-Richmond "Ричмонд",
-Richter "Рихтер",
-Ricker "Рикер",
-Ricketts "Рикеттс",
-Rickman "Рикман",
-Ricks "Рикс",
-Rico "Рико",
-Riddell "Ридделл",
-Riddick "Риддик",
-Riddle "Риддл",
-Rider "Райдер",
-Ridgeway "Риджуэй",
-Ridley "Ридли",
-Rigby "Риджби",
-Riggs "Риггс",
-Rigsby "Ригсби",
-Riley "Райли",
-Ring "Ринг",
-Rios "Риос",
-Ripley "Рипли",
-Ritchie "Ричи",
-Ritter "Риттер",
-Rivas "Ривас",
-Rivera "Ривера",
-Rivers "Риверс",
-Rizzo "Риццо",
-Roach "Роуч",
-Roark "Рорк",
-Robb "Робб",
-Robbins "Роббинс",
-Robert "Роберт",
-Roberts "Робертс",
-Robertson "Робертсон",
-Robinette "Робинетт",
-Robins "Робинс",
-Robinson "Робинсон",
-Robison "Робисон",
-Robles "Роблес",
-Robson "Робсон",
-Rocha "Роша",
-Roche "Рош",
-Rock "Рок",
-Rockwell "Рокуэлл",
-Roden "Роден",
-Roderick "Родерик",
-Rodgers "Роджерс",
-Rodrigues "Родригес",
-Rodriguez "Родригес",
-Roe "Роу",
-Rogers "Роджерс",
-Rohr "Рор",
-Rojas "Рохас",
-Roland "Роланд",
-Rollins "Роллинз",
-Roman "Роман",
-Romano "Романо",
-Romeo "Ромео",
-Romero "Ромеро",
-Romo "Ромо",
-Roney "Рони",
-Rooney "Руни",
-Root "Рут",
-Roper "Ропер",
-Rosa "Роза",
-Rosado "Росадо",
-Rosales "Розалес",
-Rosario "Росарио",
-Rosas "Росас",
-Rose "Роуз",
-Rosen "Розен",
-Rosenbaum "Резэнбаум",
-Rosenberg "Розэндберг",
-Rosenthal "Розенталь",
-Roslin "Рослин",
-Ross "Росс",
-Rosser "Россер",
-Rossi "Росси",
-Roth "Рот",
-Rotilio "Ротилио",
-Rountree "Раунтри",
-Rouse "Роуз",
-Roush "Раш",
-Rousseau "Руссо",
-Rowan "Роуэн",
-Rowe "Роу",
-Rowell "Роуэлл",
-Rowland "Роуленд",
-Rowley "Роули",
-Roy "Рой",
-Royal "Ройял",
-Rubin "Рубин",
-Rubio "Рубио",
-Rucker "Ракер",
-Rudolph "Рудольф",
-Ruff "Рафф",
-Ruffin "Раффин",
-Ruiz "Руис",
-Runyon "Раньон",
-Rupp "Рапп",
-Rush "Раш",
-Rushing "Торопится",
-Russ "Расс",
-Russell "Рассел",
-Russo "Руссо",
-Ruth "Рут",
-Rutherford "Резерфорд",
-Rutledge "Ратледж",
-Ryan "Райан",
-Ryder "Райдер",
+Rader
+Radford
+Rafferty
+Ragland
+Ragsdale
+Raines
+Rainey
+Rains
+Ralston
+Ramey
+Ramirez
+Ramon
+Ramos
+Ramsay
+Ramsey
+Rand
+Randall
+Randle
+Randolph
+Rangel
+Rankin
+Ransom
+Rapp
+Rasmussen
+Ratcliff
+Ratliff
+Rawlings
+Rawlins
+Ray
+Raymond
+Rea
+Read
+Reagan
+Reardon
+Reaves
+Rector
+Redd
+Redden
+Reddick
+Redding
+Redman
+Redmon
+Redmond
+Reece
+Reed
+Reeder
+Rees
+Reese
+Reeves
+Regan
+Reichert
+Reid
+Reilly
+Reinhardt
+Reinhart
+Reis
+Reiter
+Reitz
+Rendon
+Renner
+Rennie
+Reno
+Reuter
+Rey
+Reyes
+Reyna
+Reynolds
+Rhea
+Rhoades
+Rhoads
+Rhodes
+Rhyne
+Ricci
+Rice
+Rich
+Richard
+Richards
+Richardson
+Richey
+Richmond
+Richter
+Ricker
+Ricketts
+Rickman
+Ricks
+Rico
+Riddell
+Riddick
+Riddle
+Rider
+Ridgeway
+Ridley
+Rigby
+Riggs
+Rigsby
+Riley
+Ring
+Rios
+Ripley
+Ritchie
+Ritter
+Rivas
+Rivera
+Rivers
+Rizzo
+Roach
+Roark
+Robb
+Robbins
+Robert
+Roberts
+Robertson
+Robinette
+Robins
+Robinson
+Robison
+Robles
+Robson
+Rocha
+Roche
+Rock
+Rockwell
+Roden
+Roderick
+Rodgers
+Rodrigues
+Rodriguez
+Roe
+Rogers
+Rohr
+Rojas
+Roland
+Rollins
+Roman
+Romano
+Romeo
+Romero
+Romo
+Roney
+Rooney
+Root
+Roper
+Rosa
+Rosado
+Rosales
+Rosario
+Rosas
+Rose
+Rosen
+Rosenbaum
+Rosenberg
+Rosenthal
+Roslin
+Ross
+Rosser
+Rossi
+Roth
+Rotilio
+Rountree
+Rouse
+Roush
+Rousseau
+Rowan
+Rowe
+Rowell
+Rowland
+Rowley
+Roy
+Royal
+Rubin
+Rubio
+Rucker
+Rudolph
+Ruff
+Ruffin
+Ruiz
+Runyon
+Rupp
+Rush
+Rushing
+Russ
+Russell
+Russo
+Ruth
+Rutherford
+Rutledge
+Ryan
+Ryder
 ---------------------------------------------------------------------------------------S
-Sabo "Сабо",
-Sackhoff "Сакхофф",
-Sadler "Сэдлер",
-Saenz "Саенс",
-Sage "Сейдж",
-Sager "Сейджер",
-Salas "Салас",
-Salazar "Салазар",
-Salcedo "Сальседо",
-Salcido "Сальсидо",
-Saldana "Салдана",
-Salgado "Сальгадо",
-Salinas "Салинас",
-Salisbury "Солсбери",
-Salmon "Сэлмон",
-Salter "Солтер",
-Sample "Сэмпл",
-Sampson "Сэмпсон",
-Sams "Сэмс",
-Samuel "Сэмюэл",
-Samuels "Сэмюэлс",
-Sanborn "Санборн",
-Sanchez "Санчес",
-Sandberg "Сэндберг",
-Sanders "Сандерс",
-Sanderson "Сандерсон",
-Sandlin "Сэндлин",
-Sandoval "Сандовал",
-Sands "Сэндс",
-Sanford "Сэнфорд",
-Santana "Сантана",
-Santiago "Сантьяго",
-Santos "Сантос",
-Sapp "Сапп",
-Sargent "Сарджент",
-Satterfield "Саттерфилд",
-Sauer "Зауэр",
-Saul "Сол",
-Saunders "Сондерс",
-Savoy "Савой",
-Sawyer "Сойер",
-Sawyers "Сойерс",
-Saxon "Саксон",
-Sayers "Сэйерс",
-Saylor "Сэйлор",
-Scales "Скейлс",
-Scanlon "Скэнлон",
-Scarborough "Скарборо",
-Schaeffer "Шайфер",
-Schafer "Шейфер",
-Schaffer "Шаффер",
-Schell "Шел",
-Scherer "Шеррер",
-Schiller "Шиллер",
-Schilling "Шиллинг",
-Schmidt "Шмидт",
-Schmitt "Шмит",
-Schmitz "Шмитц",
-Schneider "Шнайдер",
-Schofield "Шофилд",
-Scholl "Шолл",
-Schott "Шотт",
-Schrader "Шрадер",
-Schreiber "Шрайбер",
-Schreiner "Шрайнер",
-Schroeder "Шрёдэр",
-Schubert "Шуберт",
-Schuler "Шуллер",
-Schulte "Шульт",
-Schultz "Шультс",
-Schulz "Шульс",
-Schulze "Шульз",
-Schumacher "Шумахер",
-Schuster "Шустер",
-Schwab "Шваб",
-Schwartz "Швальтс",
-Schweitzer "Швайтсер",
-Scoggins "Скоггинс",
-Scott "Скотт",
-Scroggins "Скроггинс",
-Scruggs "Скраггс",
-Scully "Скалли",
-Seal "Сил",
-Seals "Силс",
-Sears "Сирс",
-Seaton "Ситон",
-Seay "Си",
-See "Видишь",
-Seelix "Силикс",
-Segal "Сигал",
-Segura "Сегура",
-Seibert "Зайберт",
-Seidel "Сейдел",
-Seifert "Шеферт",
-Seitz "Сейтс",
-Selby "Селби",
-Self "Селф",
-Sell "Селл",
-Sellars "Селларс",
-Sellers "Селлерс",
-Sena "Сена",
-Serna "Серна",
-Serrano "Серрано",
-Seward "Сьюард",
-Sewell "Сьюэлл",
-Sexton "Секстон",
-Seymour "Сеймур",
-Shaddid "Шаддид",
-Shade "Шейд",
-Shafer "Шейфер",
-Shaffer "Шаффер",
-Shah "Шах",
-Shanahan "Шанахан",
-Shanks "Шенкс",
-Shannon "Шеннон",
-Shapiro "Шапиро",
-Sharkey "Шарки",
-Sharma "Шарма",
-Sharp "Шарп",
-Sharpe "Шарп",
-Shaw "Шоу",
-Shay "Шей",
-Shea "Ши",
-Shearer "Ширер",
-Sheehan "Шиэн",
-Sheffield "Шеффилд",
-Shelby "Шелби",
-Sheldon "Шелдон",
-Shell "Шелл",
-Shelley "Шелли",
-Shelton "Шелтон",
-Shepard "Шепард",
-Shephard "Шепард",
-Shepherd "Шепард",
-Sheppard "Шеппард",
-Sheridan "Шеридан",
-Sherman "Шерман",
-Sherrill "Шеррилл",
-Sherrod "Шеррод",
-Sherwood "Шервуд",
-Shields "Шилдс",
-Shipley "Шипли",
-Shipman "Шипман",
-Shipp "Шипп",
-Shirley "Ширли",
-Shivers "Дрожит",
-Shoemaker "Шумейкер",
-Shook "Покачал головой",
-Short "Шорт",
-Shrader "Шрейдер",
-Shuler "Шулер",
-Shultz "Шульц",
-Shumaker "Шумейкер",
-Siegel "Сигель",
-Sierra "Сьерра",
-Sigler "Сиглер",
-Sikes "Сайкс",
-Silas "Сайлас",
-Silva "Сильва",
-Silver "Сильвер",
-Silverman "Сильверман",
-Simmons "Симмонс",
-Simms "Симмс",
-Simon "Саймон",
-Simone "Симон",
-Simons "Саймонс",
-Simpkins "Симпкинс",
-Simpson "Симпсон",
-Sims "Симс",
-Sinclair "Синклер",
-Singer "Сингер",
-Singh "Сингх",
-Singleton "Синглтон",
-Sisco "Сиско",
-Sisk "Сиск",
-Sisson "Сиссон",
-Sizemore "Сайзмор",
-Skaggs "Скаггс",
-Skelton "Скелтон",
-Skidmore "Скидмор",
-Skinner "Скиннер",
-Slack "Слэк",
-Slade "Слейд",
-Slater "Слейтер",
-Slattery "Слэттери",
-Slaughter "Слотер",
-Sledge "Следж",
-Sloan "Слоун",
-Slone "Слоун",
-Small "Смолл",
-Smalls "Смоллс",
-Smallwood "Смоллвуд",
-Smart "Смарт",
-Smiley "Смайли",
-Smith "Смит",
-Smithson "Смитсон",
-Smyth "Смит",
-Snead "Снид",
-Sneed "Снид",
-Snell "Снелл",
-Snider "Снайдер",
-Snodgrass "Снодграсс",
-Snow "Сноу",
-Snowden "Сноуден",
-Snyder "Снайдер",
-Solano "Солано",
-Solis "Солис",
-Soliz "Солиз",
-Solomon "Соломон",
-Somers "Сомерс",
-Somerville "Сомервилл",
-Sommer "Соммер",
-Sommers "Соммерс",
-Song "Сонг",
-Sorensen "Соренсен",
-Sorenson "Соренсон",
-Sorrell "Соррелл",
-Sorrento "Сорренто",
-Sosa "Соза",
-Soto "Сото",
-Sousa "Суза",
-South "Саут",
-Souther "Саутер",
-Souza "Соуза",
-Sowell "Сауэлл",
-Spain "Спейн",
-Spalding "Сполдинг",
-Spangler "Спенглер",
-Spann "Спэнн",
-Sparkman "Спаркман",
-Sparks "Спаркс",
-Sparrow "Спарроу",
-Spaulding "Сполдинг",
-Spear "Спир",
-Spearman "Спирмен",
-Spears "Спирс",
-Speed "Спид",
-Speer "Спир",
-Spellman "Спеллман",
-Spence "Спенс",
-Spencer "Спенсер",
-Spicer "Спайсер",
-Spivey "Спайви",
-Spooner "Спунер",
-Sprague "Спрэгью",
-Springer "Спрингер",
-Spurlock "Сперлок",
-Squires "Сквайрс",
-St Clair "Сент - Клер",
-St Pierre "Сен - Пьер",
-Stacey "Стейси",
-Stack "Стэк",
-Stackhouse "Стакхаус",
-Stacy "Стейси",
-Stafford "Стаффорд",
-Stahl "Шталь",
-Staley "Стейли",
-Stallings "Столлингс",
-Stallworth "Столлуорт",
-Stamper "Стэмпер",
-Stanfield "Стэнфилд",
-Stanford "Стэнфорд",
-Stanley "Стэнли",
-Stanton "Стэнтон",
-Staples "Стейплс",
-Stapleton "Стэплтон",
-Stark "Старк",
-Starkey "Старки",
-Starks "Старкс",
-Starling "Старлинг",
-Starnes "Старнс",
-Starr "Старр",
-Staten "Стейтен",
-Staton "Стейтон",
-Stauffer "Штауфер",
-Steadman "Стедман",
-Stearns "Стернс",
-Steed "Стид",
-Steel "Стил",
-Steele "Стил",
-Steen "Стин",
-Stein "Штейн",
-Steinberg "Штайнберг",
-Steiner "Штайнер",
-Stephens "Стивенс",
-Stephenson "Стивенсон",
-Stepp "Степп",
-Sterling "Стерлинг",
-Stern "Стерн",
-Stevens "Стивенс",
-Stevenson "Стивенсон",
-Steward "Стюард",
-Stewart "Стюарт",
-Stidham "Стидхэм",
-Stiles "Стайлз",
-Still "Все еще",
-Stillman "Стиллман",
-Stillwell "Стиллуэлл",
-Stinson "Стинсон",
-StDonald "Сентдональд",
-Stock "Сток",
-Stockton "Стоктон",
-Stockwell "Стокуэлл",
-Stoddard "Стоддард",
-Stoker "Стокер",
-Stokes "Стоукс",
-Stone "Стоун",
-Stoner "Стоунер",
-Storey "Стори",
-Storm "Сторм",
-Story "Стори",
-Stout "Стаут",
-Stovall "Стоволл",
-Stover "Стовер",
-Stowe "Стоу",
-Strait "Стрейт",
-Strand "Стрэнд",
-Strange "Стрейндж",
-Strathairn "Стрэтэйрн",
-Stratton "Стрэттон",
-Straub "Штрауб",
-Strauss "Штраус",
-Street "Стрит",
-Streeter "Стритер",
-Strickland "Стрикленд",
-Stringer "Стрингер",
-Strong "Стронг",
-Stroud "Страуд",
-Stuart "Стюарт",
-Stubbs "Стаббс",
-Stuckey "Стаки",
-Stump "Стамп",
-Styles "Стайлз",
-Suarez "Суарес",
-Suggs "Саггс",
-Sullivan "Салливан",
-Summerlin "Саммерлин",
-Summers "Саммерс",
-Sumner "Самнер",
-Sumpter "Самптер",
-Sutherland "Сазерленд",
-Sutter "Саттер",
-Sutton "Саттон",
-Swafford "Суэффорд",
-Swain "Суэйн",
-Swan "Суон",
-Swank "Суонк",
-Swann "Суонн",
-Swanson "Свенсон",
-Swartz "Шварц",
-Sweeney "Суини",
-Sweet "Суит",
-Swenson "Свенсон",
-Swift "Свифт",
-Switzer "Свитцер",
-Sykes "Сайкс",
-Sylvester "Сильвестр",
+Sabo
+Sackhoff
+Sadler
+Saenz
+Sage
+Sager
+Salas
+Salazar
+Salcedo
+Salcido
+Saldana
+Salgado
+Salinas
+Salisbury
+Salmon
+Salter
+Sample
+Sampson
+Sams
+Samuel
+Samuels
+Sanborn
+Sanchez
+Sandberg
+Sanders
+Sanderson
+Sandlin
+Sandoval
+Sands
+Sanford
+Santana
+Santiago
+Santos
+Sapp
+Sargent
+Satterfield
+Sauer
+Saul
+Saunders
+Savoy
+Sawyer
+Sawyers
+Saxon
+Sayers
+Saylor
+Scales
+Scanlon
+Scarborough
+Schaeffer
+Schafer
+Schaffer
+Schell
+Scherer
+Schiller
+Schilling
+Schmidt
+Schmitt
+Schmitz
+Schneider
+Schofield
+Scholl
+Schott
+Schrader
+Schreiber
+Schreiner
+Schroeder
+Schubert
+Schuler
+Schulte
+Schultz
+Schulz
+Schulze
+Schumacher
+Schuster
+Schwab
+Schwartz
+Schweitzer
+Scoggins
+Scott
+Scroggins
+Scruggs
+Scully
+Seal
+Seals
+Sears
+Seaton
+Seay
+See
+Seelix
+Segal
+Segura
+Seibert
+Seidel
+Seifert
+Seitz
+Selby
+Self
+Sell
+Sellars
+Sellers
+Sena
+Serna
+Serrano
+Seward
+Sewell
+Sexton
+Seymour
+Shaddid
+Shade
+Shafer
+Shaffer
+Shah
+Shanahan
+Shanks
+Shannon
+Shapiro
+Sharkey
+Sharma
+Sharp
+Sharpe
+Shaw
+Shay
+Shea
+Shearer
+Sheehan
+Sheffield
+Shelby
+Sheldon
+Shell
+Shelley
+Shelton
+Shepard
+Shephard
+Shepherd
+Sheppard
+Sheridan
+Sherman
+Sherrill
+Sherrod
+Sherwood
+Shields
+Shipley
+Shipman
+Shipp
+Shirley
+Shivers
+Shoemaker
+Shook " ",
+Short
+Shrader
+Shuler
+Shultz
+Shumaker
+Siegel
+Sierra
+Sigler
+Sikes
+Silas
+Silva
+Silver
+Silverman
+Simmons
+Simms
+Simon
+Simone
+Simons
+Simpkins
+Simpson
+Sims
+Sinclair
+Singer
+Singh
+Singleton
+Sisco
+Sisk
+Sisson
+Sizemore
+Skaggs
+Skelton
+Skidmore
+Skinner
+Slack
+Slade
+Slater
+Slattery
+Slaughter
+Sledge
+Sloan
+Slone
+Small
+Smalls
+Smallwood
+Smart
+Smiley
+Smith
+Smithson
+Smyth
+Snead
+Sneed
+Snell
+Snider
+Snodgrass
+Snow
+Snowden
+Snyder
+Solano
+Solis
+Soliz
+Solomon
+Somers
+Somerville
+Sommer
+Sommers
+Song
+Sorensen
+Sorenson
+Sorrell
+Sorrento
+Sosa
+Soto
+Sousa
+South
+Souther
+Souza
+Sowell
+Spain
+Spalding
+Spangler
+Spann
+Sparkman
+Sparks
+Sparrow
+Spaulding
+Spear
+Spearman
+Spears
+Speed
+Speer
+Spellman
+Spence
+Spencer
+Spicer
+Spivey
+Spooner
+Sprague
+Springer
+Spurlock
+Squires
+St Clair " - ",
+St Pierre " - ",
+Stacey
+Stack
+Stackhouse
+Stacy
+Stafford
+Stahl
+Staley
+Stallings
+Stallworth
+Stamper
+Stanfield
+Stanford
+Stanley
+Stanton
+Staples
+Stapleton
+Stark
+Starkey
+Starks
+Starling
+Starnes
+Starr
+Staten
+Staton
+Stauffer
+Steadman
+Stearns
+Steed
+Steel
+Steele
+Steen
+Stein
+Steinberg
+Steiner
+Stephens
+Stephenson
+Stepp
+Sterling
+Stern
+Stevens
+Stevenson
+Steward
+Stewart
+Stidham
+Stiles
+Still " ",
+Stillman
+Stillwell
+Stinson
+StDonald
+Stock
+Stockton
+Stockwell
+Stoddard
+Stoker
+Stokes
+Stone
+Stoner
+Storey
+Storm
+Story
+Stout
+Stovall
+Stover
+Stowe
+Strait
+Strand
+Strange
+Strathairn
+Stratton
+Straub
+Strauss
+Street
+Streeter
+Strickland
+Stringer
+Strong
+Stroud
+Stuart
+Stubbs
+Stuckey
+Stump
+Styles
+Suarez
+Suggs
+Sullivan
+Summerlin
+Summers
+Sumner
+Sumpter
+Sutherland
+Sutter
+Sutton
+Swafford
+Swain
+Swan
+Swank
+Swann
+Swanson
+Swartz
+Sweeney
+Sweet
+Swenson
+Swift
+Switzer
+Sykes
+Sylvester
 ---------------------------------------------------------------------------------------T
-Tabor "Тейбор",
-Tackett "Такетт",
-Taft "Тафт",
-Taggart "Таггарт",
-Talbert "Талберт",
-Talbot "Тэлбот",
-Tally "Тэлли",
-Tam "Тэм",
-Tan "Тан",
-Tanaka "Танака",
-Tang "Тан",
-Tanner "Таннер",
-Tapia "Тапиа",
-Tarabay "Тарабей",
-Tate "Тейт",
-Tatum "Татум",
-Taylor "Тейлор",
-Teague "Тиг",
-Tejada "Тэжада",
-Tejeda "Тэджеда",
-Temple "Темпл",
-Templeton "Темплтон",
-Tennant "Теннант",
-Terrell "Террелл",
-Terry "Терри",
-Thacker "Тэкер",
-Thao "Тао",
-Tharp "Тарп",
-Thatcher "Тэтчер",
-Thayer "Тейер",
-Thibodeaux "Тибодо",
-Thomas "Томас",
-Thomason "Томасон",
-Thompson "Томпсон",
-Thomson "Томсон",
-Thorn "Торн",
-Thorne "Торн",
-Thornhill "Торнхилл",
-Thornton "Торнтон",
-Thorp "Торп",
-Thorpe "Торп",
-Thrace "Трейс",
-Thrasher "Трэшер",
-Thurman "Турман",
-Thurston "Терстон",
-Tidwell "Тидуэлл",
-Tierney "Тирни",
-Tigh "Тай",
-Tiller "Тиллер",
-Tillery "Тиллери",
-Tilley "Тилли",
-Tillman "Тиллман",
-Timmerman "Тиммерман",
-Timmons "Тиммонс",
-Tinsley "Тинсли",
-Tipper "Типпер",
-Tipton "Типтон",
-Tirado "Тирадо",
-Titus "Титус",
-Tobias "Тобиас",
-Tobin "Тобин",
-Todd "Тодд",
-Tolbert "Толберт",
-Toledo "Толедо",
-Tolliver "Толливер",
-Tomlin "Томлин",
-Tomlinson "Томлинсон",
-Tompkins "Томпкинс",
-Toney "Тони",
-Tong "Тонг",
-Torrence "Торренс",
-Torres "Торрес",
-Torrez "Торрес",
-Toth "Тот",
-Toufexis "Туфексис",
-Tovar "Товар",
-Townsend "Таунсенд",
-Tracy "Трейси",
-Trahan "Трахан",
-Tran "Тран",
-Trapp "Трапп",
-Trask "Траск",
-Travers "Трэверс",
-Travis "Трэвис",
-Treadway "Тредуэй",
-Treadwell "Тредвелл",
-Trejo "Трехо",
-Tremblay "Трамбле",
-Trent "Трент",
-Trevino "Тревино",
-Tribble "Триббл",
-Trimble "Тримбл",
-Triplett "Триплетт",
-Tripp "Трипп",
-Trotter "Троттер",
-Trout "Траут",
-Troutman "Траутман",
-Troy "Трой",
-Trucco "Трукко",
-Trudeau "Трюдо",
-Truitt "Труитт",
-Trujillo "Трухильо",
-Truong "Труонг",
-Tubbs "Таббс",
-Tuck "Так",
-Tucker "Такер",
-Turnbull "Тернбулл",
-Turner "Тернер",
-Turpin "Тэрпин",
-Tuttle "Таттл",
-Tyler "Тайлер",
-Tyner "Тайнер",
-Tyrol "Тироль",
-Tyson "Тайсон",
+Tabor
+Tackett
+Taft
+Taggart
+Talbert
+Talbot
+Tally
+Tam
+Tan
+Tanaka
+Tang
+Tanner
+Tapia
+Tarabay
+Tate
+Tatum
+Taylor
+Teague
+Tejada
+Tejeda
+Temple
+Templeton
+Tennant
+Terrell
+Terry
+Thacker
+Thao
+Tharp
+Thatcher
+Thayer
+Thibodeaux
+Thomas
+Thomason
+Thompson
+Thomson
+Thorn
+Thorne
+Thornhill
+Thornton
+Thorp
+Thorpe
+Thrace
+Thrasher
+Thurman
+Thurston
+Tidwell
+Tierney
+Tigh
+Tiller
+Tillery
+Tilley
+Tillman
+Timmerman
+Timmons
+Tinsley
+Tipper
+Tipton
+Tirado
+Titus
+Tobias
+Tobin
+Todd
+Tolbert
+Toledo
+Tolliver
+Tomlin
+Tomlinson
+Tompkins
+Toney
+Tong
+Torrence
+Torres
+Torrez
+Toth
+Toufexis
+Tovar
+Townsend
+Tracy
+Trahan
+Tran
+Trapp
+Trask
+Travers
+Travis
+Treadway
+Treadwell
+Trejo
+Tremblay
+Trent
+Trevino
+Tribble
+Trimble
+Triplett
+Tripp
+Trotter
+Trout
+Troutman
+Troy
+Trucco
+Trudeau
+Truitt
+Trujillo
+Truong
+Tubbs
+Tuck
+Tucker
+Turnbull
+Turner
+Turpin
+Tuttle
+Tyler
+Tyner
+Tyrol
+Tyson
 ----------------------------------------------------------------------------------------U
-Ulrich "Ульрих",
-Underhill "Андерхилл",
-Underwood "Андервуд",
-Unger "Унгер",
-Upshaw "Апшоу",
-Upton "Аптон",
-Urban "Урбан",
-Urbina "Урбина",
-Usher "Ашер",
+Ulrich
+Underhill
+Underwood
+Unger
+Upshaw
+Upton
+Urban
+Urbina
+Usher
 ------------------------------------------------------------------------------------------V
-Vail "Вейл",
-Valdes "Вальдес",
-Valdez "Вальдес",
-Valencia "Валенсия",
-Valentin "Валентин",
-Valentine "Валентайн",
-Valenzuela "Валенсуэла",
-Valerii "Валерий",
-Valerio "Валерио",
-Valle "Валле",
-Vallejo "Вальехо",
-Valles "Вэллес",
-Van "Ван",
-Van Winkle "Ван Винкль",
-Vanburen "Ванбурен",
-Vance "Вэнс",
-Vandyke "Вандайк",
-Vang "Ванг",
-Vanhorn "Ванхорн",
-Vanmeter "Ванметер",
-Vann "Ванн",
-Varela "Варела",
-Vargas "Варгас",
-Varner "Варнер",
-Varney "Варни",
-Vasquez "Васкес",
-Vaughan "Воэн",
-Vaughn "Вон",
-Vega "Вега",
-Vela "Вела",
-Velasco "Веласко",
-Velasquez "Веласкес",
-Velez "Велес",
-Ventura "Вентура",
-Vera "Вера",
-Verdin "Верден",
-Vergara "Вергара",
-Vernon "Вернон",
-Vest "Вест",
-Vetter "Веттер",
-Vick "Вик",
-Vickers "Викерс",
-Vickery "Викери",
-Vidal "Видаль",
-Vigil "Виджил",
-Villa "Вилла",
-Villalobos "Вильялобос",
-Villanueva "Вильянуэва",
-Villareal "Вильяреаль",
-Villasenor "Вилласенор",
-Villegas "Вильегас",
-Vincent "Винсент",
-Vines "Вайнс",
-Vinson "Винсон",
-Vo "Во",
-Vogel "Фогель",
-Vogt "Фогт",
-Volovodov "Воловодов",
-Voss "Восс",
-Vu "Ву",
+Vail
+Valdes
+Valdez
+Valencia
+Valentin
+Valentine
+Valenzuela
+Valerii
+Valerio
+Valle
+Vallejo
+Valles
+Van
+Van Winkle " ",
+Vanburen
+Vance
+Vandyke
+Vang
+Vanhorn
+Vanmeter
+Vann
+Varela
+Vargas
+Varner
+Varney
+Vasquez
+Vaughan
+Vaughn
+Vega
+Vela
+Velasco
+Velasquez
+Velez
+Ventura
+Vera
+Verdin
+Vergara
+Vernon
+Vest
+Vetter
+Vick
+Vickers
+Vickery
+Vidal
+Vigil
+Villa
+Villalobos
+Villanueva
+Villareal
+Villasenor
+Villegas
+Vincent
+Vines
+Vinson
+Vo
+Vogel
+Vogt
+Volovodov
+Voss
+Vu
 ----------------------------------------------------------------------------------------------W
-Waddell "Уодделл",
-Wade "Уэйд",
-Waggoner "Ваггонер",
-Wagner "Вагнер",
-Wagoner "Вагонер",
-Wahl "Вал",
-Waite "Уэйт",
-Wakefield "Уэйкфилд",
-Walden "Уолден",
-Waldron "Уолдрон",
-Waldrop "Уолдроп",
-Walker "Уокер",
-Wall "Уолл",
-Wallace "Уоллес",
-Waller "Уоллер",
-Wallis "Уоллис",
-Walls "Уоллс",
-Walsh "Уолш",
-Walston "Уолстон",
-Walter "Уолтер",
-Walters "Уолтерс",
-Walton "Уолтон",
-Wang "Ван",
-Ward "Уорд",
-Warden "Уорден",
-Ware "Уэр",
-Warfield "Уорфилд",
-Warner "Уорнер",
-Warren "Уоррен",
-Washburn "Уошберн",
-Washington "Вашингтон",
-Waterman "Уотерман",
-Waters "Уотерс",
-Watkins "Уоткинс",
-Watson "Уотсон",
-Watt "Уотт",
-Watters "Уоттерс",
-Watts "Уоттс",
-Waugh "Во",
-Way "Уэй",
-Wayne "Уэйн",
-Weatherford "Уэзерфорд",
-Weathers "Уэзерс",
-Weaver "Уивер",
-Webb "Уэбб",
-Webber "Уэббер",
-Weber "Вебер",
-Webster "Вебстер",
-Weeks "Уикс",
-Weems "Уимс",
-Weinberg "Вайнберг",
-Weiner "Вайнер",
-Weinstein "Вайнштейн",
-Weir "Вейр",
-Weis "Вайс",
-Weiss "Вейс",
-Welch "Уэлч",
-Weldon "Уэлдон",
-Weller "Уэллер",
-Wellman "Уэллман",
-Wells "Уэллс",
-Welsh "Уэлш",
-Wendt "Венд",
-Wentworth "Вентворт",
-Wentz "Венц",
-Wenzel "Венцел",
-Werner "Вернер",
-Wertz "Верц",
-Wesley "Уэсли",
-West "Уэст",
-Westbrook "Уэстбрук",
-Westfall "Уэстфолл",
-Westmoreland "Уэстморленд",
-Weston "Уэстон",
-Wetzel "Ветцел",
-Whalen "Уэйлен",
-Whaley "Уэйли",
-Wharton "Уортон",
-Whatley "Уотли",
-Wheat "Уит",
-Wheatley "Уитли",
-Wheaton "Уитон",
-Wheeler "Уилер",
-Whelan "Уилан",
-Whipple "Уиппл",
-Whitaker "Уитекер",
-White "Уайт",
-Whitehead "Уайтхед",
-Whiteman "Уайтмен",
-Whiteside "Уайтсайд",
-Whitfield "Уитфилд",
-Whiting "Уайтинг",
-Whitley "Уитли",
-Whitlock "Уитлок",
-Whitlow "Уитлоу",
-Whitman "Уитмен",
-Whitmore "Уитмор",
-Whitney "Уитни",
-Whitson "Уитсон",
-Whitt "Уитт",
-Whittaker "Уиттейкер",
-Whitten "Уиттен",
-Whittington "Уиттингтон",
-Whitworth "Уитворт",
-Wick "Уик",
-Wicker "Уикер",
-Wickham "Уикхэм",
-Wicks "Уикс",
-Wiggins "Уиггинс",
-Wilbanks "Уилбенкс",
-Wilber "Уилбер",
-Wilbur "Уилбур",
-Wilburn "Уилберн",
-Wilcox "Уилкокс",
-Wild "Уайлд",
-Wilde "Уайлд",
-Wilder "Уайлдер",
-Wiles "Уайлс",
-Wiley "Уайли",
-Wilhelm "Вильгейм",
-Wilke "Уилки",
-Wilkerson "Уилкерсон",
-Wilkes "Уилкс",
-Wilkins "Уилкинс",
-Wilkinson "Уилкинсон",
-Wilks "Уилкс",
-Will "Уилл",
-Willard "Уиллард",
-Willett "Уиллетт",
-Willey "Уилли",
-William "Уильям",
-Williams "Уильямс",
-Williamson "Уильямсон",
-Willingham "Уиллингем",
-Willis "Уиллис",
-Willoughby "Уиллоуби",
-Wills "Уиллс",
-Wilson "Уилсон",
-Winchester "Винчестер",
-Windham "Уиндхэм",
-Windsor "Виндзор",
-Winfield "Уинфилд",
-Winfrey "Уинфри",
-Wing "Уинг",
-Wingate "Уингейт",
-Wingfield "Вингфилд",
-Winkler "Винклер",
-Winn "Уинн",
-Winslow "Уинслоу",
-Winstead "Уинстед",
-Winston "Уинстон",
-Winter "Уинтер",
-Winters "Уинтерс",
-Wise "Уайз",
-Wiseman "Уайзман",
-Wisniewski "Вишневски",
-Witcher "Витчер",
-Withers "Уизерс",
-Witherspoon "Уизерспун",
-Withrow "Уизроу",
-Witt "Уитт",
-Witte "Витте",
-Witwer "Уитвер",
-Wolf "Вулф",
-Wolfe "Вулф",
-Wolff "Вольф",
-Wolford "Вулфорд",
-Womack "Уомак",
-Wong "Вонг",
-Woo "Ву",
-Wood "Вуд",
-Woodall "Вудолл",
-Woodard "Вудард",
-Woodcock "Вудкок",
-Wooden "Вуден",
-Woodley "Вудли",
-Woodruff "Вудрафф",
-Woods "Вудс",
-Woodson "Вудсон",
-Woodward "Вудворд",
-Woodworth "Вудворт",
-Woody "Вуди",
-Wooten "Вутен",
-Workman "Уоркман",
-Worley "Уорли",
-Worrell "Уоррелл",
-Worth "Уорт",
-Worthington "Уортингтон",
-Worthy "Уорти",
-Wray "Рэй",
-Wren "Рен",
-Wright "Райт",
-Wu "Ву",
-Wyatt "Уайатт",
-Wylie "Уайли",
-Wyman "Уайман",
-Wynn "Винн",
-Wynne "Уинн",
+Waddell
+Wade
+Waggoner
+Wagner
+Wagoner
+Wahl
+Waite
+Wakefield
+Walden
+Waldron
+Waldrop
+Walker
+Wall
+Wallace
+Waller
+Wallis
+Walls
+Walsh
+Walston
+Walter
+Walters
+Walton
+Wang
+Ward
+Warden
+Ware
+Warfield
+Warner
+Warren
+Washburn
+Washington
+Waterman
+Waters
+Watkins
+Watson
+Watt
+Watters
+Watts
+Waugh
+Way
+Wayne
+Weatherford
+Weathers
+Weaver
+Webb
+Webber
+Weber
+Webster
+Weeks
+Weems
+Weinberg
+Weiner
+Weinstein
+Weir
+Weis
+Weiss
+Welch
+Weldon
+Weller
+Wellman
+Wells
+Welsh
+Wendt
+Wentworth
+Wentz
+Wenzel
+Werner
+Wertz
+Wesley
+West
+Westbrook
+Westfall
+Westmoreland
+Weston
+Wetzel
+Whalen
+Whaley
+Wharton
+Whatley
+Wheat
+Wheatley
+Wheaton
+Wheeler
+Whelan
+Whipple
+Whitaker
+White
+Whitehead
+Whiteman
+Whiteside
+Whitfield
+Whiting
+Whitley
+Whitlock
+Whitlow
+Whitman
+Whitmore
+Whitney
+Whitson
+Whitt
+Whittaker
+Whitten
+Whittington
+Whitworth
+Wick
+Wicker
+Wickham
+Wicks
+Wiggins
+Wilbanks
+Wilber
+Wilbur
+Wilburn
+Wilcox
+Wild
+Wilde
+Wilder
+Wiles
+Wiley
+Wilhelm
+Wilke
+Wilkerson
+Wilkes
+Wilkins
+Wilkinson
+Wilks
+Will
+Willard
+Willett
+Willey
+William
+Williams
+Williamson
+Willingham
+Willis
+Willoughby
+Wills
+Wilson
+Winchester
+Windham
+Windsor
+Winfield
+Winfrey
+Wing
+Wingate
+Wingfield
+Winkler
+Winn
+Winslow
+Winstead
+Winston
+Winter
+Winters
+Wise
+Wiseman
+Wisniewski
+Witcher
+Withers
+Witherspoon
+Withrow
+Witt
+Witte
+Witwer
+Wolf
+Wolfe
+Wolff
+Wolford
+Womack
+Wong
+Woo
+Wood
+Woodall
+Woodard
+Woodcock
+Wooden
+Woodley
+Woodruff
+Woods
+Woodson
+Woodward
+Woodworth
+Woody
+Wooten
+Workman
+Worley
+Worrell
+Worth
+Worthington
+Worthy
+Wray
+Wren
+Wright
+Wu
+Wyatt
+Wylie
+Wyman
+Wynn
+Wynne
 --------------------------------------------------------------------------------x
-Xiong "Сюн",
+Xiong
 --------------------------------------------------------------------------------Y
-Yamamoto "Ямамото",
-Yancey "Янси",
-Yanez "Янез",
-Yang "Янг",
-Yao "Яо",
-Yarborough "Ярборо",
-Yates "Йейтс",
-Ybarra "Ибарра",
-Yeager "Йигер",
-Yee "Йи",
-Yi "Йи",
-Yoder "Йодер",
-Yoon "Юн",
-York "Йорк",
-Yost "Йост",
-Young "Янг",
-Youngblood "Янгблад",
-Younger "Янгер",
-Yu "Йу",
+Yamamoto
+Yancey
+Yanez
+Yang
+Yao
+Yarborough
+Yates
+Ybarra
+Yeager
+Yee
+Yi
+Yoder
+Yoon
+York
+Yost
+Young
+Youngblood
+Younger
+Yu
 --------------------------------------------------------------------------------Z
-Zamora "Замора",
-Zapata "Сапата",
-Zaragoza "Сарагоса",
-Zarek "Зарек",
-Zavala "Завала",
-Zeller "Зеллер",
-Zepeda "Сепеда",
-Zhang "Чжан",
-Ziegler "Зиглер",
-Zielinski "Зелински",
-Zimmer "Циммер",
-Zimmerman "Циммерман",
-Zuniga "Зунига",
+Zamora
+Zapata
+Zaragoza
+Zarek
+Zavala
+Zeller
+Zepeda
+Zhang
+Ziegler
+Zielinski
+Zimmer
+Zimmerman
+Zuniga
 
 
 }
