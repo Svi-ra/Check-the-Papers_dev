@@ -15,12 +15,26 @@ function CheckPaperPlayAction:update()
     if self.paperUI and self.paperUI.quitting then
         self:forceStop()
     end
+
+    local now = getTimestampMs()
+    if not self.lastTick then self.lastTick = now end
+
+    if now - self.lastTick >= 5000 then
+        self.lastTick = now
+
+        local bodyDamage = self.character:getBodyDamage()
+        local stats = self.character:getStats()
+
+        bodyDamage:setBoredomLevel(math.max(0, bodyDamage:getBoredomLevel() - 0.2))
+        bodyDamage:setUnhappynessLevel(math.max(0, bodyDamage:getUnhappynessLevel() - 0.5))
+        stats:setStress(math.max(0, stats:getStress() - 0.02))
+    end
 end
 
 function CheckPaperPlayAction:start()
     self.oldPrimary = self.character:getPrimaryHandItem()
     self.oldSecondary = self.character:getSecondaryHandItem()
-    self.character:playSound("OpenMagazine")
+    self.character:playSound("OpenWallet")
 
     self:setActionAnim("Read")
     self:setAnimVariable("ReadType", "newspaper")
@@ -76,7 +90,7 @@ function CheckPaperPlayAction:stop()
     self.character:setPrimaryHandItem(self.oldPrimary)
     self.character:setSecondaryHandItem(self.oldSecondary)
 
-    self.character:playSound("CloseMagazine")
+    self.character:playSound("CloseWallet")
     ISBaseTimedAction.stop(self)
 end
 

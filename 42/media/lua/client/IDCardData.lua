@@ -81,12 +81,12 @@ function IDCardData:getHeadTexture(sex)
     if sex == "F" then
         -- Female-1.png à Female-3.png
         local index = ZombRand(1, 6) -- 1 à 3 inclus
-        fileName = "Female-" .. index .. ".png"
+        fileName = "female-" .. index .. ".png"
         path = path .. "female/"
     else
         -- Male-1.png à Male-4.png
-        local index = ZombRand(1, 5) -- 1 à 4 inclus
-        fileName = "Male-" .. index .. ".png"
+        local index = ZombRand(1, 34) -- 1 à 4 inclus
+        fileName = "male-" .. index .. ".png"
         path = path .. "male/"
     end
 

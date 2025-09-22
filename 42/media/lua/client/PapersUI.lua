@@ -92,8 +92,8 @@ function PaperUI:render()
     if self.headTexture then
         local x = 562
         local y = 185
-        local width = 461
-        local height = 459
+        local width = 460
+        local height = 458
         self:drawTextureScaled(self.headTexture, x, y, width, height, 1.0)
     end
 end
