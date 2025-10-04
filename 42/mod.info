@@ -1,7 +1,4 @@
 name=Check-the-Papers_dev
-id=CheckThePapersDev
-versionMin=42
-modversion=0.1
-poster=
-description=
-author=
+id=CheckthePapersdev
+description=This is an example mod containing two maps.
+poster=poster.png
