@@ -13,7 +13,7 @@ local function onFillInventoryObjectContextMenu(player, context, items)
         if item:getFullType() == "Base.IDcard"
             or item:getFullType() == "Base.IDcard_Female"
             or item:getFullType() == "Base.IDcard_Male" then
-            context:addOption("Show ID card", item, function(_, itemRef)
+            context:addOption("Inspect", item, function(_, itemRef)
                 local playerObj = getSpecificPlayer(player)
                 CheckPaperPlayAction.transferIfNeeded(playerObj, item)
                 ISTimedActionQueue.add(CheckPaperPlayAction:new(playerObj, item))

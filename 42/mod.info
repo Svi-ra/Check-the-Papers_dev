@@ -1,7 +1,7 @@
 name=Check the Papers
-id=CheckThePapers
-versionMin=42.0.0
+id=CheckThePapersDev
+versionMin=42
 modversion=0.1
 poster=poster.png
 description=
-author=svi_ra
+author=
