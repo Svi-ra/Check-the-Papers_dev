@@ -12,6 +12,7 @@ local function onFillInventoryObjectContextMenu(player, context, items)
         end
         if item:getFullType() == "Base.IDcard"
             or item:getFullType() == "Base.IDcard_Female"
+            or item:getFullType() == "Base.CreditCard"
             or item:getFullType() == "Base.IDcard_Male" then
             context:addOption("Inspect", item, function(_, itemRef)
                 local playerObj = getSpecificPlayer(player)
